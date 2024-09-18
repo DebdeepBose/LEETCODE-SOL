@@ -8,8 +8,7 @@ public:
                 sum += rem;
                 n /= 10;
             }
-            string t = to_string(sum);
-            if (t.length() == 1) {
+            if (sum < 10) {
                 return sum;
             } else {
                 n = sum;
