@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0283-move-zeroes) |
 | [0830-largest-triangle-area](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0830-largest-triangle-area) |
+| [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0001-two-sum) |
 | [0409-longest-palindrome](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0409-longest-palindrome) |
+| [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
 ## Math
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0283-move-zeroes) |
+## Counting
+|  |
+| ------- |
+| [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
 <!---LeetCode Topics End-->
