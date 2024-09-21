@@ -1,14 +1,21 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& v) {
-        int n = v.size();
-        int idx = 0;
-        for (int i = 0; i < n; i++) {
-            if (i < 2 || v[idx - 2] != v[i]) {
-                v[idx] = v[i];
-                idx++;
+        map<int, int> mp;
+        for (auto e : v) {
+            mp[e]++;
+        }
+        v.clear();
+        for (auto e : mp) {
+            if (e.second <= 2) {
+                while (e.second--) {
+                    v.push_back(e.first);
+                }
+            } else {
+                v.push_back(e.first);
+                v.push_back(e.first);
             }
         }
-        return idx;
+        return v.size();
     }
 };
