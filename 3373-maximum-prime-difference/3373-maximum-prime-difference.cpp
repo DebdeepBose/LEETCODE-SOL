@@ -14,22 +14,20 @@ public:
     }
 
     int maximumPrimeDifference(vector<int>& v) {
+        int n = v.size();
         vector<bool> p = sieve(101);
-        int firstPrime = -1, lastPrime = -1;
-
-        for (int i = 0; i < v.size(); i++) {
-            if (p[v[i]]) {
-                if (firstPrime == -1) {
-                    firstPrime = i;
+        int ans = 0;
+        int firstP = -1, j = 0;
+        while (j < n) {
+            if (p[v[j]]) {
+                if (firstP != -1) {
+                    ans = j - firstP;
+                } else {
+                    firstP = j;
                 }
-                lastPrime = i;
             }
+            j++;
         }
-
-        if (firstPrime == -1 || lastPrime == -1) {
-            return 0;
-        }
-
-        return lastPrime - firstPrime;
+        return ans;
     }
 };
