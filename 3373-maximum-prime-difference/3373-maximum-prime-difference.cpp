@@ -1,32 +1,31 @@
 class Solution {
 public:
-    bool isprime(int x) {
-        if (x <= 1) {
-            return false;
-        } else {
-            for (int i = 2; i <= sqrt(x); i++) {
-                if (x % i == 0) {
-                    return false;
+    vector<bool> sieve(int n) {
+        vector<bool> p(n + 1, true);
+        p[0] = p[1] = false;
+        for (int i = 2; i * i <= n; i++) {
+            if (p[i]) {
+                for (int j = i * i; j <= n; j += i) {
+                    p[j] = false;
                 }
             }
         }
-        return true;
+        return p;
     }
-
-public:
     int maximumPrimeDifference(vector<int>& v) {
         int n = v.size();
+        vector<bool> p = sieve(101);
         int i = 0;
         int j = n - 1;
-        int maxlen = 0;
+
         while (i < j) {
-            if (isprime(v[i]) && isprime(v[j])) {
+            if (p[v[i]] && p[v[j]]) {
                 return j - i;
-            } else if (isprime(v[i]) && !isprime(v[j])) {
+            } else if (p[v[i]]) {
                 j--;
-            } else if (!isprime(v[i]) && isprime(v[j])) {
+            } else if (p[v[j]]) {
                 i++;
-            } else if (!isprime(v[i]) && !isprime(v[j])) {
+            } else {
                 i++;
                 j--;
             }
