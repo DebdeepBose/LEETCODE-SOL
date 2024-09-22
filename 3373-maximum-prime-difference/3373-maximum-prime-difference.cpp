@@ -12,24 +12,24 @@ public:
         }
         return p;
     }
-    int maximumPrimeDifference(vector<int>& v) {
-        int n = v.size();
-        vector<bool> p = sieve(101);
-        int i = 0;
-        int j = n - 1;
 
-        while (i < j) {
-            if (p[v[i]] && p[v[j]]) {
-                return j - i;
-            } else if (p[v[i]]) {
-                j--;
-            } else if (p[v[j]]) {
-                i++;
-            } else {
-                i++;
-                j--;
+    int maximumPrimeDifference(vector<int>& v) {
+        vector<bool> p = sieve(101);
+        int firstPrime = -1, lastPrime = -1;
+
+        for (int i = 0; i < v.size(); i++) {
+            if (p[v[i]]) {
+                if (firstPrime == -1) {
+                    firstPrime = i;
+                }
+                lastPrime = i;
             }
         }
-        return 0;
+
+        if (firstPrime == -1 || lastPrime == -1) {
+            return 0;
+        }
+
+        return lastPrime - firstPrime;
     }
 };
