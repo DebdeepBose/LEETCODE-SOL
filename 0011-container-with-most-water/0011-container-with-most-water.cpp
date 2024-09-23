@@ -19,10 +19,7 @@ public:
             maxvol = max(maxvol, vol);
             if (v[i] < v[j]) {
                 i++;
-            } else if (v[j] < v[i]) {
-                j--;
             } else {
-                i++;
                 j--;
             }
         }
