@@ -1,6 +1,9 @@
 class Solution {
 public:
     int maxArea(vector<int>& v) {
+        ios_base::sync_with_stdio(false);
+        cout.tie(nullptr);
+        cin.tie(nullptr);
         int n = v.size();
         if (n == 2) {
             return min(v[0], v[1]);
