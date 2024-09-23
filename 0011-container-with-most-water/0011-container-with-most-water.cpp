@@ -16,7 +16,7 @@ public:
         }
         int i = 0;
         int j = n - 1;
-        int vol, maxvol = INT_MIN;
+        int vol, maxvol = 0;
         while (i < j) {
             vol = (j - i) * min(v[i], v[j]);
             maxvol = max(maxvol, vol);
