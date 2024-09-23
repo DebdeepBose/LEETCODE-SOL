@@ -15,7 +15,7 @@ public:
                 i++;
             } else if (v[j] < v[i]) {
                 j--;
-            } else if (v[i] == v[j]) {
+            } else {
                 i++;
                 j--;
             }
