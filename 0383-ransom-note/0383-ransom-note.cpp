@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool canConstruct(string s, string r) {
-        unordered_map<char, int> mp;
+        vector<char> mp(128, 0);
         for (auto e : r) {
             mp[e]++;
         }
