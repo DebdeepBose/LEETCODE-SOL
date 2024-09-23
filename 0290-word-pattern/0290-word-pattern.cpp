@@ -1,6 +1,3 @@
-#include <string>
-#include <unordered_map>
-
 class Solution {
 public:
     bool wordPattern(string s, string r) {
