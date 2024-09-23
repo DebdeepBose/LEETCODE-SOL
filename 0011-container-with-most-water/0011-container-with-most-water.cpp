@@ -5,6 +5,12 @@ public:
         if (n == 2) {
             return min(v[0], v[1]);
         }
+        if (n == 3) {
+            int f = min(v[0], v[1]);
+            int s = min(v[1], v[2]);
+            int t = 2 * min(v[0], v[2]);
+            return max({f, s, t});
+        }
         int i = 0;
         int j = n - 1;
         int vol, maxvol = INT_MIN;
