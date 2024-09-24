@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0830-largest-triangle-area](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0830-largest-triangle-area) |
 | [0941-sort-array-by-parity](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0941-sort-array-by-parity) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
 | [3373-maximum-prime-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3373-maximum-prime-difference) |
 ## Hash Table
@@ -93,4 +94,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
