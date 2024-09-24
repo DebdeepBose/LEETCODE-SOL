@@ -1,20 +1,15 @@
 class Solution {
 public:
     vector<int> intersect(vector<int>& u, vector<int>& v) {
-        sort(u.begin(), u.end());
-        sort(v.begin(), v.end());
+        unordered_map<int, int> mp;
         vector<int> ans;
-        int i = 0;
-        int j = 0;
-        while (i < u.size() && j < v.size()) {
-            if (u[i] == v[j]) {
-                ans.push_back(u[i]);
-                i++;
-                j++;
-            } else if (u[i] < v[j]) {
-                i++;
-            } else {
-                j++;
+        for (auto e : u) {
+            mp[e]++;
+        }
+        for (auto e : v) {
+            if (mp[e] > 0) {
+                mp[e]--;
+                ans.push_back(e);
             }
         }
         return ans;
