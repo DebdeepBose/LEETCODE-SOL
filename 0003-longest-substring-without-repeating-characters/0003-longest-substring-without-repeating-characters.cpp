@@ -4,15 +4,16 @@ public:
         int n = s.length();
         int left = 0;
         int maxlen = 0;
-        unordered_set<char> st;
+        unordered_map<char, int> mp;
+
         for (int right = 0; right < n; right++) {
-            while (st.find(s[right]) != st.end()) {
-                st.erase(s[left]);
-                left++;
+            if (mp.find(s[right]) != mp.end()) {
+                left = max(left, mp[s[right]] + 1);
             }
-            st.insert(s[right]);
+            mp[s[right]] = right;
             maxlen = max(right - left + 1, maxlen);
         }
+
         return maxlen;
     }
 };
