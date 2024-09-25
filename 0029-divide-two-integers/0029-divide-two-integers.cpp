@@ -1,7 +1,7 @@
 class Solution {
 public:
     int divide(int div, int dis) {
-        long long low = 0;
+        long long low = 1;
         long long high = abs(div);
         long long ans = 0;
         if (div == INT_MIN && dis == -1) {
