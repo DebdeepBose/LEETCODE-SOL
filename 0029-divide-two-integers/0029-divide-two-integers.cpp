@@ -1,9 +1,9 @@
 class Solution {
 public:
     int divide(int dividend, int divisor) {
-        long long low = 1;
+        long long low = 0;
         long long high = abs(dividend);
-        long long ans = 0;
+        long long ans;
         if (dividend == INT_MIN && divisor == -1) {
             return INT_MAX;
         }
