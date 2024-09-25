@@ -10,6 +10,6 @@ public:
             right--;
             maxsum = max(maxsum, leftsum);
         }
-        return leftsum;
+        return maxsum;
     }
 };
