@@ -1,20 +1,15 @@
 class Solution {
 public:
     int maxScore(vector<int>& v, int k) {
-        int lsum = 0;
+        int leftsum = accumulate(v.begin(), v.begin() + k, 0);
+        int maxsum = leftsum;
+        int right = v.size() - 1;
         for (int i = 0; i < k; i++) {
-            lsum += v[i];
+            leftsum -= v[k - i - 1];
+            leftsum += v[right];
+            right--;
+            maxsum = max(maxsum, leftsum);
         }
-        int maxsum = lsum;
-        int r = v.size() - 1;
-
-        for (int i = k-1; i >= 0; i--) {
-            lsum -= v[i];
-            lsum += v[r];
-            r--;
-            maxsum = max(maxsum, lsum);
-        }
-        
-        return maxsum;
+        return leftsum;
     }
 };
