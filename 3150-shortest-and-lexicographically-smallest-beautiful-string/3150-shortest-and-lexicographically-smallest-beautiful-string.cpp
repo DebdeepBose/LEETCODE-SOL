@@ -4,16 +4,15 @@ public:
         int l = 0, r = 0;
         int n = s.size();
         vector<string> v;
-        int count = 0;
+        int c = 0;
         int minlen = INT_MAX;
 
         while (r < n) {
             if (s[r] == '1') {
-                count++;
+                c++;
             }
-            
-            while (count >= k) {
-                if (count == k) {
+            while (c >= k) {
+                if (c == k) {
                     int currlen = r - l + 1;
                     if (currlen <= minlen) {
                         if (currlen < minlen) {
@@ -24,7 +23,7 @@ public:
                     }
                 }
                 if (s[l] == '1') {
-                    count--;
+                    c--;
                 }
                 l++;
             }
@@ -34,7 +33,7 @@ public:
         if (v.empty()) {
             return "";
         }
-        
+
         sort(v.begin(), v.end());
         return v.front();
     }
