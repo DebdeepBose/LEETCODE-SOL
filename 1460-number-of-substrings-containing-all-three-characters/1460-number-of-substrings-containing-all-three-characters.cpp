@@ -1,21 +1,13 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int l = 0;
-        int r = 0;
-        int subs = 0;
-        int n = size(s);
-        unordered_map<char, int> mp;
-
-        while (r < n) {
-            mp[s[r]]++;
-            while (mp['a'] >= 1 && mp['b'] >= 1 && mp['c'] >= 1) {
-                subs += (n - r);
-                mp[s[l]]--;
-                l++;
-            }
-            r++;
+        vector<int> v(3, -1);
+        int ans = 0;
+        int n = s.size();
+        for (int i = 0; i < n; i++) {
+            v[s[i] - 'a'] = i;
+            ans += min({v[0], v[1], v[2]}) + 1;
         }
-        return subs;
+        return ans;
     }
 };
