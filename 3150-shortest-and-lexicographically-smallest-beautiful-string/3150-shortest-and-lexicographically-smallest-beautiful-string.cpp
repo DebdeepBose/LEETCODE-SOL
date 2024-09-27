@@ -4,14 +4,16 @@ public:
         int l = 0, r = 0;
         int n = s.size();
         vector<string> v;
-        unordered_map<char, int> mp;
-        int minlen = numeric_limits<int>::max();
+        int count = 0;
+        int minlen = INT_MAX;
 
         while (r < n) {
-            mp[s[r]]++;
+            if (s[r] == '1') {
+                count++;
+            }
             
-            while (mp['1'] >= k) {
-                if (mp['1'] == k) {
+            while (count >= k) {
+                if (count == k) {
                     int currlen = r - l + 1;
                     if (currlen <= minlen) {
                         if (currlen < minlen) {
@@ -21,9 +23,8 @@ public:
                         v.push_back(s.substr(l, currlen));
                     }
                 }
-                mp[s[l]]--;
-                if (mp[s[l]] == 0) {
-                    mp.erase(s[l]);
+                if (s[l] == '1') {
+                    count--;
                 }
                 l++;
             }
