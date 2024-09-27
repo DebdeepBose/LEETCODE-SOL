@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0409-longest-palindrome) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
 ## Math
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0409-longest-palindrome) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Prefix Sum
