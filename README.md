@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0485-max-consecutive-ones) |
 | [0830-largest-triangle-area](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0830-largest-triangle-area) |
 | [0941-sort-array-by-parity](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0941-sort-array-by-parity) |
+| [0966-binary-subarrays-with-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
 ## Math
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
