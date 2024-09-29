@@ -1,32 +1,26 @@
 class Solution {
 public:
-    bool isodd(int n) { return n % 2 == 1; }
-    int numberOfSubarrays(vector<int>& v, int goal) {
-        int left = 0, right = 0, count = 0, oddcnt = 0;
+    int numberOfSubarrays(vector<int>& v, int k) {
         int n = v.size();
-        while (right < n) {
+        int l = 0, r = 0, ssum = 0, res = 0;
 
-            if (isodd(v[right])) {
-                oddcnt++;
+        while (r < n) {
+            ssum += (v[r] % 2);
+
+            while (ssum > k) {
+                ssum -= (v[l] % 2);
+                l++;
             }
 
-            while (oddcnt > goal) {
-                if (isodd(v[left])) {
-                    oddcnt--;
-                }
-                left++;
-            }
-
-            if (oddcnt == goal) {
-                int tmpl = left;
-                while (tmpl < n && !isodd(v[tmpl])) {
-                    count++;
+            if (ssum == k) {
+                int tmpl = l;
+                while (tmpl <= r && v[tmpl] % 2 == 0) {
                     tmpl++;
                 }
-                count++;
+                res += (tmpl - l + 1);
             }
-            right++;
+            r++;
         }
-        return count;
+        return res;
     }
 };
