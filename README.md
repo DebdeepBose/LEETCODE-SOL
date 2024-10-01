@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0029-divide-two-integers) |
 | [0258-add-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0179-largest-number) |
