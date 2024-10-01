@@ -1,29 +1,34 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        unordered_map<char,int> mp;
-        for(auto e : t) {
+        unordered_map<char, int> mp;
+        for (auto e : t) {
             mp[e]++;
         }
-        
-        int l = 0, r = 0, minLen = INT_MAX, start = 0, count = t.size();
-        
-        while (r < s.size()) {
-            if (mp[s[r]] > 0) count--;
+        int l = 0;
+        int r = 0;
+        int n = s.size();
+        int mini = INT_MAX;
+        int c = 0;      // Dats required k?
+        int stidx = -1; // starting substr index :)
+        while (r < n) {
+            if (mp[s[r]] > 0) {
+                c++;
+            }
             mp[s[r]]--;
-            r++;
-            
-            while (count == 0) {
-                if (r - l < minLen) {
-                    minLen = r - l;
-                    start = l;
+            while (c == t.size()) {
+                if (r - l + 1 < mini) {
+                    mini = r - l + 1;
+                    stidx = l;
                 }
                 mp[s[l]]++;
-                if (mp[s[l]] > 0) count++;
+                if (mp[s[l]] > 0) {
+                    c--;
+                }
                 l++;
             }
+            r++;
         }
-        
-        return minLen == INT_MAX ? "" : s.substr(start, minLen);
+        return stidx == -1 ? "" : s.substr(stidx, mini);
     }
 };
