@@ -5,7 +5,7 @@ public:
         int r = 0;
         int n = v.size();
         double s = 0;
-        double avg, maxavg = -9999999.00000;
+        double avg, maxavg = -DBL_MAX;
         while (r < n) {
             s += v[r];
             if (r - l + 1 == k) {
