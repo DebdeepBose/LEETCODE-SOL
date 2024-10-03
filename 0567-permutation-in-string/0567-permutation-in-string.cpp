@@ -1,32 +1,29 @@
 class Solution {
 public:
-    bool checkInclusion(string s1, string s2) {
-        unordered_map<char, int> mpp;
-        unordered_map<char, int> mp;
-        for (auto e : s1) {
-            mpp[e]++;
+    bool checkInclusion(string f, string s) {
+        unordered_map<char, int> mp1;
+        unordered_map<char, int> mp2;
+        for (char ch : f) {
+            mp1[ch]++;
         }
-
         int l = 0;
         int r = 0;
-        int n = s2.size();
-
+        int n = s.size();
         while (r < n) {
-            mp[s2[r]]++;
-
-            if (r - l + 1 == s1.size()) {
-                if (mp == mpp) {
+            mp2[s[r]]++;
+            if (r - l + 1 == f.size()) {
+                if (mp1 == mp2) {
                     return true;
+                } else {
+                    mp2[s[l]]--;
+                    if (mp2[s[l]] == 0) {
+                        mp2.erase(s[l]);
+                    }
+                    l++;
                 }
-                mp[s2[l]]--;
-                if (mp[s2[l]] == 0) {
-                    mp.erase(s2[l]);
-                }
-                l++;
             }
             r++;
         }
-
         return false;
     }
 };
