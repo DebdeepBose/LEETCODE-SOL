@@ -7,12 +7,11 @@ public:
         for (char ch : f) {
             mp1[ch - 'a']++;
         }
-
         int l = 0;
         int n = s.size();
-        for (int r = 0; r < n; r++) {
+        int r = 0;
+        while (r < n) {
             mp2[s[r] - 'a']++;
-
             if (r - l + 1 == f.size()) {
                 if (mp1 == mp2) {
                     return true;
@@ -21,8 +20,8 @@ public:
                     l++;
                 }
             }
+            r++;
         }
-        
         return false;
     }
 };
