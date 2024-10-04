@@ -1,30 +1,32 @@
 class Solution {
 public:
     long long dividePlayers(vector<int>& v) {
-        sort(v.begin(), v.end());
+        unordered_map<int, int> mp;
         int n = v.size();
-        int i = 0;
-        int j = n - 1;
-        int prevsum = 0;
-        vector<int> s;
-        vector<long long> p;
-        while (i < j) {
-            int sum = v[i] + v[j];
-            long long prod = v[i] * v[j];
-            s.push_back(sum);
-            p.push_back(prod);
-            i++;
-            j--;
+        int vsum = accumulate(v.begin(), v.end(), 0);
+        long long partsum = vsum / (n / 2);
+
+        if (partsum * (n / 2) != vsum) {
+            return -1;
         }
-        for (int i = 0; i < s.size() - 1; i++) {
-            if (s[i] != s[i + 1]) {
+
+        long long prodsum = 0;
+        for (int i = 0; i < n; i++) {
+            int req = partsum - v[i];
+            if (mp[req] > 0) {
+                prodsum += req * v[i];
+                mp[req]--;
+            } else {
+                mp[v[i]]++;
+            }
+        }
+
+        for (auto e : mp) {
+            if (e.second > 0) {
                 return -1;
             }
         }
-        long long psum = 0;
-        for (auto e : p) {
-            psum += e;
-        }
-        return psum;
+
+        return prodsum;
     }
 };
