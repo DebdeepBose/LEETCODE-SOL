@@ -6,7 +6,6 @@ public:
         int n = s.size();
         int maxv = 0;
         unordered_map<char, int> mp;
-        
         while (r < n) {
             mp[s[r]]++;
             if (r - l + 1 == k) {
