@@ -7,7 +7,7 @@ public:
         long long maxSum = 0, sum = 0;
 
         for (int r = 0; r < n; r++) {
-            while (s.count(v[r])) {
+            while (s.count(v[r])>0) {
                 s.erase(v[l]);
                 sum -= v[l];
                 l++;
