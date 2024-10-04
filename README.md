@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0567-permutation-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1764-maximum-repeating-substring](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1764-maximum-repeating-substring) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3540-hash-divided-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3540-hash-divided-string) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Prefix Sum
