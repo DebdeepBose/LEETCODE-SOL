@@ -5,16 +5,14 @@ public:
         int r = 0;
         int n = s.size();
         int maxv = 0;
-        unordered_map<char, int> mp;
+        vector<int> mp(26, 0);
         while (r < n) {
-            mp[s[r]]++;
+            mp[s[r] - 'a']++;
             if (r - l + 1 == k) {
-                int v = mp['a'] + mp['e'] + mp['i'] + mp['o'] + mp['u'];
+                int v = mp['a' - 'a'] + mp['e' - 'a'] + mp['i' - 'a'] +
+                        mp['o' - 'a'] + mp['u' - 'a'];
                 maxv = max(maxv, v);
-                mp[s[l]]--;
-                if (mp[s[l]] == 0) {
-                    mp.erase(s[l]);
-                }
+                mp[s[l] - 'a']--;
                 l++;
             }
             r++;
