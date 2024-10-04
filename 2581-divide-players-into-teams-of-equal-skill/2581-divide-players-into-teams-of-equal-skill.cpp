@@ -1,9 +1,6 @@
 class Solution {
 public:
     long long dividePlayers(vector<int>& v) {
-        ios::sync_with_stdio(false);
-        cin.tie(nullptr);
-        cout.tie(nullptr);
         unordered_map<int, int> mp;
         int n = v.size();
         int vsum = accumulate(v.begin(), v.end(), 0);
