@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
+       ios_base::sync_with_stdio(false);
+        cout.tie(nullptr);
+        cin.tie(nullptr);
         vector<int> ans;
         vector<int> mpp(26, 0), mp(26, 0);
         int l = 0, r = 0, n = s.size();
