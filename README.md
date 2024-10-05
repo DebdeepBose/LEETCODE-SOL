@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0011-container-with-most-water) |
+| [0041-first-missing-positive](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0179-largest-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0179-largest-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0350-intersection-of-two-arrays-ii) |
