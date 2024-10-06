@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0225-implement-stack-using-queues) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0231-power-of-two) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
