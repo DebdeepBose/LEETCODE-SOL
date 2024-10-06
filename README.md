@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0739-daily-temperatures) |
 | [0830-largest-triangle-area](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0830-largest-triangle-area) |
@@ -241,11 +242,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0225-implement-stack-using-queues) |
+| [0503-next-greater-element-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
