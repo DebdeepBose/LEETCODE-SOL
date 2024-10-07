@@ -4,11 +4,10 @@ public:
         int n = s.length();
         stack<char> st;
         for (int i = 0; i < n; i++) {
-            if(!st.empty() && ((st.top()=='A' && s[i]=='B')||(st.top()=='C' && s[i]=='D')))
-            {
+            if (!st.empty() && ((st.top() == 'A' && s[i] == 'B') ||
+                                (st.top() == 'C' && s[i] == 'D'))) {
                 st.pop();
-            }
-            else{
+            } else {
                 st.push(s[i]);
             }
         }
