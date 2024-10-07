@@ -5,10 +5,11 @@ public:
         unordered_map<char, int> mp;
         for (char c : s) {
             mp[c]++;
-            if (mp[c] % 2 == 1)
+            if (mp[c] % 2 == 1) {
                 odd++;
-            else
+            } else {
                 odd--;
+            }
         }
         if (odd > 1) {
             return s.length() - odd + 1;
