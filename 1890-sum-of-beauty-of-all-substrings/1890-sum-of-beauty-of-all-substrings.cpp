@@ -1,16 +1,18 @@
 class Solution {
 public:
-    int mpmax(unordered_map<char, int>& mp) {
+    int mpmax(vector<int>& mp) {
         int mapmx = INT_MIN;
-        for (auto e : mp) {
-            mapmx = max(mapmx, e.second);
+        for (int freq : mp) {
+            mapmx = max(mapmx, freq);
         }
         return mapmx;
     }
-    int mpmin(unordered_map<char, int>& mp) {
+    int mpmin(vector<int>& mp) {
         int mapmn = INT_MAX;
-        for (auto e : mp) {
-            mapmn = min(mapmn, e.second);
+        for (int freq : mp) {
+            if (freq > 0) {
+                mapmn = min(mapmn, freq);
+            }
         }
         return mapmn;
     }
@@ -18,10 +20,10 @@ public:
         int sum = 0;
         int n = s.length();
         for (int l = 0; l < n; l++) {
-            unordered_map<char, int> mp;
+            vector<int> mp(26, 0);
             for (int r = l; r < n; r++) {
-                mp[s[r]]++;
-                if (mp.size() > 1) {
+                mp[s[r] - 'a']++;
+                if (r - l + 1 > 1) {
                     int beauty = mpmax(mp) - mpmin(mp);
                     sum += beauty;
                 }
