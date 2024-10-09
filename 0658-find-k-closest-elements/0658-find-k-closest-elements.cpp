@@ -1,16 +1,18 @@
 class Solution {
 public:
     vector<int> findClosestElements(vector<int>& v, int k, int x) {
-        list<int> ans(v.begin(), v.end());
-        
-        while (ans.size() > k) {
-            if (abs(ans.front() - x) > abs(ans.back() - x)) {
-                ans.pop_front();
+        int n = v.size();
+        int l = 0;
+        int r = n - 1;
+
+        while (r - l + 1 > k) {
+            if (abs(v[l] - x) > abs(v[r] - x)) {
+                l++;
             } else {
-                ans.pop_back();
+                r--;
             }
         }
-        
-        return vector<int>(ans.begin(), ans.end());
+
+        return vector<int>(v.begin() + l, v.begin() + r + 1);
     }
 };
