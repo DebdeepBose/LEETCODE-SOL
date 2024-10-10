@@ -1,26 +1,18 @@
 class Solution {
 public:
     bool isGood(vector<int>& v) {
-        sort(v.begin(), v.end());
-        if (v.size() != v.back() + 1) {
+        vector<int> ans(201, 0);
+        for (auto n : v) {
+            ans[n]++;
+        }
+        if (ans[v.size() - 1] != 2) {
             return false;
         }
-        unordered_map<int, int> mp;
-        for (auto e : v) {
-            mp[e]++;
-        }
-        bool f = false;
-        for (auto e : mp) {
-            if (e.first == v.back()) {
-                if (e.second == 2) {
-                    f = true;
-                }
-            } else {
-                if (e.second > 1) {
-                    return false;
-                }
+        for (int i = 1; i < v.size() - 1; i++) {
+            if (ans[i] != 1) {
+                return false;
             }
         }
-        return f;
+        return true;
     }
 };
