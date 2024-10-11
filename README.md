@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0830-largest-triangle-area](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0830-largest-triangle-area) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1370-count-number-of-nice-subarrays) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0342-power-of-four) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Sliding Window
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0342-power-of-four) |
 ## Design
 |  |
 | ------- |
