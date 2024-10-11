@@ -1,16 +1,15 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& v, int target) {
+    vector<int> twoSum(vector<int>& v, int k) {
         unordered_map<int, int> mp;
-        for (int i = 0; i < v.size(); i++) {
-            int current_element = v[i];
-            int leftover = target - current_element;
-            auto it = mp.find(leftover);
-            if (it != mp.end()) {
-                return {it->second, i};
+        int n = v.size();
+        for (int i = 0; i < n; i++) {
+            int req = k - v[i];
+            if (mp.find(req) != mp.end()) {
+                return {i, mp[req]};
             }
-            mp[current_element] = i;
+            mp[v[i]] = i;
         }
-        return {};
+        return {-1,-1};
     }
 };
