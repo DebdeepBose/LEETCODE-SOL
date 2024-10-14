@@ -3,8 +3,9 @@ public:
     // Function to calculate the total jumps
     int CalculateJumps(vector<int>& v, int n, int jumps, int lastjumpindex,
                        int coverage) {
-                        
-        for (int i = 0; i < n - 1; i++) { // Loop until the second to last index
+
+        for (int i = 0; i < n - 1; i++) { 
+            
             coverage = max(coverage, i + v[i]);
 
             // If we've reached the end of the last jump index
