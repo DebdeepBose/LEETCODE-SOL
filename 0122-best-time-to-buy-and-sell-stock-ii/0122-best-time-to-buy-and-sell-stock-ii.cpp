@@ -9,7 +9,6 @@ public:
 
             if (v[i + 1] > v[i]) {
                 profit += v[i + 1] - v[i];
-                i = i++;
             }
         }
         return profit;
