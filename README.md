@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0503-next-greater-element-ii) |
+| [0605-can-place-flowers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0713-subarray-product-less-than-k) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0605-can-place-flowers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
