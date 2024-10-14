@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0179-largest-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0179-largest-number) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0409-longest-palindrome) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0055-jump-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0954-maximum-sum-circular-subarray) |
