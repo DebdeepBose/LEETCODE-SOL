@@ -3,16 +3,16 @@ public:
     int partitionString(string s) {
         int l = 0;
         int r = 0;
-        unordered_map<char, int> mp;
+        vector<int> mp(26, 0);
         int n = s.length();
         int c = 0;
 
         while (r < n) {
-            mp[s[r]]++;
-            while (mp[s[r]] > 1) {
+            mp[s[r] - 'a']++;
+            while (mp[s[r] - 'a'] > 1) {
                 l = r;
-                mp.clear();
-                mp[s[l]]++;
+                mp.assign(26, 0);
+                mp[s[l] - 'a']++;
                 c++;
             }
             r++;
