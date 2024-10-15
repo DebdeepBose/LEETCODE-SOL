@@ -6,7 +6,7 @@ public:
         for (int i = 0; i < n; i++) {
 
             minPrice = min(minPrice, prices[i]); // We need the minimum price
-            maxProfit = max(maxProfit, prices[i] - minPrice); // This keeps in check of the maximum profit
+            maxProfit = max(maxProfit, prices[i] - minPrice); // Keeps in check the maximum profit
         
         }
 
