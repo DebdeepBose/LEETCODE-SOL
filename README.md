@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0209-minimum-size-subarray-sum) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0943-sum-of-subarray-minimums](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0943-sum-of-subarray-minimums) |
