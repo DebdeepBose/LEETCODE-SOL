@@ -7,16 +7,19 @@ public:
 
             minPrice = min(minPrice, prices[i]); // We need the minimum price
             maxProfit = max(maxProfit, prices[i] - minPrice); // Keeps in check the maximum profit
-        
         }
 
-        //Returns the maximum profit obtained
+        // Returns the maximum profit obtained
         return maxProfit;
     }
 
     int maxProfit(vector<int>& prices) {
 
-        int n = prices.size();  // The size of the prices array
+        int n = prices.size(); // The size of the prices array
+
+        if (n < 2) {
+            return 0;
+        }
         int minPrice = INT_MAX; // To keep track of the minimum cost-price
         int maxProfit = 0;      // To keep track of the maximum profit
 
