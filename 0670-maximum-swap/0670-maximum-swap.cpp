@@ -1,20 +1,23 @@
 class Solution {
 public:
-    int maximumSwap(int g) {
-        string s = to_string(g);
-        int n = s.length();
+    int maximumSwap(int num) {
+        string s = to_string(num);
+        char max_digit = '0';
+        int max_i = -1;
+        int swap_i = -1, swap_j = -1;
 
-        for (int i = 0; i < n; i++) {
-            int maxindex = i;
-            for (int j = n - 1; j > i; j--) {
-                if (s[j] > s[maxindex]) {
-                    maxindex = j;
-                }
+        for (int i = s.length() - 1; i >= 0; i--) {
+            if (s[i] > max_digit) {
+                max_digit = s[i];
+                max_i = i;
+            } else if (s[i] < max_digit) {
+                swap_i = i;
+                swap_j = max_i;
             }
-            if (s[maxindex] > s[i]) {
-                swap(s[maxindex], s[i]);
-                break;
-            }
+        }
+
+        if (swap_i != -1) {
+            swap(s[swap_i], s[swap_j]);
         }
 
         return stoi(s);
