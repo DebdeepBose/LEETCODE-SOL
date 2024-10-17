@@ -4,15 +4,15 @@ public:
         string s = to_string(g);
         int n = s.length();
 
-        for (int j = 0; j < n; j++) {
-            int maxindex = j;
-            for (int i = n - 1; i > j; i--) {
-                if (s[i] > s[maxindex]) {
-                    maxindex = i;
+        for (int i = 0; i < n; i++) {
+            int maxindex = i;
+            for (int j = n - 1; j > i; j--) {
+                if (s[j] > s[maxindex]) {
+                    maxindex = j;
                 }
             }
-            if (s[maxindex] > s[j]) {
-                swap(s[maxindex], s[j]);
+            if (s[maxindex] > s[i]) {
+                swap(s[maxindex], s[i]);
                 break;
             }
         }
