@@ -3,7 +3,6 @@ public:
     int countSubstrings(string s) {
         int n = s.length();
         int sub = 0;
-
         for (int i = 0; i < n; i++) {
             int l = i;
             int h = i;
@@ -20,7 +19,6 @@ public:
                 h++;
             }
         }
-
         return sub;
     }
 };
