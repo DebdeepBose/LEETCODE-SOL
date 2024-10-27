@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int gcd(const vector<int>& v) {
+    int gcd(vector<int>& v) {
         int vgcd = v[0];
         for (int i = 1; i < v.size(); i++) {
             vgcd = ::gcd(vgcd, v[i]);
@@ -8,7 +8,7 @@ public:
         return vgcd;
     }
 
-    long long lcm(const vector<int>& v) {
+    long long lcm(vector<int>& v) {
         long long val = v[0];
         for (int i = 1; i < v.size(); i++) {
             val = (val * v[i]) / ::gcd((long long)val, (long long)v[i]);
