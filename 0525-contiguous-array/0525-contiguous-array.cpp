@@ -16,7 +16,7 @@ public:
             if (presum == 0) {
                 maxlen = i + 1;
             } else if (mp.find(presum) != mp.end()) {
-                maxlen = std::max(maxlen, i - mp[presum]);
+                maxlen = max(maxlen, i - mp[presum]);
             } else {
                 mp[presum] = i;
             }
