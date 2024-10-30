@@ -2,26 +2,24 @@ class Solution {
 public:
     int findMaxLength(vector<int>& v) {
         int n = v.size();
-        if (n == 1) {
-            return 0;
-        }
-        int psum = 0;
-        int maxlen = 0;
-        int r = 0;
         unordered_map<int, int> mp;
-        mp[0] = -1;
-        while (r < n) {
-            if (v[r] == 0) {
-                psum--;
+        int presum = 0;
+        int maxlen = 0;
+
+        for (int i = 0; i < n; i++) {
+            if (v[i] == 0) {
+                presum--;
             } else {
-                psum++;
+                presum++;
             }
-            if (mp.find(psum) != mp.end()) {
-                maxlen = max(maxlen, r - mp[psum]);
+
+            if (presum == 0) {
+                maxlen = i + 1;
+            } else if (mp.find(presum) != mp.end()) {
+                maxlen = std::max(maxlen, i - mp[presum]);
             } else {
-                mp[psum] = r;
+                mp[presum] = i;
             }
-            r++;
         }
         return maxlen;
     }
