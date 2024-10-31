@@ -24,11 +24,9 @@ class Solution {
         if (node == null) {
             return;
         }
-        // Visit the root
+        
         result.add(node.val);
-        // Traverse left subtree
         preorderHelper(node.left, result);
-        // Traverse right subtree
         preorderHelper(node.right, result);
     }
 }
