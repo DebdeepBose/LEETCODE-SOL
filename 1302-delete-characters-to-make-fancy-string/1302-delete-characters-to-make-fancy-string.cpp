@@ -1,7 +1,7 @@
 class Solution {
 public:
     string makeFancyString(string s) {
-        string ans;
+        string ans = "";
         int c = 0;
         for (auto e : s) {
             if (!ans.empty() && ans.back() == e) {
