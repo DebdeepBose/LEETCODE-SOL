@@ -27,7 +27,8 @@ class Solution {
         }
 
         while (!st.isEmpty()) {
-            root = st.pop();
+            root = st.peek();
+            st.pop();
             v.add(root.val);
             root = root.right;
             while (root != null) {
