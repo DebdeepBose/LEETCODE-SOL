@@ -16,7 +16,7 @@
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> v = new ArrayList<>();
-        Deque<TreeNode> st = new ArrayDeque<>();
+        Stack<TreeNode> st = new Stack<>();
         while(root != null || !st.isEmpty()){
             if(root != null){
                 v.add(root.val);
