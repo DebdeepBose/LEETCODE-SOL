@@ -19,8 +19,8 @@ class Solution {
         Stack<TreeNode> st = new Stack<>();
         while(root != null || !st.isEmpty()){
             if(root != null){
-                v.add(root.val);
                 st.push(root);
+                v.add(root.val);
                 root = root.right;
             }
             else{
