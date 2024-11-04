@@ -12,7 +12,8 @@ public:
                 i++;
                 if (c >= 2) {
                     for (char ch : to_string(c)) {
-                        v[i++] = ch;
+                        v[i] = ch;
+                        i++;
                     }
                 }
                 c = 0;
