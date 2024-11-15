@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1651-shuffle-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1651-shuffle-string) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1694-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0985-bag-of-tokens) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1046-max-consecutive-ones-iii) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1002-maximum-width-ramp) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Recursion
 |  |
 | ------- |
