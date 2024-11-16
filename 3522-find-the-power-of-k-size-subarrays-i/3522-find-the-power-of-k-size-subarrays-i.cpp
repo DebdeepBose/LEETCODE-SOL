@@ -1,30 +1,23 @@
 class Solution {
 public:
     vector<int> resultsArray(vector<int>& v, int k) {
-        int n = v.size();
-        int l = 0;
-        int r = k - 1;
-        vector<int> ans;
-        while (r < n) {
-            bool flag = true;
-            for (int i = l; i <= r - 1; i++) {
-                if (v[i] >= v[i + 1] || v[i + 1] - v[i] > 1) {
-                    flag = false;
-                    break;
-                }
-            }
-            if (flag == false) {
-                ans.push_back(-1);
-            } else {
-                int maxi = INT_MIN;
-                for (int i = l; i <= r; i++) {
-                    maxi = max(maxi, v[i]);
-                }
-                ans.push_back(maxi);
-            }
-            l++;
-            r++;
+        const int n = v.size();
+        if (n == 1 || k == 1) {
+            return v;
         }
+        vector<int> ans(n - k + 1, -1);
+        int len = 1;
+        for (int r = 1; r < n; r++) {
+            if (v[r] == v[r - 1] + 1) {
+                len++;
+            } else {
+                len = 1;
+            }
+            if (len >= k) {
+                ans[r - k + 1] = v[r];
+            }
+        }
+
         return ans;
     }
 };
