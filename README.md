@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2892-check-if-array-is-good) |
 | [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
 | [3373-maximum-prime-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3373-maximum-prime-difference) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1813-maximum-erasure-value) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Prefix Sum
 |  |
