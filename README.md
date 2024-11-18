@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1651-shuffle-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1694-make-sum-divisible-by-p) |
+| [1755-defuse-the-bomb](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1813-maximum-erasure-value) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1755-defuse-the-bomb](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1813-maximum-erasure-value) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
