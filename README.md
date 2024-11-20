@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2586-longest-square-streak-in-an-array) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2892-check-if-array-is-good](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2892-check-if-array-is-good) |
 | [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-optimal-partition-of-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2487-optimal-partition-of-string) |
 | [2580-circular-sentence](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2580-circular-sentence) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1813-maximum-erasure-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
