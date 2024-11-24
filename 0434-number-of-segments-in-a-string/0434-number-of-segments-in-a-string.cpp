@@ -1,12 +1,19 @@
 class Solution {
 public:
     int countSegments(string s) {
-        stringstream ss(s);
-        vector<string> v;
-        string w;
-        while (ss >> w) {
-            v.push_back(w);
+        if (s == "") {
+            return 0;
         }
-        return v.size();
+        
+        int c = 0;
+        for (int i = 0; i < s.length(); i++) {
+            if (s[i] != ' ') {
+                if (s[i + 1] == ' ' || s[i + 1] == '\0') {
+                    c++;
+                }
+            }
+        }
+        
+        return c;
     }
 };
