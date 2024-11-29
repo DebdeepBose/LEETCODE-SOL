@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0390-elimination-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0670-maximum-swap](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0830-largest-triangle-area) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0390-elimination-game) |
 ## Design
 |  |
 | ------- |
