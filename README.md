@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2892-check-if-array-is-good](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2892-check-if-array-is-good) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Math
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3195-separate-black-and-white-balls) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3540-hash-divided-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3540-hash-divided-string) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Greedy
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1034-subarrays-with-k-different-integers) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
 ## Binary Search
 |  |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2716-prime-subtraction-operation) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3427-special-array-ii) |
 ## Bit Manipulation
 |  |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Prefix Sum
