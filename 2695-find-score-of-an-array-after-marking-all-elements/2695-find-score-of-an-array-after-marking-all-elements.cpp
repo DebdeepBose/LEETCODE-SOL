@@ -2,23 +2,22 @@ class Solution {
 public:
     long long findScore(vector<int>& v) {
         long long s = 0;
+        vector<pair<int, int>> st;
         int n = v.size();
-        set<pair<int, int>> st;
+
         for (int i = 0; i < n; i++) {
-            st.insert({v[i], i});
+            st.push_back({v[i], i + 1});
         }
+        sort(st.begin(), st.end());
+        vector<int> u(n + 2, 0);
         for (auto e : st) {
-            if (v[e.second] == 0) {
+            if (u[e.second] == 1) {
                 continue;
             }
             s += e.first;
-            v[e.second] = 0;
-            if (e.second - 1 >= 0) {
-                v[e.second - 1] = 0;
-            }
-            if (e.second + 1 < n) {
-                v[e.second + 1] = 0;
-            }
+            u[e.second] = 1;
+            u[e.second - 1] = 1;
+            u[e.second + 1] = 1;
         }
         return s;
     }
