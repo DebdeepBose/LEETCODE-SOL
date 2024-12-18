@@ -10,13 +10,10 @@ public:
             }
             if (!st.empty() && v[i] >= st.top()) {
                 ans[i] = v[i] - st.top();
-            }
-            st.push(v[i]);
-        }
-        for (int i = 0; i < n; i++) {
-            if (ans[i] == -1) {
+            } else {
                 ans[i] = v[i];
             }
+            st.push(v[i]);
         }
         return ans;
     }
