@@ -12,12 +12,12 @@ public:
         int n = stoi(r);
         int c = 0;
         bool leap = false;
-        if (n % 4 == 0 && n % 400 == 0) {
+        unordered_set<int> yr = {1904, 1908, 1912, 1916, 1920, 1924, 1928, 1932,
+                                 1936, 1940, 1944, 1948, 1952, 1956, 1960, 1964,
+                                 1968, 1972, 1976, 1980, 1984, 1988, 1992, 1996,
+                                 2000, 2004, 2008, 2012, 2016, 2020, 2024};
+        if (yr.find(n) != yr.end()) {
             leap = true;
-        } else if (n % 4 == 0 && n % 400 != 0) {
-            if (n % 100 != 0) {
-                leap = true;
-            }
         }
         int day = stoi(s.substr(8, 2));
         int mon = stoi(s.substr(5, 2));
