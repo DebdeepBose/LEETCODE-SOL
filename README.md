@@ -716,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1153-product-sales-analysis-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1801-average-time-of-process-per-machine](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1908-recyclable-and-low-fat-products) |
 ## Backtracking
