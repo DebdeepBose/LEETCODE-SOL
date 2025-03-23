@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1813-maximum-erasure-value) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1927-maximum-ascending-subarray-sum) |
