@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0135-candy) |
 | [0164-maximum-gap](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0287-find-the-duplicate-number) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0258-add-digits) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0350-intersection-of-two-arrays-ii) |
