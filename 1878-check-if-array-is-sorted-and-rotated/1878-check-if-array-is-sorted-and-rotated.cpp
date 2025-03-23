@@ -1,22 +1,24 @@
 class Solution {
 public:
-    bool check(vector<int>& v) {
-        int c = 0;
-        for (int i = 1; i < v.size(); i++) {
-            if (v[i] < v[i-1]) {
-                c++;
+    bool check(vector<int>& nums) {
+
+        // Storing the array size and initializing a varibale tp store dips
+        int size = nums.size();
+        int dips = 0;
+
+        // Run a loop to check the number of dips
+        for (int i = 1; i < size; i++) {
+            if (nums[i - 1] > nums[i]) {
+                dips++;
             }
         }
 
-        if(c==0){
-            return true;
+        // Accounting for edge case
+        if (nums.back() > nums[0]) {
+            dips++;
         }
 
-
-        if (v.back() <= v[0] && c == 1) {
-            return true;
-        } else {
-            return false;
-        }
+        // Returning true if dips<=1 else false
+        return dips <= 1;
     }
 };
