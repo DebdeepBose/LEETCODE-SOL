@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0189-rotate-array) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0268-missing-number) |
