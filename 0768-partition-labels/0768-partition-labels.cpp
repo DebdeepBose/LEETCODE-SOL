@@ -2,24 +2,42 @@ class Solution {
 public:
     vector<int> partitionLabels(string s) {
 
-        int n = s.size();
+        //Taking the length of the string
+        int n = s.size(); 
 
-        unordered_map<char, int> mp;
+        // Store last occurrence of each character
+        unordered_map<char, int> mp; 
+
         for (int i = 0; i < n; i++) {
             mp[s[i]] = i;
         }
 
-        int prev = -1;
-        int maxi = 0;
+        // Previous partition end
+        int prev = -1; 
+
+        // Max last occurrence in current partition
+        int maxi = 0; 
+
+         // Stores partition sizes
         vector<int> ans;
 
         for (int i = 0; i < n; i++) {
-            maxi = max(maxi, mp[s[i]]);
-            if (maxi == i) {
+
+            // Update max last occurrence
+            maxi = max(maxi, mp[s[i]]); 
+            
+            // If end of partition reached
+            if (maxi == i) { 
+
+                // Store partition size
                 ans.push_back(maxi - prev);
-                prev = maxi;
+
+                // Update previous partition end 
+                prev = maxi; 
             }
         }
-        return ans;
+
+        //Return the vector
+        return ans; 
     }
 };
