@@ -1,17 +1,28 @@
 class Solution {
 public:
-    vector<int> rearrangeArray(vector<int>& v) {
-        int l = 0;
-        int n = v.size();
-        int r = 1;
-        vector<int> ans(n, 0);
-        for (int i = 0; i < n; i++) {
-            if (v[i] < 0) {
-                ans[r] = v[i];
-                r += 2;
-            } else if (v[i] > 0) {
-                ans[l] = v[i];
-                l += 2;
+    vector<int> rearrangeArray(vector<int>& nums) {
+
+        // Storing length of the array
+        int len = nums.size();
+
+        // Initializing result vector with the same size
+        vector<int> ans(len);
+
+        // Initializing pointers: even index for positive numbers, odd index for negative numbers
+        int positive_ptr = 0;
+        int negative_ptr = 1;
+
+        for (int i = 0; i < len; i++) {
+            if (nums[i] > 0) {
+                ans[positive_ptr] = nums[i];
+
+                // Move to the next available even index
+                positive_ptr += 2; 
+            } else {
+                ans[negative_ptr] = nums[i];
+
+                // Move to the next available odd index
+                negative_ptr += 2; 
             }
         }
         return ans;
