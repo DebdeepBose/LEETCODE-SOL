@@ -6,7 +6,7 @@ public:
         int idx = -1;
         for (int i = n - 2; i >= 0; i--) {
             if (v[i] < v[i + 1]) {
-                idx = v[i];
+                idx = i;
                 break;
             }
         }
