@@ -11,7 +11,12 @@ public:
             }
         }
 
-        for (int i = n - 2; i >= 0; i--) {
+        if(idx == -1){
+            reverse(v.begin(),v.end());
+            return;
+        }
+
+        for (int i = n - 1; i >= 0; i--) {
             if (v[i] > v[idx]) {
                 swap(v[i], v[idx]);
                 break;
