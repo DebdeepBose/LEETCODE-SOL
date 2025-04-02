@@ -1,17 +1,17 @@
 class Solution {
 public:
-    int missingNumber(vector<int>& v) {
-        int n = v.size();
+    int missingNumber(vector<int>& nums) {
+        int size = nums.size();
         
-        // Initialize 'x' with 'n' (since numbers range from 0 to n)
-        int x = n;  
+        // Initialize 'missing' with 'size' (since numbers range from 0 to size)
+        int missing = size;  
         
-        // XOR all elements in 'v' and their indices
-        for (int i = 0; i < n; i++) {
-            x ^= v[i] ^ i;  
+        // XOR all elements in 'nums' and their indices
+        for (int i = 0; i < size; i++) {
+            missing ^= nums[i] ^ i;  
         }
         
-        // XOR with 'n' again to cancel out the extra term introduced earlier
-        return x;
+        // Return the missing number
+        return missing;
     }
 };
