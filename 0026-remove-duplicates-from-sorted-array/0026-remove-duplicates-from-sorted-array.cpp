@@ -1,16 +1,21 @@
 class Solution {
 public:
-    int removeDuplicates(vector<int>& v) {
-        
-        int j = 1;
-        int n = v.size();
+    int removeDuplicates(vector<int>& nums) {
 
-        for(int i=1;i<n;i++){
-            if(v[i]!=v[i-1]){
-                v[j] = v[i];
+        //Storing Size Of The Array
+        int size = nums.size();
+
+        //If previous element is not equal then its unique & so assign
+        //it to 'j'
+        int j = 1;
+        for (int i = 1; i < nums.size(); i++) {
+            if (nums[i - 1] != nums[i]) {
+                nums[j] = nums[i];
                 j++;
             }
         }
+
+        //Return elements upto 'j'
         return j;
     }
 };
