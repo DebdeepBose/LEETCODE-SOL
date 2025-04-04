@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0141-linked-list-cycle) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0566-reshape-the-matrix) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2588-maximum-number-of-points-from-grid-queries) |
