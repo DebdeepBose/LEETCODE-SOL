@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0164-maximum-gap) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0187-repeated-dna-sequences) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0128-longest-consecutive-sequence) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Combinatorics
 |  |
