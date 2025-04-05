@@ -1,68 +1,72 @@
 class Solution {
 public:
     string countOfAtoms(string formula) {
-        // Every element of matcher will be a quintuple
-        regex reg("([A-Z][a-z]*)(\\d*)|(\\()|(\\))(\\d*)");
-        sregex_iterator it(formula.begin(), formula.end(), reg);
-        sregex_iterator end;
-        vector<tuple<string, string, string, string, string>> matcher;
-        while (it != end) {
-            matcher.push_back(
-                {(*it)[1], (*it)[2], (*it)[3], (*it)[4], (*it)[5]});
-            it++;
-        }
-        reverse(matcher.begin(), matcher.end());
+        int n = formula.length();
+        unordered_map<string, int> result_counter;
+        stack<unordered_map<string, int>> parenthesis_stack;
+        int cur_ind = 0;
 
-        // Map to store the count of atoms
-        unordered_map<string, int> finalMap;
+        while (cur_ind < n) {
+            char cur_char = formula[cur_ind];
 
-        // Stack to keep track of the nested multiplicities
-        stack<int> stack;
-        stack.push(1);
-
-        // Current Multiplicity
-        int runningMul = 1;
-
-        // Parse the formula
-        for (auto& quintuple : matcher) {
-            string atom = get<0>(quintuple);
-            string count = get<1>(quintuple);
-            string left = get<2>(quintuple);
-            string right = get<3>(quintuple);
-            string multiplier = get<4>(quintuple);
-
-            // If atom, add it to the final map
-            if (!atom.empty()) {
-                int cnt = count.empty() ? 1 : stoi(count);
-                finalMap[atom] += cnt * runningMul;
+            if (cur_char == '(') {
+                cur_ind++;
+                parenthesis_stack.push(unordered_map<string, int>());
+                continue;
             }
 
-            // If the right parenthesis, multiply the runningMul
-            else if (!right.empty()) {
-                int currMultiplier = multiplier.empty() ? 1 : stoi(multiplier);
-                runningMul *= currMultiplier;
-                stack.push(currMultiplier);
+            if (cur_char == ')') {
+                string mult_str = "";
+                cur_ind++;
+
+                while (cur_ind < n && isdigit(formula[cur_ind])) {
+                    mult_str += formula[cur_ind];
+                    cur_ind++;
+                }
+
+                int mult = mult_str.empty() ? 1 : stoi(mult_str);
+                unordered_map<string, int> last_counter = parenthesis_stack.top();
+                parenthesis_stack.pop();
+                unordered_map<string, int>& target = parenthesis_stack.empty() ? result_counter : parenthesis_stack.top();
+                
+                for (const auto& [elem, counter] : last_counter) {
+                    target[elem] += counter * mult;
+                }
+                continue;
             }
 
-            // If left parenthesis, divide the runningMul
-            else if (!left.empty()) {
-                runningMul /= stack.top();
-                stack.pop();
-            }
-        }
+            string cur_elem = "";
+            string cur_counter_str = "";
+            unordered_map<string, int>& target = parenthesis_stack.empty() ? result_counter : parenthesis_stack.top();
 
-        // Sort the final map
-        map<string, int> sortedMap(finalMap.begin(), finalMap.end());
-
-        // Generate the answer string
-        string ans;
-        for (auto& [atom, count] : sortedMap) {
-            ans += atom;
-            if (count > 1) {
-                ans += to_string(count);
+            while (cur_ind < n && formula[cur_ind] != '(' && formula[cur_ind] != ')') {
+                if (isalpha(formula[cur_ind])) {
+                    if (isupper(formula[cur_ind]) && !cur_elem.empty()) {
+                        target[cur_elem] += cur_counter_str.empty() ? 1 : stoi(cur_counter_str);
+                        cur_elem = "";
+                        cur_counter_str = "";
+                    }
+                    cur_elem += formula[cur_ind];
+                } else {
+                    cur_counter_str += formula[cur_ind];
+                }
+                cur_ind++;
             }
+
+            target[cur_elem] += cur_counter_str.empty() ? 1 : stoi(cur_counter_str);
         }
 
-        return ans;
+        vector<string> parts;
+        for (const auto& [elem, counter] : result_counter) {
+            parts.push_back(elem + (counter == 1 ? "" : to_string(counter)));
+        }
+        sort(parts.begin(), parts.end());
+
+        string result;
+        for (const auto& part : parts) {
+            result += part;
+        }
+
+        return result;
     }
 };
