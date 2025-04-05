@@ -5,12 +5,12 @@ public:
         bool first_row = false;
         bool first_column = false;
 
-        int n = matrix.size();
-        int m = matrix[0].size();
+        int rows = matrix.size();
+        int columns = matrix[0].size();
 
         // First pass to mark rows and columns
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < columns; j++) {
                 if (matrix[i][j] == 0) {
                     if (i == 0) first_row = true;
                     if (j == 0) first_column = true;
@@ -21,8 +21,8 @@ public:
         }
 
         // Second pass to set zeroes using markers (excluding first row and column)
-        for (int i = 1; i < n; i++) {
-            for (int j = 1; j < m; j++) {
+        for (int i = 1; i < rows; i++) {
+            for (int j = 1; j < columns; j++) {
                 if (matrix[i][0] == 0 || matrix[0][j] == 0) {
                     matrix[i][j] = 0;
                 }
@@ -31,14 +31,14 @@ public:
 
         // If first row had any zero, set entire first row to 0
         if (first_row) {
-            for (int j = 0; j < m; j++) {
+            for (int j = 0; j < columns; j++) {
                 matrix[0][j] = 0;
             }
         }
 
         // If first column had any zero, set entire first column to 0
         if (first_column) {
-            for (int i = 0; i < n; i++) {
+            for (int i = 0; i < rows; i++) {
                 matrix[i][0] = 0;
             }
         }
