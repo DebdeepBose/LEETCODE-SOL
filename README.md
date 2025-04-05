@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0075-sort-colors) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0735-asteroid-collision) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0566-reshape-the-matrix) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2508-maximum-sum-of-an-hourglass) |
