@@ -6,15 +6,12 @@ public:
         for(auto e : v){
             mp[e]++;
         }
-        unordered_set<int> st;
+        vector<int> ans;
         for(auto e : mp){
             if(e.second>floor(n/3)){
-                st.insert(e.first);
+                ans.push_back(e.first);
             }
         }
-
-        vector<int> ans;
-        ans.assign(st.begin(),st.end());
 
         return ans;
     }
