@@ -1,24 +1,34 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& v) {
+        sort(v.begin(), v.end());
         vector<vector<int>> ans;
-        set<vector<int>> stv;
-        unordered_set<int> st;
         int n = v.size();
 
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                int req = 0 - (v[i] + v[j]);
-                if (st.find(req) != st.end()) {
-                    vector<int> temp = {v[i], v[j], req};
-                    sort(temp.begin(), temp.end());
-                    stv.insert(temp);
+        for (int i = 0; i < n - 2; i++) {
+            if (v[i] > 0) break; // No point in checking further
+
+            if (i > 0 && v[i] == v[i - 1]) continue;
+
+            int j = i + 1;
+            int k = n - 1;
+
+            while (j < k) {
+                int s = v[i] + v[j] + v[k];
+                if (s == 0) {
+                    ans.push_back({v[i], v[j], v[k]});
+                    while (j < k && v[j] == v[j + 1]) j++;
+                    while (j < k && v[k] == v[k - 1]) k--;
+                    j++;
+                    k--;
+                } else if (s < 0) {
+                    j++;
+                } else {
+                    k--;
                 }
             }
-            st.insert(v[i]);
         }
 
-        ans.assign(stv.begin(), stv.end());
         return ans;
     }
 };
