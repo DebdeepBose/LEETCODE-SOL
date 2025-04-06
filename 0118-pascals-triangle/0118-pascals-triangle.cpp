@@ -1,31 +1,26 @@
 class Solution {
 public:
-    // Function to generate a specific row in Pascal's Triangle
-    vector<int> generateRow(int rowIndex) {
-        vector<int> row;
-
-        // First value of each row is always 1
-        long long triangleCellValue = 1;
-        row.push_back(1);
-
-        // Calculate remaining values using nCr = nC(r-1) * (n-r)/r
-        for (int i = 1; i < rowIndex; i++) {
-            triangleCellValue = triangleCellValue * (rowIndex - i) / i;
-            row.push_back(triangleCellValue);
+    vector<int> genRow(int row) {
+        long long res = 1;
+        vector<int> rowGen;
+        rowGen.push_back(1);
+        for (int i = 1; i < row; i++) {
+            res = res * (row - i) / i;
+            rowGen.push_back(res);
         }
-
-        return row;
+        return rowGen;
     }
-
-    // Function to generate Pascal's Triangle up to numRows
-    vector<vector<int>> generate(int numRows) {
-        vector<vector<int>> resultant_pascalTriangle;
-
-        // Generate each row from 1 to numRows using generateRow function
-        for (int i = 1; i <= numRows; i++) {
-            resultant_pascalTriangle.push_back(generateRow(i));
+    vector<vector<int>> generate(int n) {
+        if (n == 0) {
+            return {{}};
         }
 
-        return resultant_pascalTriangle;
+        vector<vector<int>> ans;
+
+        for (int i = 1; i <= n; i++) {
+            ans.push_back(genRow(i));
+        }
+
+        return ans;
     }
 };
