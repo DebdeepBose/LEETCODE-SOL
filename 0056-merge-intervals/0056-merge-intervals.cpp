@@ -1,26 +1,25 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& v) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
         int n = v.size();
+        if (n == 0) return {};
+        
         sort(v.begin(), v.end());
+        
         vector<vector<int>> ans;
-        for (int i = 0; i < n; i++) {
-            int start = v[i][0];
-            int end = v[i][1];
-            if (!ans.empty() && end <= ans.back()[1]) {
-                continue;
+        int start = v[0][0];
+        int end = v[0][1];
+        
+        for (int i = 1; i < n; i++) {
+            if (v[i][0] <= end) {
+                end = max(end, v[i][1]);
+            } else {
+                ans.push_back({start, end});
+                start = v[i][0];
+                end = v[i][1];
             }
-            for (int j = i; j < n; j++) {
-                if (v[j][0] <= end) {
-                    end = max(end, v[j][1]);
-                } else {
-                    break;
-                }
-            }
-            ans.push_back({start, end});
         }
+        ans.push_back({start, end});
         return ans;
     }
 };
