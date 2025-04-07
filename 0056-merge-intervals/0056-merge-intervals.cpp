@@ -1,25 +1,17 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& v) {
-        int n = v.size();
-        if (n == 0) return {};
-        
-        sort(v.begin(), v.end());
-        
         vector<vector<int>> ans;
-        int start = v[0][0];
-        int end = v[0][1];
-        
-        for (int i = 1; i < n; i++) {
-            if (v[i][0] <= end) {
-                end = max(end, v[i][1]);
+        sort(v.begin(), v.end());
+        for (int i = 0; i < v.size() - 1; i++) {
+            if (v[i][1] >= v[i + 1][0]) {
+                v[i + 1][0] = v[i][0];
+                v[i + 1][1] = max(v[i][1], v[i + 1][1]);
             } else {
-                ans.push_back({start, end});
-                start = v[i][0];
-                end = v[i][1];
+                ans.push_back({v[i][0], v[i][1]});
             }
         }
-        ans.push_back({start, end});
+        ans.push_back(v.back());
         return ans;
     }
 };
