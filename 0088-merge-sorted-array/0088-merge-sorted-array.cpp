@@ -2,7 +2,7 @@ class Solution {
 public:
     void merge(vector<int>& v1, int n, vector<int>& v2, int m) {
         int len = n + m;
-        int gap = (len + 1) / 2;
+        int gap = ceil(len/2);
 
         while (gap > 0) {
             int left = 0;
