@@ -1,20 +1,25 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& v) {
-        int n = v.size();
-        if (n == 1) {
-            return v;
+    vector<vector<int>> merge(vector<vector<int>>& intervals) {
+        int size = intervals.size();
+        if (size == 1) {
+            return intervals;
         }
 
-        sort(v.begin(), v.end());
-        vector<vector<int>> ans;
-        for (int i = 0; i < n; i++) {
-            if (ans.empty() || v[i][0] > ans.back()[1]) {
-                ans.push_back(v[i]);
+        // Sort intervals by start time
+        sort(intervals.begin(), intervals.end());
+
+        vector<vector<int>> merged;
+        for (int i = 0; i < size; i++) {
+            // If merged is empty or current interval doesn't overlap with the last one
+            if (merged.empty() || intervals[i][0] > merged.back()[1]) {
+                merged.push_back(intervals[i]);
             } else {
-                ans.back()[1] = max(ans.back()[1], v[i][1]);
+                // Merge by updating the end of the last interval
+                merged.back()[1] = max(merged.back()[1], intervals[i][1]);
             }
         }
-        return ans;
+
+        return merged;
     }
 };
