@@ -1,41 +1,34 @@
-
 class Solution {
 public:
     int largestVariance(string s) {
-        int count1 = 0;
-        int count2 = 0;
-        int max_variance = 0;
-
-        // Create a distinct set of character pairs
-        unordered_set<char> distinct_chars(s.begin(), s.end());
-
-        // Run once for original string order, then again for reverse string order
-        for (int runs = 0; runs < 2; runs++) {
-            for (char l1 : distinct_chars) {
-                for (char l2 : distinct_chars) {
-                    if (l1 == l2) {
-                        continue;
-                    }
-                    count1 = count2 = 0;
-                    for (char letter : s) {
-                        if (letter == l1) {
-                            count1++;
-                        } else if (letter == l2) {
-                            count2++;
+        vector<int>arr(26);
+        for(auto x:s){
+           arr[x-'a']++; 
+        }
+        int ans=0;
+        for(char i='a';i<='z';i++){
+            for(char j='a';j<='z';j++){
+                 if(j==i||arr[i-'a']==0||arr[j-'a']==0)
+                            continue;
+                for(int k=1;k<=2;k++){
+                   int c1=0;
+                    int c2=0;
+                    for(auto x:s){
+                        if(x==i)
+                            c1++;
+                        if(x==j)
+                            c2++;
+                        if(c2>c1){
+                            c1=0;
+                            c2=0;
                         }
-                        if (count1 < count2) {
-                            count1 = count2 = 0;
-                        } else if (count1 > 0 && count2 > 0) {
-                            max_variance = max(max_variance, count1 - count2);
-                        }
+                        if(c1>0&&c2>0)
+                        ans=max(ans,c1-c2);
                     }
+                    reverse(s.begin(),s.end());
                 }
             }
-
-            // Reverse the string for the second time around
-            reverse(s.begin(), s.end());
         }
-
-        return max_variance;
+        return ans;
     }
 };
