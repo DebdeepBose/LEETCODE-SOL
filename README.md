@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0560-subarray-sum-equals-k) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1046-max-consecutive-ones-iii) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -735,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0493-reverse-pairs) |
 | [2868-continuous-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2868-continuous-subarrays) |
 ## Matrix
 |  |
@@ -820,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0948-sort-an-array) |
 ## Counting Sort
 |  |
@@ -859,4 +864,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
