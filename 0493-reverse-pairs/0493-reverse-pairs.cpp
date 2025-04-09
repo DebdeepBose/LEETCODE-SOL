@@ -2,13 +2,15 @@ class Solution {
 public:
     int merge(vector<int>& v, int low, int mid, int high) {
         int rc = 0;
+        int i = low;
         int j = mid + 1;
 
-        for (int i = low; i <= mid; i++) {
+        while (i <= mid) {
             while (j <= high && (long long)v[i] > 2LL * v[j]) {
                 j++;
             }
             rc += (j - (mid + 1));
+            i++;
         }
 
         vector<int> tmp;
@@ -35,7 +37,8 @@ public:
     }
 
     int mergeSort(vector<int>& v, int low, int high) {
-        if (low >= high) return 0;
+        if (low >= high)
+            return 0;
 
         int mid = (low + high) / 2;
         int c = 0;
@@ -45,7 +48,5 @@ public:
         return c;
     }
 
-    int reversePairs(vector<int>& v) {
-        return mergeSort(v, 0, v.size() - 1);
-    }
+    int reversePairs(vector<int>& v) { return mergeSort(v, 0, v.size() - 1); }
 };
