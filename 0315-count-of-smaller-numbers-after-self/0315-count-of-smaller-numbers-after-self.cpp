@@ -1,69 +1,83 @@
 class Solution {
 public:
-    void merge(vector<int>& count, vector<pair<int, int>>& numIndex, int low,
-               int mid, int high) {
-        vector<pair<int, int>> referencePair;
+    // Merge two sorted subarrays and update count of smaller elements after self
+    void merge(vector<int>& smallerCounts, vector<pair<int, int>>& valueIndexPairs, int low, int mid, int high) {
+        vector<pair<int, int>> merged;
 
         int left = low;
         int right = mid + 1;
-        int numRightCount = 0;
+
+        // Number of smaller elements on the right that have been merged before the current left element
+        int smallerRightNumbers = 0;
 
         while (left <= mid && right <= high) {
-            if (numIndex[left].first <= numIndex[right].first) {
-                count[numIndex[left].second] += numRightCount;
-                referencePair.push_back(numIndex[left]);
+            if (valueIndexPairs[left].first <= valueIndexPairs[right].first) {
+                // All smaller right elements merged before this left element are counted
+                smallerCounts[valueIndexPairs[left].second] += smallerRightNumbers;
+                merged.push_back(valueIndexPairs[left]);
                 left++;
             } else {
-                numRightCount++;
-                referencePair.push_back(numIndex[right]);
+                // This right element is smaller than the current left element
+                smallerRightNumbers++;
+                merged.push_back(valueIndexPairs[right]);
                 right++;
             }
         }
 
+        // Remaining left half elements may still have smaller elements on right counted
         while (left <= mid) {
-            count[numIndex[left].second] += numRightCount;
-            referencePair.push_back(numIndex[left]);
+            smallerCounts[valueIndexPairs[left].second] += smallerRightNumbers;
+            merged.push_back(valueIndexPairs[left]);
             left++;
         }
+
+        // Push remaining right elements as-is
         while (right <= high) {
-            referencePair.push_back(numIndex[right]);
+            merged.push_back(valueIndexPairs[right]);
             right++;
         }
 
+        // Copy merged results back to the original vector
         for (int i = low; i <= high; i++) {
-            numIndex[i] = referencePair[i - low];
+            valueIndexPairs[i] = merged[i - low];
         }
     }
-    void mergeSort(vector<int>& count, vector<pair<int, int>>& numIndex,
-                   int low, int high) {
 
-        if (low >= high) {
+    // Recursive merge sort that also updates the count of smaller elements
+    void mergeSort(vector<int>& smallerCounts, vector<pair<int, int>>& valueIndexPairs, int low, int high) {
+        if (low >= high)
             return;
-        }
 
         int mid = low + (high - low) / 2;
 
-        mergeSort(count, numIndex, low, mid);
-        mergeSort(count, numIndex, mid + 1, high);
-        merge(count, numIndex, low, mid, high);
+        // Sort and count for left and right halves
+        mergeSort(smallerCounts, valueIndexPairs, low, mid);
+        mergeSort(smallerCounts, valueIndexPairs, mid + 1, high);
+
+        // Merge the halves and count cross-pairs
+        merge(smallerCounts, valueIndexPairs, low, mid, high);
     }
+
+    // Main function that returns the count of smaller numbers after self
     vector<int> countSmaller(vector<int>& nums) {
+        int n = nums.size();
 
-        int size = nums.size();
-
-        if (size == 1) {
+        if (n == 1) {
             return {0};
         }
 
-        vector<pair<int, int>> numIndex(size);
-        for (int i = 0; i < size; i++) {
-            numIndex[i] = make_pair(nums[i], i);
+        // Pair each number with its original index
+        vector<pair<int, int>> valueIndexPairs(n);
+        for (int i = 0; i < n; i++) {
+            valueIndexPairs[i] = {nums[i], i};
         }
 
-        vector<int> count(size, 0);
+        // Initialize result array to hold the counts
+        vector<int> smallerCounts(n, 0);
 
-        mergeSort(count, numIndex, 0, size - 1);
+        // Start the merge sort and count process
+        mergeSort(smallerCounts, valueIndexPairs, 0, n - 1);
 
-        return count;
+        return smallerCounts;
     }
 };
