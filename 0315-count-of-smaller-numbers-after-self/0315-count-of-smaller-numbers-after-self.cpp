@@ -1,64 +1,68 @@
 class Solution {
 public:
-    void merge(vector<int>& count, vector<pair<int, int>>& v, int low, int mid, int high){
-    vector<pair<int, int>> tmp;
-    int left = low;
-    int right = mid + 1;
-    int numRightSmaller = 0;  // how many right elements are smaller than left
+    void merge(vector<int>& count, vector<pair<int, int>>& numIndex, int low,
+               int mid, int high) {
+        vector<pair<int, int>> referencePair;
 
-    while (left <= mid && right <= high) {
-        if (v[left].first > v[right].first) {
-            // v[right] is smaller than v[left]
-            // So v[left] gets +1 to its count for each right element being added
-            numRightSmaller++;
-            tmp.push_back(v[right++]);
-        } else {
-            // Elements in right half before 'right' are smaller than v[left]
-            count[v[left].second] += numRightSmaller;
-            tmp.push_back(v[left++]);
+        int left = low;
+        int right = mid + 1;
+        int numRightCount = 0;
+
+        while (left <= mid && right <= high) {
+            if (numIndex[left].first <= numIndex[right].first) {
+                count[numIndex[left].second] += numRightCount;
+                referencePair.push_back(numIndex[left]);
+                left++;
+            } else {
+                numRightCount++;
+                referencePair.push_back(numIndex[right]);
+                right++;
+            }
+        }
+
+        while (left <= mid) {
+            count[numIndex[left].second] += numRightCount;
+            referencePair.push_back(numIndex[left]);
+            left++;
+        }
+        while (right <= high) {
+            referencePair.push_back(numIndex[right]);
+            right++;
+        }
+
+        for (int i = low; i <= high; i++) {
+            numIndex[i] = referencePair[i - low];
         }
     }
+    void mergeSort(vector<int>& count, vector<pair<int, int>>& numIndex,
+                   int low, int high) {
 
-    // Remaining left elements
-    while (left <= mid) {
-        count[v[left].second] += numRightSmaller;
-        tmp.push_back(v[left++]);
-    }
-
-    // Remaining right elements
-    while (right <= high) {
-        tmp.push_back(v[right++]);
-    }
-
-    // Copy back to v
-    for (int i = low; i <= high; i++) {
-        v[i] = tmp[i - low];
-    }
-}
-
-
-    void mergeSort(vector<int>& count, vector<pair<int, int>>& v, int left,
-                   int right) {
-        if (left >= right) {
+        if (low >= high) {
             return;
         }
 
-        int mid = left + (right - left) / 2;
-        mergeSort(count, v, left, mid);
-        mergeSort(count, v, mid + 1, right);
-        merge(count, v, left, mid, right);
+        int mid = low + (high - low) / 2;
+
+        mergeSort(count, numIndex, low, mid);
+        mergeSort(count, numIndex, mid + 1, high);
+        merge(count, numIndex, low, mid, high);
     }
-
     vector<int> countSmaller(vector<int>& nums) {
-        int N = nums.size();
 
-        vector<pair<int, int>> v(N);
-        for (int i = 0; i < N; i++)
-            v[i] = make_pair(nums[i], i);
+        int size = nums.size();
 
-        vector<int> count(N, 0);
+        if (size == 1) {
+            return {0};
+        }
 
-        mergeSort(count, v, 0, N - 1);
+        vector<pair<int, int>> numIndex(size);
+        for (int i = 0; i < size; i++) {
+            numIndex[i] = make_pair(nums[i], i);
+        }
+
+        vector<int> count(size, 0);
+
+        mergeSort(count, numIndex, 0, size - 1);
 
         return count;
     }
