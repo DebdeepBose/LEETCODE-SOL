@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3447-clear-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3447-clear-digits) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3540-hash-divided-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3540-hash-divided-string) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3394-minimum-array-end](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3394-minimum-array-end) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Sliding Window
 |  |
 | ------- |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0078-subsets) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Brainteaser
 |  |
 | ------- |
