@@ -10,7 +10,7 @@ public:
         return v;
     }
     void generate(int open, int close, vector<string>& v, string s, int n) {
-        if (open == close && open + close == n * 2) {
+        if (open + close == n * 2) {
             v.push_back(s);
             return;
         }
