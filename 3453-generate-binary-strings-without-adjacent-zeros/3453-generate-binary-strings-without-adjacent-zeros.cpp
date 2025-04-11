@@ -5,13 +5,11 @@ public:
             v.push_back(s);
             return;
         }
-        if (zero + one <= n) {
+        if (zero + one < n) {
             gen(zero, one + 1, v, s + '1', n);
-        }
-        if (s.empty() && zero + one <= n) {
-            gen(zero + 1, one, v, s + '0', n);
-        } else if (zero + one <= n && (!s.empty() && s.back() != '0')) {
-            gen(zero + 1, one, v, s + '0', n);
+            if (s.empty() || s.back() != '0') {
+                gen(zero + 1, one, v, s + '0', n);
+            }
         }
     }
     vector<string> validStrings(int n) {
