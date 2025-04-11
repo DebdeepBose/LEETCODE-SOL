@@ -23,7 +23,7 @@ public:
             i++;
 
         if (s[i] == '-')
-            sign = -1, ++i;
+            sign = -1, i++;
         else if (s[i] == '+')
             i++;
 
