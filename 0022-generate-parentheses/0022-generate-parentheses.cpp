@@ -1,21 +1,29 @@
 class Solution {
 public:
-    void generate(int open, int close, vector<string>& ans, string s, int n) {
-        if (open == n && close == n) {
-            ans.push_back(s);
+    // Recursive helper to generate all valid combinations of parentheses
+    void generateParenthesesHelper(int openCount, int closeCount, vector<string>& generatedParentheses, string currentStr, int totalPairs) {
+        // Base case: if we have used all n open and n close brackets, add to result
+        if (openCount == totalPairs && closeCount == totalPairs) {
+            generatedParentheses.push_back(currentStr);
             return;
         }
-        if (open < n) {
-            generate(open + 1, close, ans, s + '(', n);
+
+        // Add an open bracket if we haven't used all of them yet
+        if (openCount < totalPairs) {
+            generateParenthesesHelper(openCount + 1, closeCount, generatedParentheses, currentStr + '(', totalPairs);
         }
-        if (close < open) {
-            generate(open, close + 1, ans, s + ')', n);
+
+        // Add a close bracket if it won't exceed the number of open brackets used
+        if (closeCount < openCount) {
+            generateParenthesesHelper(openCount, closeCount + 1, generatedParentheses, currentStr + ')', totalPairs);
         }
     }
-    vector<string> generateParenthesis(int n) {
-        vector<string> ans;
-        string s = "";
-        generate(0, 0, ans, s, n);
-        return ans;
+
+    // Main function to initiate the generation process
+    vector<string> generateParenthesis(int totalPairs) {
+        vector<string> generatedParentheses;
+        string currentStr = "";
+        generateParenthesesHelper(0, 0, generatedParentheses, currentStr, totalPairs);
+        return generatedParentheses;
     }
 };
