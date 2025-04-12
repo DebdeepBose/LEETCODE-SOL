@@ -1,16 +1,21 @@
 class Solution {
 public:
     void gen(vector<int>& v, vector<vector<int>>& ans, vector<int>& tmp, int n,
-             int st) {
-        if (st >= n) {
+             int recStackDepth) {
+        if (recStackDepth >= n) {
             ans.push_back(tmp);
             return;
         }
-        tmp.push_back(v[st]);
-        gen(v, ans, tmp, n, st + 1);
+
+        // Exclude current element
+        gen(v, ans, tmp, n, recStackDepth + 1);
+
+        // Include current element
+        tmp.push_back(v[recStackDepth]);
+        gen(v, ans, tmp, n, recStackDepth + 1);
         tmp.pop_back();
-        gen(v, ans, tmp, n, st + 1);
     }
+
     vector<vector<int>> subsets(vector<int>& v) {
         vector<vector<int>> ans;
         vector<int> tmp;
