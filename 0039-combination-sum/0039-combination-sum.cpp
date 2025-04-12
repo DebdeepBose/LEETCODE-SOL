@@ -1,32 +1,25 @@
 class Solution {
 public:
-    void gen(vector<int>& v, int n, vector<vector<int>>& ans, vector<int>& tmp,
-             int k, int d, int sum) {
-        if (sum > k) {
+    void gen(vector<int>& v, vector<vector<int>>& ans, vector<int>& tmp, int k,
+             int n, int i) {
+        if (i >= n) {
+            if (k == 0) {
+                ans.push_back(tmp);
+            }
             return;
         }
-        if (sum == k) {
-            ans.push_back(tmp);
-            return;
+        if (v[i] <= k) {
+            tmp.push_back(v[i]);
+            gen(v, ans, tmp, k - v[i], n, i);
+            tmp.pop_back();
         }
-        if (d >= n) {
-            return;
-        }
-
-        tmp.push_back(v[d]);
-        gen(v, n, ans, tmp, k, d, sum + v[d]);
-
-        tmp.pop_back();
-        gen(v, n, ans, tmp, k, d + 1, sum);
+        gen(v, ans, tmp, k, n, i + 1);
     }
-
     vector<vector<int>> combinationSum(vector<int>& v, int k) {
         int n = v.size();
         vector<vector<int>> ans;
         vector<int> tmp;
-
-        gen(v, n, ans, tmp, k, 0, 0);
-
+        gen(v, ans, tmp, k, n, 0);
         return ans;
     }
 };
