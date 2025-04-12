@@ -1,19 +1,21 @@
 class Solution {
 public:
-    void subf(vector<int>& v, int st, vector<int>& way,
-              vector<vector<int>>& ans, int n) {
-        ans.push_back(way);
-        for (int i = st; i < n; i++) {
-            way.push_back(v[i]);
-            subf(v, i + 1, way, ans, n);
-            way.pop_back();
+    void gen(vector<int>& v, vector<vector<int>>& ans, vector<int>& tmp, int n,
+             int st) {
+        if (st >= n) {
+            ans.push_back(tmp);
+            return;
         }
+        tmp.push_back(v[st]);
+        gen(v, ans, tmp, n, st + 1);
+        tmp.pop_back();
+        gen(v, ans, tmp, n, st + 1);
     }
     vector<vector<int>> subsets(vector<int>& v) {
         vector<vector<int>> ans;
-        vector<int> way;
+        vector<int> tmp;
         int n = v.size();
-        subf(v, 0, way, ans, n);
+        gen(v, ans, tmp, n, 0);
         return ans;
     }
 };
