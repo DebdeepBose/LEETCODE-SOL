@@ -1,25 +1,24 @@
 class Solution {
 public:
-    void gen(vector<int>& v, set<vector<int>>& ans, vector<int>& tmp, int n,
-             int i) {
-        if (i >= n) {
-            ans.insert(tmp);
-            return;
+    void gen(vector<int>& v, vector<vector<int>>& ans, vector<int>& tmp, int n, int i) {
+        ans.push_back(tmp);
+
+        for (int j = i; j < n; j++) {
+            if (j > i && v[j] == v[j - 1]) {
+                continue;
+            }
+            tmp.push_back(v[j]);
+            gen(v, ans, tmp, n, j + 1);
+            tmp.pop_back();
         }
-        gen(v, ans, tmp, n, i + 1);
-        tmp.push_back(v[i]);
-        gen(v, ans, tmp, n, i + 1);
-        tmp.pop_back();
-        
     }
+
     vector<vector<int>> subsetsWithDup(vector<int>& v) {
-        int n = v.size();
-        sort(v.begin(),v.end());
+        vector<vector<int>> ans;
         vector<int> tmp;
-        set<vector<int>> ans;
-        
+        int n = v.size();
+        sort(v.begin(), v.end());
         gen(v, ans, tmp, n, 0);
-        vector<vector<int>> finalres(ans.begin(),ans.end());
-        return finalres;
+        return ans;
     }
 };
