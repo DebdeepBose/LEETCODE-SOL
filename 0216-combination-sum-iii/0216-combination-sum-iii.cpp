@@ -10,9 +10,6 @@ public:
         }
 
         for (int j = i; j < n; j++) {
-            if (j > i && v[j] == v[j - 1]) {
-                continue;
-            }
             if (v[j] > k) {
                 break;
             }
