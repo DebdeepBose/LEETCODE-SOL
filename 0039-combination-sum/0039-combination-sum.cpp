@@ -1,28 +1,47 @@
 class Solution {
 public:
-    void combo(vector<int>& v, int k, vector<vector<int>>& ans,
-               vector<int>& tmp, int n, int d) {
-        if (d >= n) {
-            if (k == 0) {
-                ans.push_back(tmp);
+    //Helper Function To Generate All Combinations
+    void generateAllCombinations(vector<int>& candidates, int size,
+                                 vector<vector<int>>& combinations,
+                                 vector<int>& tempStore, int target,
+                                 int currentIndex) {
+
+        //Base Case
+        if (currentIndex == size) {
+
+            if (target == 0) {
+                combinations.push_back(tempStore);
             }
+
             return;
         }
-        if (v[d] <= k) {
 
-            tmp.push_back(v[d]); //[2,2,2,2]
-            combo(v, k - v[d], ans, tmp, n, d);
-
-            tmp.pop_back();
+        //if target is greater only then we take the same element 
+        if (candidates[currentIndex] <= target) {
+            tempStore.push_back(candidates[currentIndex]);
+            generateAllCombinations(candidates, size, combinations, tempStore, target - candidates[currentIndex], currentIndex);
+            tempStore.pop_back();
         }
-        combo(v, k, ans, tmp, n, d + 1);
+
+        //Else we move on to the next index
+        generateAllCombinations(candidates, size, combinations, tempStore, target, currentIndex + 1);
     }
 
-    vector<vector<int>> combinationSum(vector<int>& v, int k) {
-        vector<vector<int>> ans;
-        vector<int> tmp;
-        int n = v.size();
-        combo(v, k, ans, tmp, n, 0);
-        return ans;
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+
+        // Initialize to store all combinations
+        vector<vector<int>> combinations;
+
+        // A temporary array to store valid combinations
+        vector<int> tempStore;
+
+        // Size of the list
+        int size = candidates.size();
+
+        // Function call to generate all combinations
+        generateAllCombinations(candidates, size, combinations, tempStore,
+                                target, 0);
+
+        return combinations;
     }
 };
