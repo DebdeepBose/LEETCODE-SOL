@@ -1,52 +1,54 @@
 class Solution {
 public:
-    bool isValid(vector<string>& b, int row, int col) {
+    bool validQueenPosition(int n, vector<string>& chessRow, int row, int col) {
+        // Check vertical column ↑
         for (int i = row - 1; i >= 0; i--) {
-            if (b[i][col] == 'Q')
+            if (chessRow[i][col] == 'Q') {
                 return false;
+            }
         }
 
-        int i = row - 1;
-        int j = col - 1;
+        // Check upper-left diagonal ↖
+        int i = row - 1, j = col - 1;
         while (i >= 0 && j >= 0) {
-            if (b[i][j] == 'Q')
+            if (chessRow[i][j] == 'Q') {
                 return false;
-            i--;
-            j--;
+            }
+            i--; j--;
         }
 
-        i = row - 1;
-        j = col + 1;
-        while (i >= 0 && j < b.size()) {
-            if (b[i][j] == 'Q')
+        // Check upper-right diagonal ↗
+        i = row - 1, j = col + 1;
+        while (i >= 0 && j < n) {
+            if (chessRow[i][j] == 'Q') {
                 return false;
-            i--;
-            j++;
+            }
+            i--; j++;
         }
 
         return true;
     }
 
-    void findQ(vector<vector<string>>& ans, vector<string>& b, int row) {
-        if (row == b.size()) {
-            ans.push_back(b);
+    void placeQueens(int n, vector<string>& chessRow,
+                     vector<vector<string>>& chessBoard, int row) {
+        if (row >= n) {
+            chessBoard.push_back(chessRow);
             return;
         }
 
-        int n = b.size();
         for (int col = 0; col < n; col++) {
-            if (isValid(b, row, col)) {
-                b[row][col] = 'Q';
-                findQ(ans, b, row + 1);
-                b[row][col] = '.';
+            if (validQueenPosition(n, chessRow, row, col)) {
+                chessRow[row][col] = 'Q';
+                placeQueens(n, chessRow, chessBoard, row + 1);
+                chessRow[row][col] = '.';
             }
         }
     }
 
     vector<vector<string>> solveNQueens(int n) {
-        vector<vector<string>> ans;
-        vector<string> b(n, string(n, '.'));
-        findQ(ans, b, 0);
-        return ans;
+        vector<string> chessRow(n, string(n, '.'));
+        vector<vector<string>> chessBoard;
+        placeQueens(n, chessRow, chessBoard, 0);
+        return chessBoard;
     }
 };
