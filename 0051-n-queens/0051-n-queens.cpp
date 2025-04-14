@@ -1,54 +1,72 @@
 class Solution {
 public:
-    bool validQueenPosition(int n, vector<string>& chessRow, int row, int col) {
-        // Check vertical column ↑
-        for (int i = row - 1; i >= 0; i--) {
-            if (chessRow[i][col] == 'Q') {
+    bool isValidPosition(vector<string>& boardRow, int n, int RowIndex,
+                         int ColumnIndex) {
+
+        // Vertiacl check
+        for (int i = RowIndex; i >= 0; i--) {
+            if (boardRow[i][ColumnIndex] == 'Q') {
                 return false;
             }
         }
 
-        // Check upper-left diagonal ↖
-        int i = row - 1, j = col - 1;
-        while (i >= 0 && j >= 0) {
-            if (chessRow[i][j] == 'Q') {
+        // Left Diagonal Check
+        for (int i = RowIndex, j = ColumnIndex; i >= 0 && j >= 0; i--, j--) {
+            if (boardRow[i][j] == 'Q') {
                 return false;
             }
-            i--; j--;
         }
 
-        // Check upper-right diagonal ↗
-        i = row - 1, j = col + 1;
-        while (i >= 0 && j < n) {
-            if (chessRow[i][j] == 'Q') {
+        // Right diagonal check
+        for (int i = RowIndex, j = ColumnIndex; i >= 0 && j < n; i--, j++) {
+            if (boardRow[i][j] == 'Q') {
                 return false;
             }
-            i--; j++;
         }
-
         return true;
     }
 
-    void placeQueens(int n, vector<string>& chessRow,
-                     vector<vector<string>>& chessBoard, int row) {
-        if (row >= n) {
-            chessBoard.push_back(chessRow);
+    // Helper Function
+    void placeQueens(vector<vector<string>>& chessBoard,
+                     vector<string>& boardRow, int n, int RowIndex) {
+
+        // Base Case
+        if (RowIndex == n) {
+
+            // Adding the row to our chessboard
+            chessBoard.push_back(boardRow);
+
             return;
         }
 
-        for (int col = 0; col < n; col++) {
-            if (validQueenPosition(n, chessRow, row, col)) {
-                chessRow[row][col] = 'Q';
-                placeQueens(n, chessRow, chessBoard, row + 1);
-                chessRow[row][col] = '.';
+        for (int  ColumnIndex = 0;  ColumnIndex < n;  ColumnIndex++) {
+
+            // If position is valid , assign a queen.
+            if (isValidPosition(boardRow, n, RowIndex, ColumnIndex)) {
+
+                boardRow[RowIndex][ ColumnIndex] = 'Q';
+                placeQueens(chessBoard, boardRow, n, RowIndex + 1);
+
+                // Remove the queen and replace with '.'
+                boardRow[RowIndex][ ColumnIndex] = '.';
             }
         }
     }
 
+    // Main Function
     vector<vector<string>> solveNQueens(int n) {
-        vector<string> chessRow(n, string(n, '.'));
+
+        // Final chess board that we would return
         vector<vector<string>> chessBoard;
-        placeQueens(n, chessRow, chessBoard, 0);
+
+        // Temporary strip/row for conducting operations
+        vector<string> boardRow(n, string(n, '.'));
+
+        int RowIndex = 0;
+
+        // Calling our helper function
+        placeQueens(chessBoard, boardRow, n, RowIndex);
+
         return chessBoard;
     }
 };
