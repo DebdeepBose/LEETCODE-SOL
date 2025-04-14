@@ -4,21 +4,21 @@ public:
                          int ColumnIndex) {
 
         // Vertiacl check
-        for (int i = RowIndex; i >= 0; i--) {
+        for (int i = RowIndex - 1; i >= 0; i--) {
             if (boardRow[i][ColumnIndex] == 'Q') {
                 return false;
             }
         }
 
         // Left Diagonal Check
-        for (int i = RowIndex, j = ColumnIndex; i >= 0 && j >= 0; i--, j--) {
+        for (int i = RowIndex - 1, j = ColumnIndex - 1; i >= 0 && j >= 0; i--, j--) {
             if (boardRow[i][j] == 'Q') {
                 return false;
             }
         }
 
         // Right diagonal check
-        for (int i = RowIndex, j = ColumnIndex; i >= 0 && j < n; i--, j++) {
+        for (int i = RowIndex - 1, j = ColumnIndex + 1; i >= 0 && j < n; i--, j++) {
             if (boardRow[i][j] == 'Q') {
                 return false;
             }
