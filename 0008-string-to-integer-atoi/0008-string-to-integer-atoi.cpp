@@ -1,52 +1,32 @@
 class Solution {
-    
-    // Recursive helper function to convert string to integer
-    long convertStringToInt(string str, int sign, int index, long accumulatedResult) {
-
-        // Clamp the result if it exceeds 32-bit signed integer range
-        if (sign * accumulatedResult >= INT_MAX) {
+    long atoi(string s, int sign, int i, long result) {
+        if (sign * result >= INT_MAX) {
             return INT_MAX;
         }
-        if (sign * accumulatedResult <= INT_MIN) {
+        if (sign * result <= INT_MIN) {
             return INT_MIN;
         }
-
-        // Base case: if index out of bounds or current character is not a digit, return final result
-        if (index >= str.size() || str[index] < '0' || str[index] > '9') {
-            return sign * accumulatedResult;
+        if (i >= s.size() || s[i] < '0' || s[i] > '9') {
+            return sign * result;
         }
 
-        // Recursive call: move to the next digit and update the result
-        accumulatedResult = convertStringToInt(
-            str, 
-            sign, 
-            index + 1, 
-            (accumulatedResult * 10 + (str[index] - '0'))
-        );
+        result = atoi(s, sign, i + 1, (result * 10 + (s[i] - '0')));
 
-        return accumulatedResult;
+        return result;
     }
 
 public:
-    int myAtoi(string inputStr) {
-        int index = 0;
-        int length = inputStr.size();
-        int sign = 1;
+    int myAtoi(string s) {
 
-        //Skip leading whitespaces
-        while (index < length && inputStr[index] == ' ') {
-            index++;
-        }
+        int i = 0, n = s.size(), sign = 1;
+        while (i < n && s[i] == ' ')
+            i++;
 
-        //Handle sign
-        if (index < length && inputStr[index] == '-') {
-            sign = -1;
-            index++;
-        } else if (index < length && inputStr[index] == '+') {
-            index++;
-        }
+        if (s[i] == '-')
+            sign = -1, ++i;
+        else if (s[i] == '+')
+            i++;
 
-        //Convert remaining characters to integer using recursion
-        return convertStringToInt(inputStr, sign, index, 0);
+        return atoi(s, sign, i, 0);
     }
 };
