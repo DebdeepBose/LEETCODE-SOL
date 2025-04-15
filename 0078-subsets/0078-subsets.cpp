@@ -7,10 +7,11 @@ public:
             return;
         }
 
-        gen(ans, tmp, n, idx + 1, v);
         tmp.push_back(v[idx]);
         gen(ans, tmp, n, idx + 1, v);
         tmp.pop_back();
+        gen(ans, tmp, n, idx + 1, v);
+        
     }
     vector<vector<int>> subsets(vector<int>& v) {
         int n = v.size();
