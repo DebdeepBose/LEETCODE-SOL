@@ -1,6 +1,8 @@
 class Solution {
+    
     // Recursive helper function to convert string to integer
     long convertStringToInt(string str, int sign, int index, long accumulatedResult) {
+
         // Clamp the result if it exceeds 32-bit signed integer range
         if (sign * accumulatedResult >= INT_MAX) {
             return INT_MAX;
