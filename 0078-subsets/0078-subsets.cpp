@@ -1,34 +1,22 @@
 class Solution {
 public:
-    // Recursive helper to generate all subsets (power set)
-    void generateSubsets(vector<int>& inputSet, vector<vector<int>>& allSubsets,
-                         vector<int>& currentSubset, int totalElements,
-                         int recursionDepth) {
-
-        // Base case: if recursion reaches end of input
-        if (recursionDepth >= totalElements) {
-            allSubsets.push_back(currentSubset);
+    void gen(vector<vector<int>>& ans, vector<int> &tmp, int n, int idx,
+             vector<int>& v) {
+        if (idx == n) {
+            ans.push_back(tmp);
             return;
         }
 
-        // Case 1: Exclude the current element
-        generateSubsets(inputSet, allSubsets, currentSubset, totalElements, recursionDepth + 1);
-
-        // Case 2: Include the current element
-        currentSubset.push_back(inputSet[recursionDepth]);
-        generateSubsets(inputSet, allSubsets, currentSubset, totalElements, recursionDepth + 1);
-
-        // Backtrack to remove the last element before returning
-        currentSubset.pop_back();
+        gen(ans, tmp, n, idx + 1, v);
+        tmp.push_back(v[idx]);
+        gen(ans, tmp, n, idx + 1, v);
+        tmp.pop_back();
     }
-
-    // Main driver function to initiate subset generation
-    vector<vector<int>> subsets(vector<int>& inputSet) {
-        vector<vector<int>> allSubsets;
-        vector<int> currentSubset;
-        int totalElements = inputSet.size();
-
-        generateSubsets(inputSet, allSubsets, currentSubset, totalElements, 0);
-        return allSubsets;
+    vector<vector<int>> subsets(vector<int>& v) {
+        int n = v.size();
+        vector<vector<int>> ans;
+        vector<int> tmp;
+        gen(ans, tmp, n, 0, v);
+        return ans;
     }
 };
