@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0050-powx-n) |
+| [0172-factorial-trailing-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0231-power-of-two) |
