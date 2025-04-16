@@ -9,17 +9,20 @@
  * }
  */
 class Solution {
-    public ListNode findMid(ListNode slow, ListNode fast) {
-        if (fast == null || fast.next == null) {
-            return slow;
-        }
-        
-        return findMid(slow.next, fast.next.next); 
-    }
-
     public ListNode middleNode(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
-        return findMid(slow,fast);
+        // 'slowPointer' will move one step at a time
+        ListNode slowPointer = head;
+
+        // 'fastPointer' will move two steps at a time
+        ListNode fastPointer = head;
+
+        // Traverse the list until 'fastPointer' reaches the end
+        while (fastPointer != null && fastPointer.next != null) {
+            fastPointer = fastPointer.next.next;  // Move two steps ahead
+            slowPointer = slowPointer.next;       // Move one step ahead
+        }
+
+        // 'slowPointer' is now at the middle node
+        return slowPointer;
     }
 }
