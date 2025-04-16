@@ -9,13 +9,17 @@
  * }
  */
 class Solution {
+    public ListNode findMid(ListNode slow, ListNode fast) {
+        if (fast == null || fast.next == null) {
+            return slow;
+        }
+        
+        return findMid(slow.next, fast.next.next); 
+    }
+
     public ListNode middleNode(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;
-        while (fast != null && fast.next != null) {
-            fast = fast.next.next;
-            slow = slow.next;
-        }
-        return slow;
+        return findMid(slow,fast);
     }
 }
