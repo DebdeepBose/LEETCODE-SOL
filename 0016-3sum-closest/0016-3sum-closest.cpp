@@ -15,8 +15,6 @@ public:
                 int sum = v[i] + v[j] + v[k];
                 if (sum == t) {
                     return sum;
-                    j++;
-                    k--;
                 } else if (sum < t) {
                     if (abs(t - sum) < dif) {
                         dif = abs(t - sum);
