@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0456-132-pattern) |
+| [0480-sliding-window-median](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0503-next-greater-element-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0454-4sum-ii) |
+| [0480-sliding-window-median](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0480-sliding-window-median) |
 | [0525-contiguous-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0567-permutation-in-string) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0643-maximum-average-subarray-i) |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0218-the-skyline-problem) |
+| [0480-sliding-window-median](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1127-last-stone-weight) |
