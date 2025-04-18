@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0187-repeated-dna-sequences) |
 | [0290-word-pattern](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0290-word-pattern) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0416-partition-equal-subset-sum) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0216-combination-sum-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Brainteaser
