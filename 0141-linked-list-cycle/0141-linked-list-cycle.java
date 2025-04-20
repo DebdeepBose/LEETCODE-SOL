@@ -11,14 +11,27 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        ListNode slow_pointer = head, fast_pointer = head;
-        while (fast_pointer != null && fast_pointer.next != null) {
-            slow_pointer = slow_pointer.next;
-            fast_pointer = fast_pointer.next.next;
-            if (slow_pointer == fast_pointer) {
+        // If the list is empty or has only one node, it can't have a cycle
+        if (head == null || head.next == null) {
+            return false;
+        }
+
+        // Initialize two pointers for cycle detection
+        ListNode slowPointer = head;
+        ListNode fastPointer = head;
+
+        // Traverse the list using two pointers at different speeds
+        while (fastPointer != null && fastPointer.next != null) {
+            slowPointer = slowPointer.next;             // Move by 1 step
+            fastPointer = fastPointer.next.next;        // Move by 2 steps
+
+            // If they meet, a cycle exists
+            if (slowPointer == fastPointer) {
                 return true;
             }
         }
+
+        // If fastPointer reaches the end, there's no cycle
         return false;
     }
 }
