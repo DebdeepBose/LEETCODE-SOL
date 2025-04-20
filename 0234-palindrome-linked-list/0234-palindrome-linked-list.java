@@ -17,16 +17,17 @@ class Solution {
             slowPointer = nextNode;
         }
 
-        ListNode left = head;
-        ListNode right = previousNode;
+        ListNode leftPointer = head;
+        ListNode rightPointer = previousNode;
         
-        while(right != null){
-            if(left.val != right.val){
+        while (rightPointer != null) {
+            if (leftPointer.val != rightPointer.val) {
                 return false;
             }
-            left = left.next;
-            right = right.next;
+            leftPointer = leftPointer.next;
+            rightPointer = rightPointer.next;
         }
-    return true;
+        
+        return true;
     }
 }
