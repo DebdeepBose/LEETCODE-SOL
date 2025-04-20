@@ -26,19 +26,19 @@ class Solution {
         }
 
         // Use a temporary pointer to traverse the list
-        ListNode tmp = head;
+        ListNode tempNode = head;
         
         // Traverse the list to find GCD of consecutive nodes and insert it
-        while (tmp != null && tmp.next != null) {
-            int insVal = gcd(tmp.val, tmp.next.val);  // Get the GCD of current and next node
-            ListNode newNode = new ListNode(insVal);  // Create a new node with the GCD value
+        while (tempNode != null && tempNode.next != null) {
+            int valueToInsert = gcd(tempNode.val, tempNode.next.val);  // Get the GCD of current and next node
+            ListNode newNode = new ListNode(valueToInsert);  // Create a new node with the GCD value
 
             // Insert the new node after the current node
-            newNode.next = tmp.next;
-            tmp.next = newNode;
+            newNode.next = tempNode.next;
+            tempNode.next = newNode;
 
             // Move the temporary pointer forward by two steps (skip the inserted node)
-            tmp = tmp.next.next;
+            tempNode = tempNode.next.next;
         }
 
         return head;
