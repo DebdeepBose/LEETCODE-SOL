@@ -1,5 +1,9 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
+
+        if(head == null || head.next == null){
+            return true;
+        }
         // Initialize two pointers, slowPointer and fastPointer, both starting at the head of the list.
         ListNode slowPointer = head;
         ListNode fastPointer = head;
