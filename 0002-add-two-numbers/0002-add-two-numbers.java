@@ -42,7 +42,7 @@ class Solution {
 
         // Add final carry if it exists
         if (carry > 0) {
-            current.next = new ListNode(1);
+            current.next = new ListNode(carry); //Instead of carry u may give 1
         }
 
         return dummyNode.next;
