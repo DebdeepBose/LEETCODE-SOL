@@ -11,22 +11,27 @@
  */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
-        while(fast != null && fast.next != null){
-            slow = slow.next;
-            fast = fast.next.next;
-            if(slow  == fast){
-                while(head != slow){
+        // Initialize slow and fast pointers
+        ListNode slowPointer = head;
+        ListNode fastPointer = head;
+
+        // Detect if a cycle exists using Floyd's Tortoise and Hare algorithm
+        while (fastPointer != null && fastPointer.next != null) {
+            slowPointer = slowPointer.next;           // Move slowPointer by 1
+            fastPointer = fastPointer.next.next;      // Move fastPointer by 2
+
+            // If they meet, a cycle is detected
+            if (slowPointer == fastPointer) {
+                //Find the starting point of the cycle
+                while (head != slowPointer) {
                     head = head.next;
-                    slow = slow.next;
+                    slowPointer = slowPointer.next;
                 }
-                return slow;
+                return slowPointer; // Cycle detected, return entry point
             }
         }
-        if(fast == null || fast.next == null){
-            return null;
-        }
-        return slow;
+
+        // If fastPointer reaches null, there is no cycle
+        return null;
     }
 }
