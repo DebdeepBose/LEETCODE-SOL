@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1803-average-waiting-time](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0735-asteroid-collision) |
 | [1449-print-words-vertically](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1449-print-words-vertically) |
+| [1803-average-waiting-time](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1803-average-waiting-time) |
 | [2232-adding-spaces-to-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2692-take-gifts-from-the-richest-pile) |
