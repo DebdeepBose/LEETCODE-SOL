@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0179-largest-number) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0283-move-zeroes) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0169-majority-element) |
 | [0218-the-skyline-problem](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0234-palindrome-linked-list) |
@@ -897,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0948-sort-an-array) |
