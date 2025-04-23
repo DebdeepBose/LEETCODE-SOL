@@ -6,11 +6,11 @@ class Solution {
 
         ListNode slow = head;
         ListNode fast = head;
-        for (int i = 0; i < k - 1; i++) {
+        for (int i = 1; i < k; i++) {
             fast = fast.next;
         }
-        ListNode tmpFast = fast.next;
-        while(tmpFast != null){
+        ListNode tmpFast = fast;
+        while(tmpFast.next != null){
             slow = slow.next;
             tmpFast = tmpFast.next;
         } 
