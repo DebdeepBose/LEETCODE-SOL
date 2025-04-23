@@ -11,10 +11,12 @@
 class Solution {
     public void reorderList(ListNode head) {
 
-        if(head == null || head.next == null){
+        // If the list is empty or has only one node, no need to reorder
+        if (head == null || head.next == null) {
             return;
         }
 
+        // Find the middle of the linked list using slow and fast pointers
         ListNode slow = head;
         ListNode fast = head;
         ListNode tail1 = null;
@@ -24,8 +26,10 @@ class Solution {
             fast = fast.next.next;
         }
 
+        // Break the list into two halves: [head -> ... -> tail1] and [slow -> ...]
         tail1.next = null;
 
+        // Reverse the second half of the list
         ListNode prev = null;
         while (slow != null) {
             ListNode nxt = slow.next;
@@ -34,20 +38,23 @@ class Solution {
             slow = nxt;
         }
 
+        // Merge the two halves alternately
         ListNode left = head;
         ListNode right = prev;
-
         while (left != null) {
             ListNode rightOfLeft = left.next;
             ListNode rightOfRight = right.next;
 
             left.next = right;
 
+            // If the left half ends, we're done
             if (rightOfLeft == null) {
                 break;
             }
 
             right.next = rightOfLeft;
+
+            // Move to the next pair of nodes in both halves
             left = rightOfLeft;
             right = rightOfRight;
         }
