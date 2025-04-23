@@ -11,26 +11,40 @@
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
 
+        // If the list is empty or has only one node, return it as is.
         if (head == null || head.next == null) {
             return head;
         }
 
-        ListNode dummy = new ListNode(-1);
-        ListNode left = dummy;
-        dummy.next = head;
-        ListNode right = left.next;
-        while (right != null) {
-            while (right.next != null && right.val == right.next.val) {
-                right = right.next;
+        // Create a dummy node before the head to simplify edge-case handling.
+        ListNode dummyNode = new ListNode(-1);
+        dummyNode.next = head;
+
+        // Initialize two pointers: one trailing (leftPointer) and one leading (rightPointer).
+        ListNode leftPointer = dummyNode;
+        ListNode rightPointer = leftPointer.next;
+
+        // Traverse the list with rightPointer.
+        while (rightPointer != null) {
+
+            // Move rightPointer forward as long as duplicate values are found.
+            while (rightPointer.next != null && rightPointer.val == rightPointer.next.val) {
+                rightPointer = rightPointer.next;
             }
-            if (left.next == right) {
-                left = left.next;
-                right = right.next;
-            } else if (left.next != right) {
-                left.next = right.next;
-                right = left.next;
+
+            // If no duplicates were found between leftPointer and rightPointer, move both forward.
+            if (leftPointer.next == rightPointer) {
+                leftPointer = leftPointer.next;
+                rightPointer = rightPointer.next;
+            } 
+            // If duplicates were found, skip all of them by linking leftPointer to the node after rightPointer.
+            else {
+                leftPointer.next = rightPointer.next;
+                rightPointer = leftPointer.next;
             }
         }
-        return dummy.next;
+
+        // Return the modified list, skipping the dummy node.
+        return dummyNode.next;
     }
 }
