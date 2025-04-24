@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3799-unique-3-digit-even-numbers) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3817-maximum-containers-on-a-ship](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3817-maximum-containers-on-a-ship) |
 ## Simulation
 |  |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3784-longest-common-prefix-of-k-strings-after-removal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3784-longest-common-prefix-of-k-strings-after-removal) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -977,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
