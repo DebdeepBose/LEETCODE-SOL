@@ -28,6 +28,11 @@ class Solution {
             tail = tail.next;
         }
 
+        //Its the same if the length is equal to k
+        if(listLength == k){
+            return head;
+        }
+
         //In case k > listLength
         k = k % listLength;
 
