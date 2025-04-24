@@ -9,49 +9,49 @@
  * }
  */
 class Solution {
-    static ListNode reverseLinkedList(ListNode head) {
-        ListNode temp = head;  
-        ListNode prev = null;  
-        while (temp != null) {  
-            ListNode front = temp.next;  
-            temp.next = prev;  
-            prev = temp;  
-            temp = front; 
+    public ListNode reverse(ListNode tmpHead) {
+        ListNode prev = null;
+        while (tmpHead != null) {
+            ListNode nxt = tmpHead.next;
+            tmpHead.next = prev;
+            prev = tmpHead;
+            tmpHead = nxt;
         }
-        return prev;  
+        return prev;
     }
 
-    static ListNode getKthNode(ListNode temp, int k) {
-        k -= 1;
-        while (temp != null && k > 0) {
-            k--;
-            temp = temp.next;
+    public ListNode getKthNode(ListNode start, int k) {
+        for (int i = 0; i < k - 1; i++) {
+            if (start == null) {
+                return null;
+            }
+            start = start.next;
         }
-        return temp;
+        return start;
     }
 
     public ListNode reverseKGroup(ListNode head, int k) {
-        ListNode temp = head;
+        ListNode tmp = head;
         ListNode prevLast = null;
-        while (temp != null) {
-            ListNode kThNode = getKthNode(temp, k);
-            if (kThNode == null) {
-                if (prevLast != null) {
-                    prevLast.next = temp;
+        while (tmp != null) {
+            ListNode kth = getKthNode(tmp, k);
+            if (kth == null) {
+                if(prevLast != null){
+                    prevLast.next = tmp;
                 }
                 break;
             }
-            ListNode nextNode = kThNode.next;
-            kThNode.next = null;
-            reverseLinkedList(temp);
-            if (temp == head) {
-                head = kThNode;
+            ListNode nextOfK = kth.next; //Preserve next node ok k , for linking
+            kth.next = null;
+            reverse(tmp);
+            if (tmp == head) { //First k - Group
+                head = kth;
             } else {
-                prevLast.next = kThNode;
+                prevLast.next = kth;
             }
-            prevLast = temp;
-            temp = nextNode;
+            prevLast = tmp;
+            tmp = nextOfK;
         }
-        return head;  
+        return head;
     }
 }
