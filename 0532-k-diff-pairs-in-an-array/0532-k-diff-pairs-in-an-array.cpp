@@ -1,31 +1,36 @@
 class Solution {
 public:
+    // Function to find the number of unique k-diff pairs in the array
     int findPairs(vector<int>& v, int k) {
-        if (k < 0) {
-            return 0;
+        unordered_map<int, int> pairFrequency; // Stores frequency of each element
+        int size = v.size(); // Size of the input array
+
+        // Count the frequency of each number in the array
+        for (int i = 0; i < size; i++) {
+            pairFrequency[v[i]]++;
         }
 
-        unordered_map<int, int> mp;
-        int n = v.size();
-        int c = 0;
+        int countPairs = 0;
 
-        for (int i = 0; i < n; i++) {
-            mp[v[i]]++;
-        }
+        // Iterate over the frequency map to count valid pairs
+        for (auto element : pairFrequency) {
+            int currentNum = element.first;
+            int req = currentNum + k;
 
-        for (auto [num, freq] : mp) {
-            int req = num + k;
+            // If k == 0, then the required number is literally the same as the current number.
+            // So, we're basically looking for duplicates of the same number.
+            // If we find such duplicates (i.e., frequency > 1), we count it as a valid pair (x, x).
             if (k == 0) {
-                if (freq > 1) {
-                    c++;
+                if (element.second > 1) {
+                    countPairs++;
                 }
-            } else {
-                if (mp.find(req) != mp.end()) {
-                    c++;
-                }
+            } 
+            // If k > 0, just check if the complementary value exists in the map
+            else if (pairFrequency.find(req) != pairFrequency.end()) {
+                countPairs++;
             }
         }
 
-        return c;
+        return countPairs;
     }
 };
