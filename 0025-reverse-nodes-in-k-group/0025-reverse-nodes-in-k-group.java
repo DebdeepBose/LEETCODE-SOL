@@ -9,48 +9,48 @@
  * }
  */
 class Solution {
-    public ListNode reverse(ListNode tmpHead) {
-        ListNode prev = null;
-        while (tmpHead != null) {
-            ListNode nxt = tmpHead.next;
-            tmpHead.next = prev;
-            prev = tmpHead;
-            tmpHead = nxt;
-        }
-        return prev;
-    }
-
-    public ListNode getKthNode(ListNode start, int k) {
+    public ListNode getKthNode(ListNode tmpNode, int k) {
         for (int i = 0; i < k - 1; i++) {
-            if (start == null) {
+            if (tmpNode == null) {
                 return null;
             }
-            start = start.next;
+            tmpNode = tmpNode.next;
         }
-        return start;
+        return tmpNode;
+    }
+
+    public ListNode reverse(ListNode subHead) {
+        ListNode prev = null;
+        while (subHead != null) {
+            ListNode nxt = subHead.next;
+            subHead.next = prev;
+            prev = subHead;
+            subHead = nxt;
+        }
+        return prev;
     }
 
     public ListNode reverseKGroup(ListNode head, int k) {
         ListNode tmp = head;
         ListNode prevLast = null;
         while (tmp != null) {
-            ListNode kth = getKthNode(tmp, k);
-            if (kth == null) {
-                if(prevLast != null){
+            ListNode kthNode = getKthNode(tmp, k);
+            if (kthNode == null) {
+                if (prevLast != null) {
                     prevLast.next = tmp;
                 }
                 break;
             }
-            ListNode nextOfK = kth.next; //Preserve next node ok k , for linking
-            kth.next = null;
+            ListNode knext = kthNode.next;
+            kthNode.next = null;
             reverse(tmp);
-            if (tmp == head) { //First k - Group
-                head = kth;
+            if (tmp == head) {
+                head = kthNode;
             } else {
-                prevLast.next = kth;
+                prevLast.next = kthNode;
             }
             prevLast = tmp;
-            tmp = nextOfK;
+            tmp = knext;
         }
         return head;
     }
