@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2586-longest-square-streak-in-an-array) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1813-maximum-erasure-value) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2868-continuous-subarrays) |
@@ -754,11 +756,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0225-implement-stack-using-queues) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0954-maximum-sum-circular-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0954-maximum-sum-circular-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2868-continuous-subarrays) |
 ## Stack
 |  |
