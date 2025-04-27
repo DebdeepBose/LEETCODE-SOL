@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3639-zero-array-transformation-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3639-zero-array-transformation-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3784-longest-common-prefix-of-k-strings-after-removal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3784-longest-common-prefix-of-k-strings-after-removal) |
 | [3799-unique-3-digit-even-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3799-unique-3-digit-even-numbers) |
