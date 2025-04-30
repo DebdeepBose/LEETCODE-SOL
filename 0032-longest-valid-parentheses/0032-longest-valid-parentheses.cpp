@@ -4,29 +4,38 @@ public:
         if (s.empty()) {
             return 0;
         }
-        stack<int> st;
-        string tmp = s;
-
-        for (int i = 0; i < s.size(); i++) {
-            if (!st.empty() && s[i] == ')' && s[st.top()] == '(') {
-                tmp[i] = 'd';
-                tmp[st.top()] = 'd';
-                st.pop();
-            } else {
-                st.push(i);
+        int left = 0;
+        int right = 0;
+        int maxlen = 0;
+        for (auto c : s) {
+            if (c == '(') {
+                left++;
+            } else if (c == ')') {
+                right++;
+            }
+            if (left == right) {
+                maxlen = max(maxlen, left + right);
+            } else if (right > left) {
+                left = 0;
+                right = 0;
             }
         }
+        left = 0;
+        right = 0;
 
-        int len = 0, maxlen = 0;
-        for (char c : tmp) {
-            if (c == 'd') {
-                len++;
-                maxlen = max(maxlen,len);
-            } else {
-                len = 0;
+        for (int i = s.size() - 1; i >= 0; i--) {
+            if (s[i] == '(') {
+                left++;
+            } else if (s[i] == ')') {
+                right++;
+            }
+            if (left == right) {
+                maxlen = max(maxlen, left + right);
+            } else if (left > right) {
+                left = 0;
+                right = 0;
             }
         }
-
         return maxlen;
     }
 };
