@@ -1,33 +1,28 @@
 class Solution {
 public:
-    int findUnsortedSubarray(vector<int>& v) {
-        vector<int> tmp(v.begin(), v.end());
-        sort(tmp.begin(), tmp.end());
-        int start = -1;
-        int end = -1;
-        bool flag = false;
-        vector<bool> mp(v.size(), false);
-        for (int i = 0; i < v.size(); i++) {
-            if (v[i] != tmp[i]) {
-                flag = true;
-                mp[i] = true;
-            }
-        }
-        for (int i = 0; i < mp.size(); i++) {
-            if (mp[i] == true) {
-                start = i;
-                break;
-            }
-        }
-        for (int i = mp.size() - 1; i >= 0; i--) {
-            if (mp[i] == true) {
+    int findUnsortedSubarray(vector<int>& nums) {
+        int n = nums.size();
+        int start = -1, end = -1;
+        int maxSeen = INT_MIN, minSeen = INT_MAX;
+
+        for (int i = 0; i < n; i++) {
+            maxSeen = max(maxSeen, nums[i]);
+            if (nums[i] < maxSeen) {
                 end = i;
-                break;
             }
         }
-        if (!flag) {
-            return end - start;
+
+        for (int i = n - 1; i >= 0; i--) {
+            minSeen = min(minSeen, nums[i]);
+            if (nums[i] > minSeen) {
+                start = i;
+            }
         }
+
+        if (start == -1) {
+            return 0;
+        }
+
         return end - start + 1;
     }
 };
