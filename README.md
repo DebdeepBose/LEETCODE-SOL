@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2048-build-array-from-permutation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2102-find-the-middle-index-in-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0735-asteroid-collision) |
 | [1449-print-words-vertically](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1449-print-words-vertically) |
 | [1803-average-waiting-time](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1803-average-waiting-time) |
+| [2048-build-array-from-permutation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2692-take-gifts-from-the-richest-pile) |
