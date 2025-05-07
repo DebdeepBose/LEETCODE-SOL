@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2102-find-the-middle-index-in-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2232-adding-spaces-to-a-string) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1813-maximum-erasure-value) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
