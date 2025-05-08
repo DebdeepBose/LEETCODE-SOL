@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0268-missing-number) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0187-repeated-dna-sequences) |
+| [0224-basic-calculator](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0344-reverse-string) |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0316-remove-duplicate-letters) |
@@ -858,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0326-power-of-three) |
