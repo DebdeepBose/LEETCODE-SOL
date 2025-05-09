@@ -60,7 +60,7 @@ public:
             return {{}};
         }
 
-        sort(nums.begin(), nums.end());  // Sort the array to apply two-pointer method
+        sort(nums.begin(), nums.end());  // Sort the array to apply three-pointer method
 
         vector<vector<int>> allTriplets;  // Vector to store all unique valid triplets
 
