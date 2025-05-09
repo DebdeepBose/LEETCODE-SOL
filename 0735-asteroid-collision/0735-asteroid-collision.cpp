@@ -19,7 +19,6 @@ public:
                 }
             }
         }
-        
         vector<int> ans;
         while (!st.empty()) {
             ans.push_back(st.top());
