@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0409-longest-palindrome) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0187-repeated-dna-sequences) |
 | [0224-basic-calculator](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0383-ransom-note) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0594-longest-harmonious-subsequence) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1034-subarrays-with-k-different-integers) |
