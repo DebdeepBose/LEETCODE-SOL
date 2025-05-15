@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3227-find-missing-and-repeated-values) |
 | [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3373-maximum-prime-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3373-maximum-prime-difference) |
 | [3427-special-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3427-special-array-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
