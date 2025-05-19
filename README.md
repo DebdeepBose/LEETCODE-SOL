@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3373-maximum-prime-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3373-maximum-prime-difference) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2955-account-balance-after-rounded-purchase](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3001-apply-operations-to-maximize-score](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3373-maximum-prime-difference) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2892-check-if-array-is-good) |
 | [3001-apply-operations-to-maximize-score](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3001-apply-operations-to-maximize-score) |
+| [3321-type-of-triangle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3321-type-of-triangle) |
 ## Geometry
 |  |
 | ------- |
