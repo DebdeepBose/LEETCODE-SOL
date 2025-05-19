@@ -3,7 +3,7 @@ public:
     vector<string> wordSubsets(vector<string>& w1, vector<string>& w2) {
         vector<int> cnt(26, 0), tmp(26);
 
-        for (const string e : w2) {
+        for (auto e : w2) {
             fill(tmp.begin(), tmp.end(), 0);
             for (char ch : e) {
                 tmp[ch - 'a']++;
