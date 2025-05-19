@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0966-binary-subarrays-with-sum) |
 | [0979-di-string-match](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0979-di-string-match) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0797-rabbits-in-forest) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0929-groups-of-special-equivalent-strings) |
+| [0952-word-subsets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1034-subarrays-with-k-different-integers) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0868-push-dominoes) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0929-groups-of-special-equivalent-strings) |
+| [0952-word-subsets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0979-di-string-match) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1146-greatest-common-divisor-of-strings) |
