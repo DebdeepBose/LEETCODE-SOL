@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-check-if-it-is-a-good-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1372-check-if-it-is-a-good-array) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1449-print-words-vertically](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1449-print-words-vertically) |
 | [1524-string-matching-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -1057,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0945-snakes-and-ladders) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1156,4 +1158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0324-wiggle-sort-ii) |
+## Graph
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 <!---LeetCode Topics End-->
