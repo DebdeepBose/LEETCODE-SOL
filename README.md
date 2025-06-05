@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0979-di-string-match) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1260-day-of-the-year](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1260-day-of-the-year) |
@@ -1136,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0128-longest-consecutive-sequence) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Combinatorics
 |  |
