@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3799-unique-3-digit-even-numbers) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Math
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3784-longest-common-prefix-of-k-strings-after-removal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3784-longest-common-prefix-of-k-strings-after-removal) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3813-smallest-palindromic-rearrangement-ii) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
 |  |
