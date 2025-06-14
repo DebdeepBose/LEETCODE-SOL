@@ -1,34 +1,22 @@
 class Solution {
 public:
     int minMaxDifference(int num) {
-        int tmp = num;
         string smx = to_string(num);
-        bool flag = true;
         int i = 0;
-        while (smx[i] == '9') {
-            if (i == smx.size()) {
-                flag = false;
-            }
-            i++;
-        }
-        if (flag) {
+        while (i < smx.size() && smx[i] == '9') i++;
+        if (i < smx.size()) {
             char f = smx[i];
             for (char& e : smx) {
-                if (e == f) {
-                    e = '9';
-                }
+                if (e == f) e = '9';
             }
         }
         int numax = stoi(smx);
-        string smn = to_string(tmp);
+        string smn = to_string(num);
         char z = smn[0];
         for (char& e : smn) {
-            if (e == z) {
-                e = '0';
-            }
+            if (e == z) e = '0';
         }
         int numin = stoi(smn);
-
         return numax - numin;
     }
 };
