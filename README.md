@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3195-separate-black-and-white-balls) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 ## Sorting
 |  |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2892-check-if-array-is-good) |
 | [3001-apply-operations-to-maximize-score](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3001-apply-operations-to-maximize-score) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3321-type-of-triangle) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
