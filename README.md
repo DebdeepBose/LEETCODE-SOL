@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2358-number-of-ways-to-split-array) |
 | [2360-substring-with-largest-variance](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2360-substring-with-largest-variance) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2300-construct-string-with-repeat-limit) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2487-optimal-partition-of-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2487-optimal-partition-of-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2549-next-greater-element-iv](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2549-next-greater-element-iv) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2581-divide-players-into-teams-of-equal-skill) |
