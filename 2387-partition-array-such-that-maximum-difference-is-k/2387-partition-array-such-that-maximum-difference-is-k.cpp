@@ -1,19 +1,16 @@
 class Solution {
 public:
-    int partitionArray(vector<int>& v, int k) {
-        sort(v.begin(), v.end());
-        int n = v.size();
-        if (n == 1 || n == 0) {
-            return n;
-        }
-        int mini = v[0];
-        int parts = 1;
-        for (int i = 1; i < n; i++) {
-            if (v[i] - mini > k) {
-                parts++;
-                mini = v[i];
+        int partitionArray(vector<int>& A, int k) {
+        sort(A.begin(), A.end());
+        int res = 1, mn = A[0], mx = A[0];
+        for (int& a: A) {
+            mn = min(mn, a);
+            mx = max(mx, a);
+            if (mx - mn > k) {
+                res++;
+                mn = mx = a;
             }
         }
-        return parts;
+        return res;
     }
 };
