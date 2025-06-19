@@ -6,7 +6,6 @@ public:
         if (n == 1 || n == 0) {
             return n;
         }
-
         int mini = v[0];
         int parts = 1;
         for (int i = 1; i < n; i++) {
