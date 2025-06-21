@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3447-clear-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3447-clear-digits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 ## Sorting
 |  |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Geometry
@@ -684,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
