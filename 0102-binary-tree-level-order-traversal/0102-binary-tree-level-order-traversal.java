@@ -1,40 +1,40 @@
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
- * int val;
- * TreeNode left;
- * TreeNode right;
- * TreeNode() {}
- * TreeNode(int val) { this.val = val; }
- * TreeNode(int val, TreeNode left, TreeNode right) {
- * this.val = val;
- * this.left = left;
- * this.right = right;
- * }
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
  * }
  */
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         Queue<TreeNode> q = new LinkedList<>();
-        List<List<Integer>> v = new ArrayList<List<Integer>>();
-        q.add(root);
-        if (root == null) {
-            return v;
+        List<List<Integer>> ans = new ArrayList<>();
+        if(root == null){
+            return ans;
         }
-        while (!q.isEmpty()) {
-            int qsize = q.size();
-            List<Integer> subv = new ArrayList<>();
-            for (int i = 0; i < qsize; i++) {
-                if (q.peek().left != null) {
+        q.add(root);
+        while(!q.isEmpty()){
+            List<Integer> tmp = new ArrayList<>();
+            int size = q.size();
+            for(int i=0;i<size;i++){
+                if(q.peek().left != null){
                     q.add(q.peek().left);
                 }
-                if (q.peek().right != null) {
+                if(q.peek().right != null){
                     q.add(q.peek().right);
                 }
-                subv.add(q.poll().val);
+                tmp.add(q.poll().val);
             }
-            v.add(subv);
+            ans.add(tmp);
         }
-        return v;
+        return ans;
     }
 }
