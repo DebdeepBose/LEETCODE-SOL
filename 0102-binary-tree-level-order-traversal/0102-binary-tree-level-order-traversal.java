@@ -21,20 +21,26 @@ class Solution {
             return ans;
         }
         q.add(root);
-        while(!q.isEmpty()){
-            List<Integer> tmp = new ArrayList<>();
-            int size = q.size();
-            for(int i=0;i<size;i++){
-                if(q.peek().left != null){
-                    q.add(q.peek().left);
-                }
-                if(q.peek().right != null){
-                    q.add(q.peek().right);
-                }
-                tmp.add(q.poll().val);
-            }
-            ans.add(tmp);
+        while (!q.isEmpty()) {
+    List<Integer> tmp = new ArrayList<>();
+    int size = q.size();
+
+    for (int i = 0; i < size; i++) {
+        TreeNode node = q.poll();  
+
+        tmp.add(node.val);         
+
+        if (node.left != null) {
+            q.add(node.left);
         }
+        if (node.right != null) {
+            q.add(node.right);
+        }
+    }
+
+    ans.add(tmp);
+}
+
         return ans;
     }
 }
