@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2358-number-of-ways-to-split-array) |
 | [2360-substring-with-largest-variance](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2360-substring-with-largest-variance) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2588-maximum-number-of-points-from-grid-queries) |
