@@ -15,7 +15,7 @@
  */
 class Solution {
     public int diameterOfBinaryTree(TreeNode root) {
-        int[] maxleftRightPathLen = new int[1];
+        int[] maxleftRightPathLen = {Integer.MIN_VALUE};
         findMaxPathLengthOnBothSides(root, maxleftRightPathLen);
         return maxleftRightPathLen[0];
     }
