@@ -15,28 +15,38 @@
  */
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>> sol = new ArrayList<>();
-        travel(root, sol, 0);
-        return sol;
-    }
+        Queue<TreeNode> q = new LinkedList<>();
+        List<List<Integer>> ans = new ArrayList<>();
+        if (root == null) {
+            return ans;
+        }
+        boolean flag = false;
+        q.add(root);
+        while (!q.isEmpty()) {
+            List<Integer> tmp = new ArrayList<>();
+            int size = q.size();
 
-    private void travel(TreeNode curr, List<List<Integer>> sol, int level) {
-        if (curr == null)
-            return;
+            for (int i = 0; i < size; i++) {
+                TreeNode node = q.poll();
 
-        if (sol.size() <= level) {
-            List<Integer> newLevel = new LinkedList<>();
-            sol.add(newLevel);
+                tmp.add(node.val);
+
+                if (node.left != null) {
+                    q.add(node.left);
+                }
+                if (node.right != null) {
+                    q.add(node.right);
+                }
+            }
+            if (flag) {
+                Collections.reverse(tmp);
+                flag = false;
+            } else {
+                flag = true;
+            }
+            ans.add(tmp);
         }
 
-        List<Integer> collection = sol.get(level);
-        if (level % 2 == 0) {
-            collection.add(curr.val);
-        } else {
-            collection.add(0, curr.val);
-        }
-        travel(curr.left, sol, level + 1);
-        travel(curr.right, sol, level + 1);
+        return ans;
     }
-
 }
