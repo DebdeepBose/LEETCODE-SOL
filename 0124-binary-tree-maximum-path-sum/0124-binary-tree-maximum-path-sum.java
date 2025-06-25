@@ -1,39 +1,37 @@
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
- * int val;
- * TreeNode left;
- * TreeNode right;
- * TreeNode() {}
- * TreeNode(int val) { this.val = val; }
- * TreeNode(int val, TreeNode left, TreeNode right) {
- * this.val = val;
- * this.left = left;
- * this.right = right;
- * }
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
  * }
  */
 class Solution {
     public int maxPathSum(TreeNode root) {
-        if (root == null) {
-            return 0;
-        }
-        int[] maxi = new int[1];
-        maxi[0] = Integer.MIN_VALUE;
-        maxPathFind(root, maxi);
-        return maxi[0];
+        int[] v = new int[1];
+        v[0] = Integer.MIN_VALUE;
+        help(root, v);
+        return v[0];
     }
-    public int maxPathFind(TreeNode node, int[] maxi) {
+
+    public int help(TreeNode node, int[] v) {
         if (node == null) {
             return 0;
         }
-        int lps = maxPathFind(node.left, maxi);
-        int lh = Math.max(0, lps);
 
-        int rps = maxPathFind(node.right, maxi);
-        int rh = Math.max(0, rps);
+        int left = help(node.left, v);
+        int leftsum = Math.max(0, left);
+        int right = help(node.right, v);
+        int rightsum = Math.max(0, right);
 
-        maxi[0] = Math.max(maxi[0], node.val + lh + rh);
-        return node.val + Math.max(lh, rh);
+        v[0] = Math.max(v[0], leftsum + rightsum + node.val);
+        return node.val + Math.max(leftsum, rightsum);
     }
 }
