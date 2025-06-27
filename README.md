@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2232-adding-spaces-to-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1829-maximum-units-on-a-truck](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1829-maximum-units-on-a-truck) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2300-construct-string-with-repeat-limit) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2300-construct-string-with-repeat-limit) |
 | [2448-count-number-of-bad-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2448-count-number-of-bad-pairs) |
@@ -899,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2873-prime-pairs-with-target-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2873-prime-pairs-with-target-sum) |
 | [3201-distribute-candies-among-children-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3201-distribute-candies-among-children-ii) |
@@ -1200,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0216-combination-sum-iii) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Brainteaser
 |  |
