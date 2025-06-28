@@ -11,20 +11,19 @@ public:
             }
         }
 
-        priority_queue<p, vector<p>, greater<p>> pq2;
-
+        vector<p> topK;
         while (!pq.empty()) {
             int f = pq.top().second;
             int s = pq.top().first;
-            pq2.push({f, s});
+            topK.push_back({f,s});
             pq.pop();
         }
 
-        vector<int> ans;
+        sort(topK.begin(),topK.end());
 
-        while (!pq2.empty()) {
-            ans.push_back(pq2.top().second);
-            pq2.pop();
+        vector<int> ans;
+        for(auto e : topK){
+            ans.push_back(e.second);
         }
 
         return ans;
