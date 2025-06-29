@@ -1,24 +1,31 @@
 class Solution {
 public:
-    int numSubseq(vector<int>& nums, int target) {
-        int mod = 1e9 + 7, n = nums.size();
-        sort(nums.begin(), nums.end());
+    int numSubseq(vector<int>& v, int k) {
+        int n = v.size();
+        int mod = 1e9 + 7;
+        sort(v.begin(), v.end());
 
-        vector<int> power(n, 1);
-        for (int i = 1; i < n; ++i) {
-            power[i] = (power[i - 1] * 2) % mod;
+        if (v[0] > k) {
+            return 0;
         }
 
-        int left = 0, right = n - 1, result = 0;
+        vector<int> pre(n, 1);
+        for (int i = 1; i < n; i++) {
+            pre[i] = (pre[i - 1] * 2) % mod;
+        }
 
-        while (left <= right) {
-            if (nums[left] + nums[right] <= target) {
-                result = (result + power[right - left]) % mod;
-                left++;
+        int l = 0;
+        int r = n - 1;
+        int ans = 0;
+
+        while (l <= r) {
+            if (v[l] + v[r] > k) {
+                r--;
             } else {
-                right--;
+                ans += (pre[r - l]) % mod;
+                l++;
             }
         }
-        return result;
+        return ans;
     }
 };
