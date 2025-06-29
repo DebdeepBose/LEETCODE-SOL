@@ -22,7 +22,7 @@ public:
             if (v[l] + v[r] > k) {
                 r--;
             } else {
-                ans += (pre[r - l]) % mod;
+                ans = (ans + pre[r - l]) % mod;
                 l++;
             }
         }
