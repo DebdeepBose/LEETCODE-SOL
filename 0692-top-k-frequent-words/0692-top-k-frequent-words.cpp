@@ -7,12 +7,15 @@ public:
         }
 
         auto cmp = [](pair<int, string>& a, pair<int, string>& b) {
-            if (a.first != b.first)
+            if (a.first != b.first) {
                 return a.first < b.first;
+            }
             return a.second > b.second;
         };
 
-        priority_queue<pair<int, string>, vector<pair<int, string>>, decltype(cmp)> pq(cmp);
+        priority_queue<pair<int, string>, vector<pair<int, string>>,
+                       decltype(cmp)>
+            pq(cmp);
 
         for (auto e : mp) {
             pq.push({e.second, e.first});
