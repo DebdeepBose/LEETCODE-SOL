@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
