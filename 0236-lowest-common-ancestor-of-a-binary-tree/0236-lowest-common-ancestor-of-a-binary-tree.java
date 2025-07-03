@@ -26,6 +26,6 @@ class Solution {
             return root;
         }
 
-        return (left != null) ? left : right;
+       return left == null ? right : left;
     }
 }
