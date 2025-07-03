@@ -1,15 +1,22 @@
 class Solution {
 public:
-    char kthCharacter(int k) {
-        string s = "a";
-        while (s.size() < k) {
-            string tmp = "";
-            for (char c : s) {
-                tmp += c + 1;
-            }
-            s += tmp;
-        }
+    char find(int k, char start, int len) {
+        // Base case: when length becomes 1, return the character directly
+        if (len == 1) return start;
 
-        return s[k - 1];
+        int half = len / 2;
+        if (k <= half) {
+            // Left part: same character sequence
+            return find(k, start, half);
+        } else {
+            // Right part: incremented characters
+            return find(k - half, start + 1, half);
+        }
+    }
+
+    char kthCharacter(int k) {
+        int len = 1;
+        while (len < k) len *= 2; // Find smallest power of 2 >= k
+        return find(k, 'a', len);
     }
 };
