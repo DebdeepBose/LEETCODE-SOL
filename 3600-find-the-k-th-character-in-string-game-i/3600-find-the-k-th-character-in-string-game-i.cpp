@@ -1,8 +1,10 @@
 class Solution {
 public:
     char find(int k, char start, int len) {
-        // Base case: when length becomes 1, return the character directly
-        if (len == 1) return start;
+
+        if (len == 1) {
+            return start;
+        }
 
         int half = len / 2;
         if (k <= half) {
@@ -16,7 +18,9 @@ public:
 
     char kthCharacter(int k) {
         int len = 1;
-        while (len < k) len *= 2; // Find smallest power of 2 >= k
+        while (len < k) {
+            len *= 2;
+        } // Find smallest power of 2 >= k
         return find(k, 'a', len);
     }
 };
