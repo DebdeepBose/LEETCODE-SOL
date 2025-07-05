@@ -3,14 +3,12 @@ public:
     string concatHex36(int n) {
         unordered_map<int, char> mp;
 
-        // Map values 0-35 to characters 0-9, A-Z
         for (int i = 0; i <= 9; i++) mp[i] = i + '0';
         for (int i = 10; i <= 35; i++) mp[i] = (i - 10 + 'A');
 
         int n2 = n * n;
         int n3 = n * n * n;
 
-        // Convert n^2 to hexadecimal (base 16)
         string res1 = "";
         if (n2 == 0) res1 = "0";
         while (n2 > 0) {
@@ -18,7 +16,7 @@ public:
             n2 /= 16;
         }
 
-        // Convert n^3 to base 36
+    
         string res2 = "";
         if (n3 == 0) res2 = "0";
         while (n3 > 0) {
