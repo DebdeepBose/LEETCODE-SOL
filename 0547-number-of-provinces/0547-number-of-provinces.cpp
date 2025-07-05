@@ -2,7 +2,7 @@ class Solution {
 public:
     void dfs(int node, vector<vector<int>>& v, vector<int>& vis) {
         vis[node] = 1;
-        for (int j = 0; j < v.size(); j++) {
+        for (int j = 0; j < v[node].size(); j++) {
             if (v[node][j] == 1 && !vis[j]) {
                 dfs(j, v, vis);
             }
