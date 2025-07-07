@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0164-maximum-gap) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0187-repeated-dna-sequences) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0050-powx-n) |
+| [0149-max-points-on-a-line](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0189-rotate-array) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0223-rectangle-area) |
 | [0830-largest-triangle-area](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1014-k-closest-points-to-origin) |
