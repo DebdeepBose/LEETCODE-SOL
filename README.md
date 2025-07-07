@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1449-print-words-vertically](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1449-print-words-vertically) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1009-pancake-sorting) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1502-construct-k-palindrome-strings) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1306-minimum-absolute-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1306-minimum-absolute-difference) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -1062,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2300-construct-string-with-repeat-limit) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
