@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0542-01-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0566-reshape-the-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -1107,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0777-toeplitz-matrix) |
@@ -1225,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0733-flood-fill) |
