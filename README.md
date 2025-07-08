@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1813-maximum-erasure-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1829-maximum-units-on-a-truck) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1923-sentence-similarity-iii) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1829-maximum-units-on-a-truck) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -779,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -933,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1764-maximum-repeating-substring](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1764-maximum-repeating-substring) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2360-substring-with-largest-variance](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2360-substring-with-largest-variance) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2586-longest-square-streak-in-an-array) |
