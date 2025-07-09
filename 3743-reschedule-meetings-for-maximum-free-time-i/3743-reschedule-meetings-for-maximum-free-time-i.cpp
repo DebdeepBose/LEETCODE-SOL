@@ -19,7 +19,7 @@ public:
             currentFree += freeTime[j];
             c++;
 
-            if (c > k + 1) {
+            while (c > k + 1) {
                 currentFree -= freeTime[i];
                 i++;
                 c--;
