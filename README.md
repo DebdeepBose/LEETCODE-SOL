@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3639-zero-array-transformation-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3462-vowels-game-in-a-string) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -831,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3394-minimum-array-end](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3394-minimum-array-end) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -1264,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -1344,6 +1348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0292-nim-game) |
 | [0828-chalkboard-xor-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0828-chalkboard-xor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3462-vowels-game-in-a-string) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Union Find
 |  |
 | ------- |
@@ -1395,4 +1400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1013-fibonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Bitmask
+|  |
+| ------- |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 <!---LeetCode Topics End-->
