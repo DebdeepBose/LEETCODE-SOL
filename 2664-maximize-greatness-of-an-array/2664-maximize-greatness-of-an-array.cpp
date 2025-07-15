@@ -1,13 +1,12 @@
 class Solution {
 public:
     int maximizeGreatness(vector<int>& v) {
-        sort(v.begin(), v.end());
-        int id = 0;
+        unordered_map<int, int> mp;
+        int k = 0;
         for (auto e : v) {
-            if (e > v[id]) {
-                id++;
-            }
+            mp[e]++;
+            k = max(k, mp[e]);
         }
-        return id;
+        return v.size() - k;
     }
 };
