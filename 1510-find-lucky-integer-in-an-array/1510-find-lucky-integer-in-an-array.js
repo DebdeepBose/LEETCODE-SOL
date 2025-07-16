@@ -10,7 +10,7 @@ var findLucky = function(arr) {
         var num = arr[i];
 
         if (freq[num] !== undefined) {
-            freq[num] = freq[num] + 1;
+            freq[num] += 1;
         } else {
             freq[num] = 1;
         }
