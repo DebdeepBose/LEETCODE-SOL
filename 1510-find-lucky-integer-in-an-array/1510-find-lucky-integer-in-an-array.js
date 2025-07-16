@@ -19,7 +19,7 @@ var findLucky = function(arr) {
     var result = -1;
 
     for (var key in freq) {
-        var keyAsNumber = parseInt(key);
+        var keyAsNumber = Number(key);
         var count = freq[key];
 
         if (keyAsNumber === count) {
