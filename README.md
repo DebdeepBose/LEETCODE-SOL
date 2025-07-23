@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1651-shuffle-string) |
 | [1764-maximum-repeating-substring](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1764-maximum-repeating-substring) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1923-sentence-similarity-iii) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1502-construct-k-palindrome-strings) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1829-maximum-units-on-a-truck) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1076,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
