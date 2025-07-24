@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2360-substring-with-largest-variance](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2360-substring-with-largest-variance) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2448-count-number-of-bad-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -864,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0342-power-of-four) |
 | [0828-chalkboard-xor-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0828-chalkboard-xor-game) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3394-minimum-array-end](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3394-minimum-array-end) |
@@ -1267,6 +1269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
@@ -1292,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2121-find-if-path-exists-in-graph](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2121-find-if-path-exists-in-graph) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
