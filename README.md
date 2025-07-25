@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0416-partition-equal-subset-sum) |
+| [0436-find-right-interval](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0454-4sum-ii) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
+| [0436-find-right-interval](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0532-k-diff-pairs-in-an-array) |
