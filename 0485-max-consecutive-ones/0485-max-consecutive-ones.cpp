@@ -1,33 +1,16 @@
 class Solution {
 public:
-    int findMaxConsecutiveOnes(vector<int>& nums) {
-        // Get the size of the array
-        int size = nums.size();
-
-        // Variables to track the current count of consecutive 1s and the maximum found
-        int one_count = 0;  
-        int max_one_count = 0;
-
-        // Iterate through the array
-        for (int i = 0; i < size; i++) {
-
-            if (nums[i] == 1) {
-
-                // If we find a 1, increment the current count
-                one_count++;
-
-                // Update the maximum consecutive 1s count
-                max_one_count = max(max_one_count, one_count);
-
+    int findMaxConsecutiveOnes(vector<int>& v) {
+        int c = 0;
+        int maxc = 0;
+        for (int i = 0; i < v.size(); i++) {
+            if (v[i] == 1) {
+                c++;
             } else {
-
-                // If we encounter a 0, reset the current count
-                one_count = 0;
-                
+                c = 0;
             }
+            maxc = max(maxc, c);
         }
-        
-        // Return the maximum count of consecutive 1s
-        return max_one_count;
+        return maxc;
     }
 };
