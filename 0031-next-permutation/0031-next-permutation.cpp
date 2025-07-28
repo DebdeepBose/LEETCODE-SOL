@@ -1,32 +1,27 @@
 class Solution {
 public:
-    void nextPermutation(vector<int>& nums) {
-        int n = nums.size();
-        int breakPoint = -1;
-
-        // Find the rightmost index where nums[i] < nums[i + 1]
-        for (int i = n - 2; i >= 0; i--) {
-            if (nums[i] < nums[i + 1]) {
-                breakPoint = i;
-                break;
-            }
-        }
-
-        // If no such index is found, reverse the entire array
-        if (breakPoint == -1) {
-            reverse(nums.begin(), nums.end());
+    void nextPermutation(vector<int>& v) {
+        int dipIdx = -1;
+        int n = v.size();
+        if (n == 1) {
             return;
         }
-
-        // Find the smallest number greater than nums[breakPoint] from the right side
-        for (int i = n - 1; i >= 0; i--) {
-            if (nums[i] > nums[breakPoint]) {
-                swap(nums[i], nums[breakPoint]);
+        for (int i = n - 2; i >= 0; i--) {
+            if (v[i] < v[i + 1]) {
+                dipIdx = i;
                 break;
             }
         }
-
-        // Reverse the portion after the breakPoint index 
-        reverse(nums.begin() + breakPoint + 1, nums.end());
+        if (dipIdx == -1) {
+            reverse(v.begin(), v.end());
+            return;
+        }
+        for (int i = n - 1; i >= 0; i--) {
+            if (v[i] > v[dipIdx]) {
+                swap(v[i], v[dipIdx]);
+                break;
+            }
+        }
+        reverse(v.begin() + dipIdx + 1, v.end());
     }
 };
