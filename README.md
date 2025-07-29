@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -858,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2549-next-greater-element-iv](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2549-next-greater-element-iv) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -883,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-chalkboard-xor-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0828-chalkboard-xor-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3394-minimum-array-end](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3394-minimum-array-end) |
@@ -921,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1813-maximum-erasure-value) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2599-take-k-of-each-character-from-left-and-right) |
