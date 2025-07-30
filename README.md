@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -888,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3394-minimum-array-end](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3394-minimum-array-end) |
@@ -1422,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0319-bulb-switcher) |
 | [0828-chalkboard-xor-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0828-chalkboard-xor-game) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3462-vowels-game-in-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
