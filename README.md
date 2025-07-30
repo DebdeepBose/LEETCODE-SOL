@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0039-combination-sum) |
@@ -837,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0287-find-the-duplicate-number) |
