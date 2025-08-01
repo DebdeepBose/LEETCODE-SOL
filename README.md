@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0383-ransom-note) |
+| [0398-random-pick-index](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0390-elimination-game) |
+| [0398-random-pick-index](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0398-random-pick-index) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0507-perfect-number) |
@@ -1498,4 +1500,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
