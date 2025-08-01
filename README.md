@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0229-majority-element-ii) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0223-rectangle-area) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0131-palindrome-partitioning) |
+| [0166-fraction-to-recurring-decimal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0187-repeated-dna-sequences) |
 | [0224-basic-calculator](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0224-basic-calculator) |
