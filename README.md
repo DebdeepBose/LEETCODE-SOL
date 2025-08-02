@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0726-number-of-atoms) |
 | [0730-count-different-palindromic-subsequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0730-count-different-palindromic-subsequences) |
 | [0768-partition-labels](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0768-partition-labels) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0868-push-dominoes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0878-shifting-letters) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0929-groups-of-special-equivalent-strings) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0768-partition-labels) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0868-push-dominoes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0941-sort-array-by-parity) |
