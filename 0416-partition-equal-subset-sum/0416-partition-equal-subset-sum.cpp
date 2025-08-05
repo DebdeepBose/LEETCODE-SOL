@@ -3,25 +3,25 @@ public:
     bool canPartition(vector<int>& v) {
         int n = v.size();
         int sum = accumulate(v.begin(), v.end(), 0);
-        if (sum % 2 == 1) {
-            return false;
-        }
-        int hs = sum / 2;
-        vector<vector<bool>> dp(n + 1, vector<bool>(hs + 1, false));
-        for (int i = 0; i <= n; i++) {
-            dp[i][0] = true;
-        }
-        for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= hs; j++) {
-                if (v[i - 1] <= j) {
-                    bool take = dp[i - 1][j - v[i - 1]];
-                    bool notTake = dp[i - 1][j];
-                    dp[i][j] = take || notTake;
-                } else {
-                    dp[i][j] = dp[i - 1][j];
-                }
+
+        // If total sum is odd, can't divide into equal subsets
+        if (sum % 2 != 0) return false;
+
+        int target = sum / 2;
+
+        // 1D DP: dp[j] means: can we make sum j using some subset
+        vector<bool> dp(target + 1, false);
+        dp[0] = true;  // Base case: sum 0 is always possible
+
+        for (int i = 0; i < n; i++) {
+            int curr = v[i];
+
+            // Iterate in reverse to avoid using the same element twice
+            for (int j = target; j >= curr; j--) {
+                dp[j] = dp[j] || dp[j - curr];
             }
         }
-        return dp[n][hs];
+
+        return dp[target];
     }
 };
