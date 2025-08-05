@@ -14,7 +14,9 @@ public:
     }
     int rob(vector<int>& v) {
         int n = v.size();
-        vector<int> dp(n + 1, -1);
+        vector<int> dp(n + 1, -1); // yeah we can totally use
+        // dp(n,-1) , cuz like if there are 3 elements we have f0 f1 f2 states 
+        //just gotta tweak the rec func
         return findSub(v, n, dp);
     }
 };
