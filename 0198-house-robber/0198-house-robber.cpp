@@ -1,22 +1,21 @@
 class Solution {
 public:
-    int findSub(vector<int>& v, int n, vector<int>& dp) {
-        if (n <= 0) {
-            return 0;
-        }
-        if (dp[n] != -1) {
-            return dp[n];
-        }
-
-        int take = v[n - 1] + findSub(v, n - 2, dp); // Taking it
-        int skip = 0 + findSub(v, n - 1, dp);        // Not taking that element
-        return dp[n] = max(take, skip);
-    }
     int rob(vector<int>& v) {
         int n = v.size();
-        vector<int> dp(n + 1, -1); // yeah we can totally use
-        // dp(n,-1) , cuz like if there are 3 elements we have f0 f1 f2 states 
-        //just gotta tweak the rec func
-        return findSub(v, n, dp);
+        if (n == 0) {
+            return 0;
+        }
+        if (n == 1) {
+            return v[0];
+        }
+        vector<int> dp(n + 1, 0);
+        dp[0] = 0;
+        dp[1] = v[0];
+        for (int i = 2; i <= n; i++) {
+            int take = v[i - 1] + dp[i - 2];
+            int skip = dp[i - 1];
+            dp[i] = max(take, skip);
+        }
+        return dp[n];
     }
 };
