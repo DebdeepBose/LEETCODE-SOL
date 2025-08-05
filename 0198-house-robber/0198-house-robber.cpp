@@ -7,9 +7,10 @@ public:
         if (dp[i] != -1) {
             return dp[i];
         }
-        int lsum = v[i] + help(v, n, i + 2, dp);
-        int rsum = help(v, n, i + 1, dp);
-        dp[i] = max(lsum, rsum);
+        int take = v[i] + help(v, n, i + 2, dp);
+        int not_take = help(v, n, i + 1, dp);
+        dp[i] = max(take, not_take);
+
         return dp[i];
     }
     int rob(vector<int>& v) {
