@@ -1,21 +1,20 @@
 class Solution {
 public:
-    int help(vector<int>& v, int n, int i, vector<int>& dp) {
-        if (i >= n) {
+    int findSub(vector<int>& v, int n, vector<int>& dp) {
+        if (n <= 0) {
             return 0;
         }
-        if (dp[i] != -1) {
-            return dp[i];
+        if (dp[n] != -1) {
+            return dp[n];
         }
-        int take = v[i] + help(v, n, i + 2, dp);
-        int not_take = help(v, n, i + 1, dp);
-        dp[i] = max(take, not_take);
 
-        return dp[i];
+        int take = v[n - 1] + findSub(v, n - 2, dp); // Taking it
+        int skip = 0 + findSub(v, n - 1, dp);        // Not taking that element
+        return dp[n] = max(take, skip);
     }
     int rob(vector<int>& v) {
         int n = v.size();
-        vector<int> dp(n, -1);
-        return help(v, n, 0, dp);
+        vector<int> dp(n + 1, -1);
+        return findSub(v, n, dp);
     }
 };
