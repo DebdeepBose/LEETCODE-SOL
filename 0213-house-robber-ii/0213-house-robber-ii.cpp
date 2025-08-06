@@ -9,17 +9,18 @@ public:
             return v[st];
         }
 
-        vector<int> dp(n, 0);
-        dp[0] = v[st];
-        dp[1] = max(v[st], v[st + 1]);
+        int prev2 = v[st];
+        int prev1 = max(v[st], v[st + 1]);
 
         for (int i = 2; i < n; i++) {
-            int take = v[st + i] + dp[i - 2];
-            int skip = dp[i - 1];
-            dp[i] = max(take, skip);
+            int take = v[st + i] + prev2;
+            int skip = prev1;
+            int curr = max(take, skip);
+            prev2 = prev1;
+            prev1 = curr;
         }
 
-        return dp[n - 1];
+        return prev1;
     }
 
     int rob(vector<int>& v) {
