@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3639-zero-array-transformation-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3639-zero-array-transformation-i) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -1071,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## String Matching
 |  |
 | ------- |
@@ -1257,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3227-find-missing-and-repeated-values) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Bucket Sort
