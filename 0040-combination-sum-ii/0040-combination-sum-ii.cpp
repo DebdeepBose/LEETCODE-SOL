@@ -1,24 +1,30 @@
 class Solution {
 public:
-    void findComb(vector<int>& v, int i, int t, vector<int>& tmp,
-                  set<vector<int>>& st, int sum) {
-        if (i == v.size()) {
-            if (sum == t) {
-                st.insert(tmp);
-            }
+    void combo(vector<int>& v, vector<vector<int>>& ans, vector<int>& tmp, int k, int n, int i) {
+        if (k == 0) {
+            ans.push_back(tmp);
             return;
         }
-        tmp.push_back(v[i]);
-        findComb(v, i + 1, t, tmp, st, sum + v[i]);
-        tmp.pop_back();
-        findComb(v, i + 1, t, tmp, st, sum);
+
+        for (int j = i; j < n; j++) {
+            if (j > i && v[j] == v[j - 1]) {
+                continue;
+            }
+            if (v[j] > k) {
+                break;
+            }
+            tmp.push_back(v[j]);
+            combo(v, ans, tmp, k - v[j], n, j + 1);
+            tmp.pop_back();
+        }
     }
-    vector<vector<int>> combinationSum2(vector<int>& v, int t) {
+
+    vector<vector<int>> combinationSum2(vector<int>& v, int k) {
+        vector<vector<int>> ans;
         vector<int> tmp;
-        set<vector<int>> st;
-        sort(v.begin(),v.end());
-        findComb(v, 0, t, tmp, st, 0);
-        vector<vector<int>> ans(st.begin(),st.end());
+        int n = v.size();
+        sort(v.begin(), v.end());
+        combo(v, ans, tmp, k, n, 0);
         return ans;
     }
 };
