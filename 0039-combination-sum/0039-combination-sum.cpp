@@ -1,47 +1,24 @@
 class Solution {
 public:
-    //Helper Function To Generate All Combinations
-    void generateAllCombinations(vector<int>& candidates, int size,
-                                 vector<vector<int>>& combinations,
-                                 vector<int>& tempStore, int target,
-                                 int currentIndex) {
-
-        //Base Case
-        if (currentIndex == size) {
-
-            if (target == 0) {
-                combinations.push_back(tempStore);
+    void findComb(vector<int>& v, int i, int t, vector<int>& tmp,
+                  vector<vector<int>>& ans) {
+        if (i >= v.size()) {
+            if (t == 0) {
+                ans.push_back(tmp);
             }
-
             return;
         }
-
-        //if target is greater only then we take the same element 
-        if (candidates[currentIndex] <= target) {
-            tempStore.push_back(candidates[currentIndex]);
-            generateAllCombinations(candidates, size, combinations, tempStore, target - candidates[currentIndex], currentIndex);
-            tempStore.pop_back();
+        if (v[i] <= t) {
+            tmp.push_back(v[i]);
+            findComb(v, i, t - v[i], tmp, ans);
+            tmp.pop_back();
         }
-
-        //Else we move on to the next index
-        generateAllCombinations(candidates, size, combinations, tempStore, target, currentIndex + 1);
+        findComb(v, i + 1, t, tmp, ans);
     }
-
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-
-        // Initialize to store all combinations
-        vector<vector<int>> combinations;
-
-        // A temporary array to store valid combinations
-        vector<int> tempStore;
-
-        // Size of the list
-        int size = candidates.size();
-
-        // Function call to generate all combinations
-        generateAllCombinations(candidates, size, combinations, tempStore,
-                                target, 0);
-
-        return combinations;
+    vector<vector<int>> combinationSum(vector<int>& v, int t) {
+        vector<int> tmp;
+        vector<vector<int>> ans;
+        findComb(v, 0, t, tmp, ans);
+        return ans;
     }
 };
