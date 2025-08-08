@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0556-next-greater-element-iii) |
 | [0670-maximum-swap](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0826-soup-servings) |
 | [0828-chalkboard-xor-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0828-chalkboard-xor-game) |
 | [0830-largest-triangle-area](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0830-largest-triangle-area) |
 | [0888-mirror-reflection](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0888-mirror-reflection) |
@@ -1055,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0730-count-different-palindromic-subsequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0730-count-different-palindromic-subsequences) |
 | [0747-min-cost-climbing-stairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0747-min-cost-climbing-stairs) |
+| [0826-soup-servings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0943-sum-of-subarray-minimums) |
@@ -1537,4 +1539,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0398-random-pick-index) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
