@@ -1,20 +1,21 @@
 class Solution {
 public:
-    void helper(vector<int>& v, int t, int st, int i, int& c) {
+    map<pair<int,int>, int> dp;
+    
+    int helper(vector<int>& v, int t, int s, int i) {
         if (i == v.size()) {
-            if (st == t) {
-                c++;
-            }
-            return;
+            return s == t;
         }
-
-        helper(v, t, st + v[i], i + 1, c);
-        helper(v, t, st - v[i], i + 1, c);
+        if (dp.count({i, s})) {
+            return dp[{i, s}];
+        }
+        int plus = helper(v, t, s + v[i], i + 1);
+        int minus = helper(v, t, s - v[i], i + 1);
+        return dp[{i, s}] = plus + minus;
     }
+
     int findTargetSumWays(vector<int>& v, int t) {
-        int n = v.size();
-        int c = 0;
-        helper(v, t, 0, 0, c);
-        return c;
+        dp.clear();
+        return helper(v, t, 0, 0);
     }
 };
