@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0556-next-greater-element-iii) |
 | [0670-maximum-swap](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0670-maximum-swap) |
+| [0738-monotone-increasing-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0738-monotone-increasing-digits) |
 | [0797-rabbits-in-forest](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0826-soup-servings) |
 | [0828-chalkboard-xor-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0828-chalkboard-xor-game) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0738-monotone-increasing-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0738-monotone-increasing-digits) |
 | [0768-partition-labels](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0797-rabbits-in-forest) |
