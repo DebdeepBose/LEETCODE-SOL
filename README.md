@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -1284,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0733-flood-fill) |
