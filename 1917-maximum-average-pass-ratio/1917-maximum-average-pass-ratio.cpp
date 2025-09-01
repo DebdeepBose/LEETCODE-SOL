@@ -6,21 +6,6 @@ public:
     }
     double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
         int n = classes.size();
-
-        // vector<double> r(n);
-        // for (int i = 0; i < n; i++) {
-        //     r[i] = ((double)classes[i][0] / (double)classes[i][1]);
-        // }
-        // double mi = *min_element(r.begin(), r.end());
-        // for (int i = 0; i < n; i++) {
-        //     if (r[i] == mi) {
-        //         r[i] = ((double)(classes[i][0] + extraStudents) /
-        //                 (classes[i][1] + extraStudents));
-                
-        //     }
-        // }
-        // double sum = accumulate(r.begin(), r.end(), 0.0);
-        // return (double)(sum / n);
         
         priority_queue<pair<double,pair<int,int>>>pq;
         for(auto it:classes){
