@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3227-find-missing-and-repeated-values) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3373-maximum-prime-difference) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2892-check-if-array-is-good) |
 | [3001-apply-operations-to-maximize-score](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
@@ -793,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-mirror-reflection](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0888-mirror-reflection) |
 | [1014-k-closest-points-to-origin](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1014-k-closest-points-to-origin) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3886-count-number-of-trapezoids-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3886-count-number-of-trapezoids-i) |
 ## Two Pointers
 |  |
@@ -1137,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2873-prime-pairs-with-target-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2873-prime-pairs-with-target-sum) |
 | [3201-distribute-candies-among-children-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3201-distribute-candies-among-children-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3702-maximum-subarray-with-equal-products) |
