@@ -12,7 +12,7 @@ public:
         auto ub = upper_bound(nums.begin(), nums.end(), target);
 
         /*Ok so the reason is, if lb points beyond the array, it means
-        target is bigger than everyelement in the array, so there aint gonna 
+        target is bigger than every element in the array, so there aint gonna 
         be a starting point*/
         if (lb == nums.end() || *lb != target) {
             return {-1, -1};
