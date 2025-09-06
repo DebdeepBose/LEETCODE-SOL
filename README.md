@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0566-reshape-the-matrix) |
@@ -925,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0792-binary-search) |
