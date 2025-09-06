@@ -25,7 +25,7 @@ public:
             }
         }
 
-        //Imagine wasting O(logn) and getting nothing, couldn't be me
+        //Imagine wasting O(log(n)) and getting nothing, couldn't be me
         return -1;
     }
 };
