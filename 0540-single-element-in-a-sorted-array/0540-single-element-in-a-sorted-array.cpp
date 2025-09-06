@@ -13,7 +13,6 @@ public:
         while (low <= high) {
             int mid = low + (high - low) / 2;
 
-            // Boundary checks to avoid out of bounds
             if (mid == 0 && nums[mid] != nums[mid + 1]) {
                 return nums[mid];
             }
@@ -21,7 +20,6 @@ public:
                 return nums[mid];
             }
 
-            // Normal check
             if (nums[mid] != nums[mid + 1] && nums[mid] != nums[mid - 1]) {
                 return nums[mid];
             }
