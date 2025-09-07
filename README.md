@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1127-last-stone-weight) |
 | [1306-minimum-absolute-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1306-minimum-absolute-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -941,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
