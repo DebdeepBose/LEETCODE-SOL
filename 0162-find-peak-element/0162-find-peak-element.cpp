@@ -28,7 +28,9 @@ public:
             return 0;
         }
 
-        // Basic setup
+        /* Basic setup, but since we already took care of first and last element
+         * we start low form 1 and high from n-2*/
+
         int low = 1;
         int high = n - 2;
 
