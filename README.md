@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0162-find-peak-element) |
