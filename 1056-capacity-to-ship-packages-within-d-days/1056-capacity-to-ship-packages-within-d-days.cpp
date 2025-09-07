@@ -34,8 +34,8 @@ public:
         while (low <= high) {
             int mid = low + (high - low) / 2;
 
-            int ndays = check(weights, n, mid);
-            if (ndays <= days) {
+            int numberOfDays = check(weights, n, mid);
+            if (numberOfDays <= days) {
                 high = mid - 1;
             } else {
                 low = mid + 1;
