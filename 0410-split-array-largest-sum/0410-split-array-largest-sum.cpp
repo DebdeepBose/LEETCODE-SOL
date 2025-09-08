@@ -1,35 +1,32 @@
 class Solution {
 public:
-    int calc(vector<int> v, int mid, int n) {
-        int c = 1;
-        int s = 0;
+    bool valid(vector<int>& nums, int n, int mid, int k) {
+        int sum = 0, split = 1;
         for (int i = 0; i < n; i++) {
-            if (s + v[i] <= mid) {
-                s += v[i];
+            if (sum + nums[i] <= mid) {
+                sum += nums[i];
             } else {
-                c++;
-                s = v[i];
-                if (s > mid) {
-                    return INT_MAX;
+                split++;
+                sum = nums[i];
+                if (split > k) {
+                    return false;
                 }
             }
         }
-        return c;
+        return true;
     }
-    int splitArray(vector<int>& v, int k) {
-        int n = v.size();
-        if (k > n) {
-            return -1;
-        }
-        int low = *min_element(v.begin(), v.end());
-        int high = accumulate(v.begin(), v.end(), 0);
+    int splitArray(vector<int>& nums, int k) {
+        int n = nums.size();
+        int low = *max_element(nums.begin(), nums.end());
+        int high = accumulate(nums.begin(), nums.end(), 0);
+
         while (low <= high) {
             int mid = low + (high - low) / 2;
-            int numStud = calc(v, mid, n);
-            if (numStud > k) {
-                low = mid + 1;
-            } else {
+
+            if (valid(nums, n, mid, k)) {
                 high = mid - 1;
+            } else {
+                low = mid + 1;
             }
         }
         return low;
