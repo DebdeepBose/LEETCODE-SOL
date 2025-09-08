@@ -1,7 +1,7 @@
 class Solution {
 public:
     // This problem is literally the same as Allocate Minimum Pages
-    bool valid(vector<int>& nums, int n, int maxSumAllowed, int maxSplits) {
+    bool checkForValidPartition(vector<int>& nums, int n, int maxSumAllowed, int maxSplits) {
         
         /* By default, we will always have at least 1 split 
         (the whole array if nothing else) */
@@ -69,7 +69,7 @@ public:
 
             /* If it's valid with mid as the maxSumAllowed,
                then we might be able to minimize it further, so move left */
-            if (valid(nums, n, mid, k)) {
+            if (checkForValidPartition(nums, n, mid, k)) {
                 high = mid - 1;
             } 
             else {
