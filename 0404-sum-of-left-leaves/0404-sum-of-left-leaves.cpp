@@ -1,12 +1,12 @@
 class Solution {
 public:
-    void help(TreeNode* node, vector<int>& sum, bool isLeft) {
+    void help(TreeNode* node, int& sum, bool isLeft) {
         if (node == nullptr) {
             return;
         }
 
         if (node->left == nullptr && node->right == nullptr && isLeft) {
-            sum.push_back(node->val);
+            sum += node->val;
             return;
         }
 
@@ -15,9 +15,11 @@ public:
     }
 
     int sumOfLeftLeaves(TreeNode* root) {
-        if (!root) return 0;
-        vector<int> sum;
+        if (root == nullptr) {
+            return 0;
+        }
+        int sum = 0;
         help(root, sum, false);
-        return accumulate(sum.begin(), sum.end(), 0);
+        return sum;
     }
 };
