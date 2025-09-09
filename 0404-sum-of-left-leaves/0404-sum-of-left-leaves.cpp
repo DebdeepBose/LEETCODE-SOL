@@ -5,7 +5,7 @@ public:
             return;
         }
 
-        if (!node->left && !node->right && isLeft) {
+        if (node->left == nullptr && node->right == nullptr && isLeft) {
             sum.push_back(node->val);
             return;
         }
