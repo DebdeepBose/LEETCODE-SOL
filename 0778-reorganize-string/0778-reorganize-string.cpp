@@ -1,58 +1,46 @@
 class Solution {
 public:
     string reorganizeString(string s) {
-        int n = s.size();
-        if (n == 1) {
-            return s;
-        }
-
         unordered_map<char, int> mp;
-        for (int i = 0; i < n; i++) {
-            mp[s[i]]++;
+        for (auto e : s) {
+            mp[e]++;
         }
 
-        int maxCount = INT_MIN;
-        int minCount = INT_MAX;
-        int keys = mp.size();
-
+        priority_queue<pair<int, char>> pq;
         for (auto e : mp) {
-            maxCount = max(maxCount, e.second);
-            minCount = min(minCount, e.second);
+            pq.push({e.second, e.first});
         }
 
-        if (maxCount - minCount > 1) {
-            if (maxCount > keys) {
+        string ans = "";
+
+        while (pq.size() > 1) {
+            auto [freq1, char1] = pq.top();
+            pq.pop();
+
+            auto [freq2, char2] = pq.top();
+            pq.pop();
+
+            ans += char1;
+            ans += char2;
+
+            freq1--;
+            freq2--;
+
+            if (freq1 > 0) {
+                pq.push({freq1, char1});
+            }
+            if (freq2 > 0) {
+                pq.push({freq2, char2});
+            }
+        }
+
+        if (!pq.empty()) {
+            auto [freq, chara] = pq.top();
+            if (freq > 1) {
                 return "";
             }
+            ans += chara;
         }
-
-        priority_queue<pair<int, char>> maxHeap;
-        for (auto p : mp) {
-            maxHeap.push({p.second, p.first});
-        }
-
-        queue<pair<int, char>> waitHeap;
-
-        string result = "";
-        while (!maxHeap.empty()) {
-            auto [count, ch] = maxHeap.top();
-            maxHeap.pop();
-
-            result += ch;
-            count--;
-
-            waitHeap.push({count, ch});
-
-            if (waitHeap.size() > 1) {
-                auto [c2, ch2] = waitHeap.front();
-                waitHeap.pop();
-                if (c2 > 0) {
-                    maxHeap.push({c2, ch2});
-                }
-            }
-        }
-
-
-        return (result.size() == n) ? result : "";
+        return ans;
     }
 };
