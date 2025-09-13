@@ -2,6 +2,12 @@ class Solution {
 public:
     string reorganizeString(string s) {
 
+        int n = s.size();
+
+        if (n == 1) {
+            return s;
+        }
+
         // Our whole problem revolves around frequency of the characters
         // So obviously we need a hashmap to store these
         unordered_map<char, int> frequencyMap;
@@ -20,6 +26,9 @@ public:
         priority_queue<pair<int, char>> maxHeap;
 
         for (auto pair : frequencyMap) {
+            if (pair.second > (n + 1) / 2) {
+                return "";
+            }
             maxHeap.push({pair.second, pair.first});
         }
         // Doing so will create our max-heap
@@ -65,7 +74,7 @@ public:
         Alright now there may be cases where our heap still has a character,
         like when string is "ababa", we would be left with an extra 'a'.
         But the thing is what if we had "ababaa", 2 extra 'a's,
-        in that case we return "" 
+        in that case we return ""
         */
 
         if (!maxHeap.empty()) {
