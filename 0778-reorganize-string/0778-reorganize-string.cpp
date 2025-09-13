@@ -1,36 +1,58 @@
 class Solution {
 public:
-    string reorganizeString(std::string s) {
-    std::unordered_map<char, int> freq_map;
-    for (char c : s) {
-        freq_map[c]++;
-    }
-
-    std::vector<char> sorted_chars;
-    for (auto& pair : freq_map) {
-        sorted_chars.push_back(pair.first);
-    }
-
-    std::sort(sorted_chars.begin(), sorted_chars.end(), [&](char a, char b) {
-        return freq_map[a] > freq_map[b];
-    });
-
-    if (freq_map[sorted_chars[0]] > (s.length() + 1) / 2) {
-        return "";
-    }
-
-    std::string res(s.length(), ' ');
-    int i = 0;
-    for (char c : sorted_chars) {
-        for (int j = 0; j < freq_map[c]; ++j) {
-            if (i >= s.length()) {
-                i = 1;
-            }
-            res[i] = c;
-            i += 2;
+    string reorganizeString(string s) {
+        int n = s.size();
+        if (n == 1) {
+            return s;
         }
-    }
 
-    return res;
-}
+        unordered_map<char, int> mp;
+        for (int i = 0; i < n; i++) {
+            mp[s[i]]++;
+        }
+
+        int maxCount = INT_MIN;
+        int minCount = INT_MAX;
+        int keys = mp.size();
+
+        for (auto e : mp) {
+            maxCount = max(maxCount, e.second);
+            minCount = min(minCount, e.second);
+        }
+
+        if (maxCount - minCount > 1) {
+            if (maxCount > keys) {
+                return "";
+            }
+        }
+
+        priority_queue<pair<int, char>> maxHeap;
+        for (auto p : mp) {
+            maxHeap.push({p.second, p.first});
+        }
+
+        queue<pair<int, char>> waitHeap;
+
+        string result = "";
+        while (!maxHeap.empty()) {
+            auto [count, ch] = maxHeap.top();
+            maxHeap.pop();
+
+            result += ch;
+            count--;
+
+            waitHeap.push({count, ch});
+
+            if (waitHeap.size() > 1) {
+                auto [c2, ch2] = waitHeap.front();
+                waitHeap.pop();
+                if (c2 > 0) {
+                    maxHeap.push({c2, ch2});
+                }
+            }
+        }
+
+
+        return (result.size() == n) ? result : "";
+    }
 };
