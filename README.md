@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1014-k-closest-points-to-origin) |
+| [1086-divisor-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1260-day-of-the-year) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1158,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1086-divisor-game) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1597,6 +1599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0319-bulb-switcher) |
 | [0828-chalkboard-xor-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0828-chalkboard-xor-game) |
+| [1086-divisor-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3462-vowels-game-in-a-string) |
@@ -1605,6 +1608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0292-nim-game) |
 | [0828-chalkboard-xor-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0828-chalkboard-xor-game) |
+| [1086-divisor-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1086-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3462-vowels-game-in-a-string) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Union Find
