@@ -2,16 +2,22 @@ class Solution {
 public:
     vector<int> maxKDistinct(vector<int>& v, int k) {
         int n = v.size();
-        set<int> st;
-        for (auto e : v) {
-            st.insert(e); 
-        }
+        sort(v.rbegin(), v.rend());
 
         vector<int> ans;
-        for (auto it = st.rbegin(); it != st.rend() && k > 0; ++it, --k) {
-            ans.push_back(*it);
+        ans.push_back(v[0]);
+        k--;
+
+        int i = 1;
+        while (k > 0 && i < n) {
+            if (v[i] != v[i - 1]) {
+                ans.push_back(v[i]);
+                k--;
+            }
+            i++;
         }
 
         return ans;
     }
 };
+
