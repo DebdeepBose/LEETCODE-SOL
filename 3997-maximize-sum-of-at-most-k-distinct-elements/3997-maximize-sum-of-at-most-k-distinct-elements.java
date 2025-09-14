@@ -1,16 +1,16 @@
 class Solution {
-    public int[] maxKDistinct(int[] nums, int k) {
-        int n = nums.length;
-        Arrays.sort(nums); 
+    public int[] maxKDistinct(int[] v, int k) {
+        int n = v.length;
+        Arrays.sort(v); 
 
         List<Integer> res = new ArrayList<>();
-        res.add(nums[n - 1]);
+        res.add(v[n - 1]);
         k--;
 
         int i = n - 2;
         while (k > 0 && i >= 0) {
-            if (nums[i] != nums[i + 1]) {
-                res.add(nums[i]);
+            if (v[i] != v[i + 1]) {
+                res.add(v[i]);
                 k--;
             }
             i--;
