@@ -615,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1260-day-of-the-year](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1260-day-of-the-year) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1304-longest-happy-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1009-pancake-sorting) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1251-longest-chunked-palindrome-decomposition) |
+| [1304-longest-happy-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1304-longest-happy-string) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1464-reduce-array-size-to-the-half) |
@@ -1342,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1127-last-stone-weight) |
+| [1304-longest-happy-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1304-longest-happy-string) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
