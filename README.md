@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2716-prime-subtraction-operation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2716-prime-subtraction-operation) |
+| [2850-construct-the-longest-new-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2850-construct-the-longest-new-string) |
 | [2873-prime-pairs-with-target-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2955-account-balance-after-rounded-purchase) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2850-construct-the-longest-new-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2850-construct-the-longest-new-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3195-separate-black-and-white-balls) |
@@ -1178,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2586-longest-square-streak-in-an-array) |
+| [2850-construct-the-longest-new-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2850-construct-the-longest-new-string) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
@@ -1610,6 +1613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2850-construct-the-longest-new-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2850-construct-the-longest-new-string) |
 | [3462-vowels-game-in-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
