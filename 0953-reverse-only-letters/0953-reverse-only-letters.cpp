@@ -5,15 +5,13 @@ public:
         int n = s.size();
         int j = n - 1;
         while (i < j) {
-            if (isalpha(s[i]) && !isalpha(s[j])) {
-                j--;
-            } else if (!isalpha(s[i]) && isalpha(s[j])) {
+            if(!isalpha(s[i])) {
                 i++;
-            } else if (!isalpha(s[i]) && !isalpha(s[j])) {
-                i++;
-                j--;
             }
-            if (isalpha(s[i]) && isalpha(s[j])) {
+            else if(!isalpha(s[j])){
+                j--;
+            } 
+            else {
                 swap(s[i], s[j]);
                 i++;
                 j--;
