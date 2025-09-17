@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0867-new-21-game) |
 | [0888-mirror-reflection](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0888-mirror-reflection) |
+| [0897-prime-palindrome](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0897-prime-palindrome) |
 | [0900-reordered-power-of-2](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1014-k-closest-points-to-origin) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0258-add-digits) |
 | [0888-mirror-reflection](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0888-mirror-reflection) |
+| [0897-prime-palindrome](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0897-prime-palindrome) |
 | [1372-check-if-it-is-a-good-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1372-check-if-it-is-a-good-array) |
 | [1585-the-kth-factor-of-n](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1585-the-kth-factor-of-n) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2307-replace-non-coprime-numbers-in-array) |
