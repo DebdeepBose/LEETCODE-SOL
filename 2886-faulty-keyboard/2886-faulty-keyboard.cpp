@@ -1,19 +1,20 @@
 class Solution {
 public:
+    // Lazy-Reversal Pattern
     string finalString(string s) {
+        int n = s.size();
         deque<char> dq;
         string ans = "";
         bool flag = false;
 
-        for (int i = 0; i < s.size(); i++) {
+        for (int i = 0; i < n; i++) {
             if (s[i] == 'i') {
-                
-                if (i + 1 < s.size() && s[i + 1] == 'i') {
-                    i++; 
+                if (i + 1 < n && s[i + 1] == 'i') {
+                    i++;
                     continue;
                 }
                 flag = !flag;
-                continue; 
+                continue;
             }
 
             if (!flag)
