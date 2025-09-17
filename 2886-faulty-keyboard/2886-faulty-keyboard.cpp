@@ -1,22 +1,37 @@
 class Solution {
 public:
     string finalString(string s) {
-        int i = 0;
-        int n = s.size();
-        string r = "";
-        while (i < n) {
-            if (s[i] == 'i') {
-                if (i != n - 1 && s[i + 1] == 'i') {
-                    i++;
-                } else {
-                    reverse(r.begin(), r.end());
-                }
+        deque<char> dq;
+        string ans = "";
+        bool flag = false;
+        for (auto e : s) {
+            if (e == 'i') {
+                flag = !flag;
             }
-            if (s[i] != 'i') {
-                r += s[i];
+
+            if (!flag) {
+                dq.push_back(e);
+            } else {
+                dq.push_front(e);
             }
-            i++;
         }
-        return r;
+
+        if (flag) {
+            while (!dq.empty()) {
+                if (dq.back() != 'i') {
+                    ans += dq.back();
+                }
+                dq.pop_back();
+            }
+        } else {
+            while (!dq.empty()) {
+                if (dq.front() != 'i') {
+                    ans += dq.front();
+                }
+                dq.pop_front();
+            }
+        }
+
+        return ans;
     }
 };
