@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0797-rabbits-in-forest) |
+| [0889-buddy-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0889-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0900-reordered-power-of-2) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0940-fruit-into-baskets) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-swap-adjacent-in-lr-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0868-push-dominoes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0878-shifting-letters) |
+| [0889-buddy-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0889-buddy-strings) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0952-word-subsets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0953-reverse-only-letters) |
