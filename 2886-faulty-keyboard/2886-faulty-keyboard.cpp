@@ -1,36 +1,35 @@
 class Solution {
 public:
     string finalString(string s) {
-
-        //Remember this is a pattern : Its called Lazy-Reversal
-
         deque<char> dq;
         string ans = "";
         bool flag = false;
-        for (auto e : s) {
-            if (e == 'i') {
+
+        for (int i = 0; i < s.size(); i++) {
+            if (s[i] == 'i') {
+                
+                if (i + 1 < s.size() && s[i + 1] == 'i') {
+                    i++; 
+                    continue;
+                }
                 flag = !flag;
+                continue; 
             }
 
-            if (!flag) {
-                dq.push_back(e);
-            } else {
-                dq.push_front(e);
-            }
+            if (!flag)
+                dq.push_back(s[i]);
+            else
+                dq.push_front(s[i]);
         }
 
         if (flag) {
             while (!dq.empty()) {
-                if (dq.back() != 'i') {
-                    ans += dq.back();
-                }
+                ans += dq.back();
                 dq.pop_back();
             }
         } else {
             while (!dq.empty()) {
-                if (dq.front() != 'i') {
-                    ans += dq.front();
-                }
+                ans += dq.front();
                 dq.pop_front();
             }
         }
