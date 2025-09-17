@@ -8,28 +8,24 @@ public:
             return false;
         }
         if (s == g) {
-            sort(s.begin(), s.end());
-            for (int i = 0; i < s.size() - 1; i++) {
-                if (s[i] == s[i + 1]) {
-                    return true;
-                }
-            }
-            return false;
+            set<char> temp(s.begin(), s.end());
+            return temp.size() < g.size();
         }
-        unordered_map<char, int> mp;
-        for (int i = 0; i < s.size(); i++) {
-            if (s[i] != g[i]) {
-                c++;
-            }
-            mp[s[i]]++;
-        }
-        for (auto e : g) {
-            mp[e]--;
-            if (mp[e] == 0) {
-                mp.erase(e);
-            }
+        int i = 0;
+        int j = n - 1;
+
+        while (i < j && s[i] == g[i]) {
+            i++;
         }
 
-        return c <= 2 && mp.empty();
+        while (j >= 0 && s[j] == g[j]) {
+            j--;
+        }
+
+        if (i < j) {
+            swap(s[i], s[j]);
+        }
+
+        return s == g;
     }
 };
