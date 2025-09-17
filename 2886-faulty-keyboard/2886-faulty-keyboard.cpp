@@ -1,6 +1,9 @@
 class Solution {
 public:
     string finalString(string s) {
+
+        //Remember this is a pattern : Its called Lazy-Reversal
+
         deque<char> dq;
         string ans = "";
         bool flag = false;
