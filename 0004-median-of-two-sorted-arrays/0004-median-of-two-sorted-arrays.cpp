@@ -1,5 +1,7 @@
 class Solution {
 public:
+
+    //Brute force btw
     double findMedianSortedArrays(vector<int>& v1, vector<int>& v2) {
         vector<int> v3;
         int i = 0, j = 0;
