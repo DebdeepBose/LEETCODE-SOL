@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1923-sentence-similarity-iii) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2048-build-array-from-permutation) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-operations-to-make-array-equal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2083-three-divisors) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-print-words-vertically](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1449-print-words-vertically) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1803-average-waiting-time](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1803-average-waiting-time) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -1262,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0232-implement-queue-using-stacks) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0954-maximum-sum-circular-subarray) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2868-continuous-subarrays) |
@@ -1354,6 +1358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
