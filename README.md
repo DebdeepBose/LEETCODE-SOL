@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0287-find-the-duplicate-number) |
@@ -999,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0287-find-the-duplicate-number) |
@@ -1170,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0347-top-k-frequent-elements) |
@@ -1436,6 +1439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0566-reshape-the-matrix) |
