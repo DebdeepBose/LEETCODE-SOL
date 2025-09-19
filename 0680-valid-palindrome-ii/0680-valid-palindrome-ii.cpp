@@ -1,35 +1,39 @@
 class Solution {
 public:
-    bool ispali(string s, int l, int r) {
-        while (l < r) {
-            if (s[l] == s[r]) {
-                l++;
-                r--;
-            } else {
-                return false;
-            }
-        }
-        return true;
-    }
-
     bool validPalindrome(string s) {
         int n = s.size();
-        int l = 0;
-        int r = n - 1;
-        
-        while (l < r) {
-            if (s[l] == s[r]) {
-                l++;
-                r--;
-            } else {
-                if (ispali(s, l + 1, r)) {
-                    return true;
+        int i = 0, j = n - 1;
+
+        while (i < j) {
+            if (s[i] != s[j]) {
+                // mismatch → try skipping i or skipping j
+                int i1 = i + 1, j1 = j;
+                int i2 = i, j2 = j - 1;
+
+                bool skipLeft = true, skipRight = true;
+
+                while (i1 < j1) {
+                    if (s[i1] != s[j1]) {
+                        skipLeft = false;
+                        break;
+                    }
+                    i1++;
+                    j1--;
                 }
-                if (ispali(s, l, r - 1)) {
-                    return true;
+
+                while (i2 < j2) {
+                    if (s[i2] != s[j2]) {
+                        skipRight = false;
+                        break;
+                    }
+                    i2++;
+                    j2--;
                 }
-                return false;
+
+                return skipLeft || skipRight;
             }
+            i++;
+            j--;
         }
         return true;
     }
