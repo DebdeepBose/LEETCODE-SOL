@@ -4,10 +4,9 @@ public:
         int m = v.size();
         int n = v[0].size();
         for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (v[i][j] == k) {
-                    return true;
-                }
+            auto it = lower_bound(v[i].begin(), v[i].end(), k);
+            if (it != v[i].end() && *it == k) {
+                return true;
             }
         }
         return false;
