@@ -1,35 +1,32 @@
 class Solution {
 public:
-    // Helper function to generate all valid combinations
-    void gen(vector<string>& ans, string& tmp, int n, int op, int cl) {
-     
-        if (op > n) {return;}
-
-   
-        if (op == n && cl == n) {
-            ans.push_back(tmp);
+    void gen(int n, vector<string>& ans, int op, int cl, string s) {
+        if (op + cl == n * 2) {
+            ans.push_back(s);
             return;
         }
 
-    
         if (op < n) {
-            tmp.push_back('(');
-            gen(ans, tmp, n, op + 1, cl);
-            tmp.pop_back(); 
+            s += '(';
+            gen(n, ans, op + 1, cl, s);
+            s.pop_back();
         }
-
 
         if (cl < op) {
-            tmp.push_back(')');
-            gen(ans, tmp, n, op, cl + 1);
-            tmp.pop_back();
+            s += ')';
+            gen(n, ans, op, cl + 1, s);
+            s.pop_back();
         }
     }
-
     vector<string> generateParenthesis(int n) {
+
         vector<string> ans;
-        string tmp = "";
-        gen(ans, tmp, n, 0, 0);
+        string s = "";
+        int op = 0;
+        int cl = 0;
+
+        gen(n, ans, op, cl, s);
+
         return ans;
     }
 };
