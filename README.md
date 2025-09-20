@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3817-maximum-containers-on-a-ship](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3817-maximum-containers-on-a-ship) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3540-hash-divided-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3790-fruits-into-baskets-ii) |
 | [3931-process-string-with-special-operations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3931-process-string-with-special-operations-i) |
 ## Number Theory
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3373-maximum-prime-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3373-maximum-prime-difference) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 ## String
 |  |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3784-longest-common-prefix-of-k-strings-after-removal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3784-longest-common-prefix-of-k-strings-after-removal) |
 | [3797-design-spreadsheet](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3797-design-spreadsheet) |
@@ -1732,6 +1736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3201-distribute-candies-among-children-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Binary Indexed Tree
