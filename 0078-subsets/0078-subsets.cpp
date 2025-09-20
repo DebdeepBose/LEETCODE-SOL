@@ -1,26 +1,23 @@
 class Solution {
 public:
-    void findSubsets(vector<int>& v, int i, vector<vector<int>>& ans,
-                     vector<int> tmp) {
-
-        //base case
-        if(i==v.size()){
+    void gen(int n, vector<vector<int>>& ans, vector<int>& tmp,
+             vector<int>& nums, int i) {
+        if (i == n) {
             ans.push_back(tmp);
             return;
         }
 
-        // take
-        tmp.push_back(v[i]);
-        findSubsets(v, i + 1, ans, tmp);
-
-        //skip
+        tmp.push_back(nums[i]);
+        gen(n, ans, tmp, nums, i + 1);
         tmp.pop_back();
-        findSubsets(v, i + 1, ans, tmp);
+        gen(n, ans, tmp, nums, i + 1);
     }
-    vector<vector<int>> subsets(vector<int>& v) {
+    vector<vector<int>> subsets(vector<int>& nums) {
+        int n = nums.size();
         vector<vector<int>> ans;
         vector<int> tmp;
-        findSubsets(v, 0, ans, tmp);
+        gen(n, ans, tmp, nums, 0);
+
         return ans;
     }
 };
