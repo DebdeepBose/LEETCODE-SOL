@@ -26,19 +26,17 @@ public:
         int low = 1;
         int high = m * n; // Very understandable
 
-        /* So basically we will try and find mid and then check in the table,
-         * how many numbers are smaller than mid, if the count of numbers
-         * smaller than mid is k we return mid, if its larger than k it means we
-         * need a smaller number cuz the larger the number is the more is has
-         * sub-numbers that are smaller than it, so we do high = mid - 1, in
-         * case the count is smaller than k we need a larger number so we do low
-         * = mid + 1*/
+        /* So we pick mid and count how many numbers in the table are less than
+            or equal to mid. If the count is greater than or equal to k,
+            we need a smaller number, so we move high to mid minus one.
+            If the count is smaller than k, we  need a bigger number,
+            so we move low to mid plus one.*/
 
         while (low <= high) {
             int mid = low + (high - low) / 2;
             int totalCountOfNumsSmallerThanMid =
                 countNumsLessThanMid(mid, m, n);
-            
+
             if (totalCountOfNumsSmallerThanMid >= k) {
                 high = mid - 1;
             } else {
