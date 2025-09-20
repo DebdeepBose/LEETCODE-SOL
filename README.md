@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0084-largest-rectangle-in-histogram) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1464,6 +1466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0498-diagonal-traverse) |
@@ -1572,6 +1575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0100-same-tree) |
@@ -1691,6 +1695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0131-palindrome-partitioning) |
