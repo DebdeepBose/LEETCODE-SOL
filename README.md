@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0400-nth-digit) |
+| [0441-arranging-coins](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0507-perfect-number) |
@@ -1014,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0532-k-diff-pairs-in-an-array) |
