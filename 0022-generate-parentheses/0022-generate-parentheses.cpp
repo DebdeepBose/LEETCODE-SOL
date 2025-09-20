@@ -5,7 +5,7 @@ public:
                                  string tempString,
                                  vector<string>& stringList) {
 
-        /*I mean yeah if the total count == n we push our string into the vector
+        /*I mean yeah if the total count == n * 2 we push our string into the vector
          * and return nothing cuz its void */
         if (leftParanthesesCount + rightParanthesesCount == n * 2) {
             stringList.push_back(tempString);
