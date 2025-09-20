@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0679-24-game) |
 | [0738-monotone-increasing-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0738-monotone-increasing-digits) |
+| [0755-reach-a-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0755-reach-a-number) |
 | [0797-rabbits-in-forest](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0826-soup-servings) |
 | [0828-chalkboard-xor-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0828-chalkboard-xor-game) |
@@ -1027,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0755-reach-a-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0907-koko-eating-bananas) |
