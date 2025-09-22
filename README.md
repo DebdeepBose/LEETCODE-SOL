@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2892-check-if-array-is-good) |
 | [2902-max-pair-sum-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2902-max-pair-sum-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2300-construct-string-with-repeat-limit) |
 | [2448-count-number-of-bad-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2448-count-number-of-bad-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3360-minimum-deletions-to-make-string-k-special) |
