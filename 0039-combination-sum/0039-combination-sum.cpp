@@ -1,24 +1,26 @@
 class Solution {
 public:
-    void findComb(vector<int>& v, int i, int t, vector<int>& tmp,
-                  vector<vector<int>>& ans) {
-        if (i >= v.size()) {
-            if (t == 0) {
-                ans.push_back(tmp);
-            }
+    void cs(vector<int>& v, int k, vector<vector<int>>& ans, vector<int>& tmp,
+            int n) {
+        if (k == 0) {
+            ans.push_back(tmp);
             return;
         }
-        if (v[i] <= t) {
-            tmp.push_back(v[i]);
-            findComb(v, i, t - v[i], tmp, ans);
-            tmp.pop_back();
+        if (n < 0 || k < 0) {
+            return;
         }
-        findComb(v, i + 1, t, tmp, ans);
+
+        tmp.push_back(v[n]);
+        cs(v, k - v[n], ans, tmp, n);
+
+        tmp.pop_back();
+        cs(v, k, ans, tmp, n - 1);
     }
-    vector<vector<int>> combinationSum(vector<int>& v, int t) {
-        vector<int> tmp;
+    vector<vector<int>> combinationSum(vector<int>& v, int k) {
         vector<vector<int>> ans;
-        findComb(v, 0, t, tmp, ans);
+        vector<int> tmp;
+        cs(v, k, ans, tmp, v.size() - 1);
+
         return ans;
     }
 };
