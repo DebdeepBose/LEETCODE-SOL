@@ -9,7 +9,7 @@ public:
             }
             return;
         }
-        if (n < 0 || i > 9) {
+        if (i > 9) {
             return;
         }
 
