@@ -17,7 +17,7 @@ public:
             findAllLetterCombinations(index + 1, digits, n, letterCombination,
                                       temporaryCombinations, hashMap);
 
-            // Do not take the current element
+            // Backtrack to undo choice
             temporaryCombinations.pop_back();
 
             /* Now u might think dont we call that function once again, yeah we
