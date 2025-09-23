@@ -15,7 +15,7 @@ public:
         tmp.pop_back();
 
         int prev = v[n];
-        while (n - 1 >= 0 && v[n - 1] == prev) {
+        while (n > 0 && v[n - 1] == prev) {
             n--;
         }
 
