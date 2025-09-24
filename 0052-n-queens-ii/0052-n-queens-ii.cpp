@@ -1,22 +1,12 @@
 class Solution {
 public:
     int totalNQueens(int n) {
-        // Same as nqueens in this one we simply gotta return the number of
-        // Valid solutions
-        // Before u get in yeah ROW Is top -> bottom , COLUMN is left -> right,
-        // This is like the 68th time ive to remind myself
+        // Literally Same as nqueens in this one we simply gotta return the
+        // number of Valid solutions ,ONCE AGAIN yeah ROW Is top -> bottom ,
+        // COLUMN is left -> right, This is like the 70th time ive
+        // to remind myself
 
-        /* This problem is hard for a reason, it's kind of a multiphase
-        question, look this is awa flow : we start from row 0 -> n and for each
-        row we loop from col 0 -> n and which ever tile on the board is valid
-        i.e safe we place it there and well yeah, if u think carefully once we
-        place a queen in one of the rows we cant really place another one so we
-        simply call our recursive function with row + 1 and before we understadn
-        more first we gotta declare them variables and DS*/
-
-        /*Oh also edge case if n = 1 we can directly return {{"Q"}}, however
-          apart from that if n<4 we gotta return an empty ans cuz its not
-          possible*/
+        // COPY-PASTA FROM NQUEENS, go look at nqueens or u wont understand shi
 
         if (n == 1) {
             return 1;
@@ -32,14 +22,12 @@ public:
         nqueens(n, validSolutionCount, temporaryBoard, startingRow);
 
         return validSolutionCount;
-        // Starting from this question imma write my functions
-        // downwards so that its easy to read
     }
 
     void nqueens(int n, int& validSolutionCount, vector<string>& temporaryBoard,
                  int row) {
 
-        // Base case is super simple
+        // Base case is simple
         if (row == n) {
             validSolutionCount++;
             return;
@@ -77,10 +65,7 @@ public:
         /*To check if its a safe position we gotta check if any queen is place
         on that row/column/top-left diagnoal/top right diagonal, yeah cuz if we
         are on row-2 we can only access row-3 if we successfully placed a queen
-        on row-2 so no use of checking lower diagoals, beeg brein move, i know,
-        i believe i saw a solution where they only checked
-        vertically/horizontally not both, idk why but there is no way i'll
-        remember that so imma check all of em XD
+        on row-2 so no use of checking lower diagoals
         */
 
         // Vertical Check, vertical means top->bottom so we be traversing row
