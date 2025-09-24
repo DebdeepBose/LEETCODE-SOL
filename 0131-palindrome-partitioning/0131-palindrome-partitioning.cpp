@@ -42,6 +42,8 @@ public:
                 // If it is a palindrome we recursively call the next part,
                 // basically we trying to place our cuts
                 temporaryParts.push_back(tempString);
+
+                //Here we do i+1 not indexTracker + 1 cuz we trynaa place cuts  
                 findAllPalindromePartitions(s, n, validPalindromes,
                                             temporaryParts, i + 1);
                 // Undo choice
