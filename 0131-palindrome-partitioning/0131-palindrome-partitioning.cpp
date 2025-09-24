@@ -40,7 +40,7 @@ public:
             if (isPalindrome(tempString)) {
 
                 // If it is a palindrome we recursively call the next part,
-                // basically TAKE
+                // basically we trying to place our cuts
                 temporaryParts.push_back(tempString);
                 findAllPalindromePartitions(s, n, validPalindromes,
                                             temporaryParts, i + 1);
