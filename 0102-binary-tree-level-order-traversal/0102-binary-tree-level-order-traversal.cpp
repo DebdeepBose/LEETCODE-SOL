@@ -13,33 +13,74 @@
 class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
-        queue<TreeNode*> q;
-        vector<vector<int>> ans;
-        q.push(root);
-        loT(root, q, ans);
+        /*Alright this one, look its easy just follow this
+        We take a Queue for this and such questions where level order traversla
+        is required so ingrain it into your brayyyn, now simpley follow this
 
-        return ans;
+        We push root into queue, then jump inside a while loop
+        That loop goes on until Queue is not empty
+        Basically what we do is, we take the size of the queue, and
+        an empty vector to store temporary values.
+        Next for the size of the queue we iterate, aka traverse the queue
+        with a simple for loop.
+        Now for each element in the queue we repeat this:
+            Store the front -> pop the front, push stored front into temp Vector
+            If frontNode -> left isnt nullptr, push it into queue.
+            If frontNode -> right isnt nullptr, push it into queue.
+        After loop ends push temp Vector into Ans
+
+        This got messy so imma call a function for this purpose but u can
+        do it here itself
+        */
+
+        queue<TreeNode*> nodeQueue;
+        nodeQueue.push(root);
+        vector<vector<int>> levelOrderValues;
+
+        levelOrderTraversal(root, nodeQueue, levelOrderValues);
+
+        return levelOrderValues;
     }
-    void loT(TreeNode* node, queue<TreeNode*>& q, vector<vector<int>>& ans) {
-        if (node == nullptr) {
+
+    void levelOrderTraversal(TreeNode* currentNode, queue<TreeNode*>& nodeQueue,
+                             vector<vector<int>>& levelOrderValues) {
+
+        // Ok so if the root we passed turns out to be null well then gg return
+        if (currentNode == nullptr) {
             return;
         }
-        while (!q.empty()) {
-            vector<int> tmp;
-            int n = q.size();
-            for (int i = 0; i < n; i++) {
-                TreeNode* frontNode = q.front();
-                int front = frontNode->val;
-                q.pop();
-                tmp.push_back(front);
+
+        while (!nodeQueue.empty()) {
+
+            // We initialize size and temp vector
+            // Yeah outside or else for every element in the queue
+            // a new temp vector would be initialize
+            int queueSize = nodeQueue.size();
+            vector<int> temporaryNodeValues;
+
+            for (int i = 0; i < queueSize; i++) {
+
+                // These 3 lines basically take out the front Node and store its
+                // value
+                TreeNode* frontNode = nodeQueue.front();
+                nodeQueue.pop();
+                int frontNodeValue = frontNode->val;
+
+                // Gotta stored that popped node
+                temporaryNodeValues.push_back(frontNodeValue);
+
+                // Now we check if left/right valid or no
                 if (frontNode->left != nullptr) {
-                    q.push(frontNode->left);
+                    nodeQueue.push(frontNode->left);
                 }
+
                 if (frontNode->right != nullptr) {
-                    q.push(frontNode->right);
+                    nodeQueue.push(frontNode->right);
                 }
             }
-            ans.push_back(tmp);
+
+            // WE POOSH
+            levelOrderValues.push_back(temporaryNodeValues);
         }
     }
 };
