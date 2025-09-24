@@ -82,13 +82,14 @@ public:
         */
 
         // Vertical Check, vertical means top->bottom so we be traversing row
+        // Remember traversing row means we keep column constant
         for (int i = 0; i < n; i++) {
             if (temporaryBoard[i][column] == 'Q') {
                 return false;
             }
         }
 
-        // Horizontal check, aka we traberse kolumn
+        // Horizontal check, aka we traberse kolumn, row remains constant
         for (int i = 0; i < n; i++) {
             if (temporaryBoard[row][i] == 'Q') {
                 return false;
