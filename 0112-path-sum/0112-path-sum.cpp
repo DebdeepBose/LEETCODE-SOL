@@ -12,22 +12,22 @@
  */
 class Solution {
 public:
-    bool findSum(TreeNode* root, int t) {
-        if (root == nullptr) {
+    bool hasPathSum(TreeNode* root, int k) { return check(root, k); }
+    bool check(TreeNode* node, int k) {
+        if (node == nullptr) {
+            return false;
+        }
+        if (node->right == nullptr && node->left == nullptr) {
+            if (k - node->val == 0) {
+                return true;
+            }
             return false;
         }
 
-        if (root->left == nullptr && root->right == nullptr) {
-            return (t - root->val) == 0;
-        }
+        k -= node->val;
+        bool left = check(node->left, k);
+        bool right = check(node->right, k);
 
-        bool l = findSum(root->left, t - root->val);
-        bool r = findSum(root->right, t - root->val);
-
-        return l || r;
-    }
-    bool hasPathSum(TreeNode* root, int t) {
-        bool f = findSum(root, t);
-        return f;
+        return left || right;
     }
 };
