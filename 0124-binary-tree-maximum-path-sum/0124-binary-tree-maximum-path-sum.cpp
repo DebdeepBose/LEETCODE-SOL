@@ -15,7 +15,7 @@ public:
     int maxPathSum(TreeNode* root) {
         int mx = INT_MIN;
         int finalVal = help(root, mx);
-        return max(mx, finalVal);
+        return mx;
     }
     int help(TreeNode* node, int& mx) {
         if (node == nullptr) {
