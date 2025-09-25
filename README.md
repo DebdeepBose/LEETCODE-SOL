@@ -1026,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0275-h-index-ii) |
@@ -1091,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0187-repeated-dna-sequences) |
+| [0222-count-complete-tree-nodes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0287-find-the-duplicate-number) |
@@ -1577,6 +1579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0257-binary-tree-paths) |
@@ -1663,6 +1666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0257-binary-tree-paths) |
