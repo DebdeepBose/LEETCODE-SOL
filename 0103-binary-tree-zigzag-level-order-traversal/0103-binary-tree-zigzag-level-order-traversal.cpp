@@ -13,40 +13,52 @@
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+        /*Yes this is more so an easy question all u gotta do is level order
+         * traversal but just take a boolean flag as true and flip it when u
+         * going to store ans, if the flag is false , our temporary vector will
+         * reverse itslef otherwise things will go on, super easy */
+
         if (root == nullptr) {
             return {};
         }
-        queue<TreeNode*> q;
-        bool f = true;
-        vector<vector<int>> ans;
-        q.push(root);
-        zlo(root, q, f, ans);
-        return ans;
+
+        queue<TreeNode*> nodeQueue;
+        vector<vector<int>> ZigZagNodeList;
+        bool ZigZag = true;
+
+        nodeQueue.push(root);
+        zigzagTraversal(nodeQueue, ZigZag, ZigZagNodeList);
+
+        return ZigZagNodeList;
     }
-    void zlo(TreeNode* node, queue<TreeNode*>& q, bool f,
-             vector<vector<int>>& ans) {
 
-        while (!q.empty()) {
-            int n = q.size();
-            vector<int> tmp;
+    // I mean the queue already has the root so no use of taking it again
+
+    void zigzagTraversal(queue<TreeNode*>& nodeQueue, bool ZigZag,
+                         vector<vector<int>>& ZigZagNodeList) {
+        while (!nodeQueue.empty()) {
+            int n = nodeQueue.size();
+            vector<int> tempNodeList;
+
             for (int i = 0; i < n; i++) {
-                TreeNode* front = q.front();
-                int frontVal = front->val;
-                q.pop();
-                tmp.push_back(frontVal);
+                TreeNode* frontNode = nodeQueue.front();
+                nodeQueue.pop();
 
-                if (front->left != nullptr) {
-                    q.push(front->left);
+                tempNodeList.push_back(frontNode->val);
+
+                if (frontNode->left != nullptr) {
+                    nodeQueue.push(frontNode->left);
                 }
-                if (front->right != nullptr) {
-                    q.push(front->right);
+                if (frontNode->right != nullptr) {
+                    nodeQueue.push(frontNode->right);
                 }
             }
-            if (!f) {
-                reverse(tmp.begin(), tmp.end());
+
+            if (!ZigZag) {
+                reverse(tempNodeList.begin(), tempNodeList.end());
             }
-            f = !f;
-            ans.push_back(tmp);
+            ZigZagNodeList.push_back(tempNodeList);
+            ZigZag = !ZigZag;
         }
     }
 };
