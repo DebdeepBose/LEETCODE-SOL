@@ -1598,6 +1598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1254-deepest-leaves-sum) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1634,6 +1635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1254-deepest-leaves-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2121-find-if-path-exists-in-graph) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1664,6 +1666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1036-rotting-oranges) |
 | [1254-deepest-leaves-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1254-deepest-leaves-sum) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1701,6 +1704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1254-deepest-leaves-sum) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Merge Sort
 |  |
