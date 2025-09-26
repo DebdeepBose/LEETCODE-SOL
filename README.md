@@ -1595,6 +1595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0662-maximum-width-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0904-leaf-similar-trees) |
+| [1005-univalued-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1254-deepest-leaves-sum) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -1629,6 +1630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0733-flood-fill) |
 | [0904-leaf-similar-trees](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0904-leaf-similar-trees) |
+| [1005-univalued-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1254-deepest-leaves-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1657,6 +1659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0945-snakes-and-ladders) |
+| [1005-univalued-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1036-rotting-oranges) |
 | [1254-deepest-leaves-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1254-deepest-leaves-sum) |
@@ -1695,6 +1698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0662-maximum-width-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0904-leaf-similar-trees) |
+| [1005-univalued-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1254-deepest-leaves-sum) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2493-reverse-odd-levels-of-binary-tree) |
