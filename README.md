@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0658-find-k-closest-elements) |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0680-valid-palindrome-ii) |
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0692-top-k-frequent-words) |
@@ -945,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0680-valid-palindrome-ii) |
@@ -1043,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0713-subarray-product-less-than-k) |
