@@ -17,8 +17,12 @@ public:
             for (int i = 0; i < n; i++) {
                 auto [node, idx] = q.front(); q.pop();
                 right = idx;
-                if (node->left) q.push({node->left, 2 * idx});
-                if (node->right) q.push({node->right, 2 * idx + 1});
+                if (node->left) {
+                    q.push({node->left, 2 * idx});
+                }
+                if (node->right) {
+                    q.push({node->right, 2 * idx + 1});
+                }
             }
             maxw = max(maxw, (int)(right - left + 1));
         }
