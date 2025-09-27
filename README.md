@@ -663,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0979-di-string-match) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1251-longest-chunked-palindrome-decomposition) |
@@ -1598,6 +1599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -1637,6 +1639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1254-deepest-leaves-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1711,6 +1714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -1764,6 +1768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0679-24-game) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
