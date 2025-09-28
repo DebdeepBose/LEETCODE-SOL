@@ -16,26 +16,25 @@ public:
         if (!root) {
             return {};
         }
-        deque<TreeNode*> q;
-        q.push_back(root);
+        queue<TreeNode*> q;
+        q.push(root);
         vector<int> ans;
         rightView(q, ans);
         return ans;
     }
-    void rightView(deque<TreeNode*> q, vector<int>& ans) {
+
+    void rightView(queue<TreeNode*>& q, vector<int>& ans) {
         while (!q.empty()) {
             int n = q.size();
-            TreeNode* back = q.back();
-            int backVal = back->val;
-            ans.push_back(backVal);
+            ans.push_back(q.back()->val);
             for (int i = 0; i < n; i++) {
                 TreeNode* front = q.front();
-                q.pop_front();
+                q.pop();
                 if (front->left) {
-                    q.push_back(front->left);
+                    q.push(front->left);
                 }
                 if (front->right) {
-                    q.push_back(front->right);
+                    q.push(front->right);
                 }
             }
         }
