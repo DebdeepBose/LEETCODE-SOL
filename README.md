@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1127-last-stone-weight) |
 | [1185-find-in-mountain-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1185-find-in-mountain-array) |
 | [1306-minimum-absolute-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1306-minimum-absolute-difference) |
@@ -1262,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1086-divisor-game) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1362-airplane-seat-assignment-probability](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1362-airplane-seat-assignment-probability) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1402-count-square-submatrices-with-all-ones) |
