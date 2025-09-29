@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0830-largest-triangle-area) |
 | [0878-shifting-letters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0907-koko-eating-bananas) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1059,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0755-reach-a-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -1139,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0713-subarray-product-less-than-k) |
 | [0867-new-21-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0867-new-21-game) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1034-subarrays-with-k-different-integers) |
@@ -1182,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0713-subarray-product-less-than-k) |
 | [0878-shifting-letters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0878-shifting-letters) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1046-max-consecutive-ones-iii) |
@@ -1319,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0232-implement-queue-using-stacks) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0954-maximum-sum-circular-subarray) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -1330,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0954-maximum-sum-circular-subarray) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -1447,6 +1453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0778-reorganize-string) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1127-last-stone-weight) |
