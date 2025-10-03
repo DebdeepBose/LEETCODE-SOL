@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0416-partition-equal-subset-sum) |
@@ -1457,6 +1458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0658-find-k-closest-elements) |
@@ -1518,6 +1520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0289-game-of-life) |
+| [0407-trapping-rain-water-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0566-reshape-the-matrix) |
@@ -1699,6 +1702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0617-merge-two-binary-trees) |
