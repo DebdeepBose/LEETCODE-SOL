@@ -3,7 +3,6 @@ public:
     int findCircleNum(vector<vector<int>>& v) {
         int V = v.size();
         vector<vector<int>> adj(V);
-
         for (int i = 0; i < V; i++) {
             for (int j = 0; j < V; j++) {
                 if (v[i][j] == 1 && i != j) {
@@ -12,31 +11,23 @@ public:
                 }
             }
         }
-
-        vector<int> vis(V, 0);
-        int count = 0;
-
+        int c = 0;
+        vector<bool> vis(V, false);
         for (int i = 0; i < V; i++) {
             if (!vis[i]) {
-                count++;
-                queue<int> q;
-                q.push(i);
-                vis[i] = 1;
-
-                while (!q.empty()) {
-                    int node = q.front();
-                    q.pop();
-
-                    for (int ne : adj[node]) {
-                        if (!vis[ne]) {
-                            vis[ne] = 1;
-                            q.push(ne);
-                        }
-                    }
-                }
+                c++;
+                dfs(i, adj, vis);
             }
         }
 
-        return count;
+        return c;
+    }
+    void dfs(int node, vector<vector<int>>& adj, vector<bool>& vis) {
+        vis[node] = true;
+        for (auto e : adj[node]) {
+            if (!vis[e]) {
+                dfs(e, adj, vis);
+            }
+        }
     }
 };
