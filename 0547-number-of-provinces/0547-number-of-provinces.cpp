@@ -1,13 +1,8 @@
-#include <vector>
-#include <queue>
-using namespace std;
-
 class Solution {
 public:
     int findCircleNum(vector<vector<int>>& v) {
         int V = v.size();
         vector<vector<int>> adj(V);
-
 
         for (int i = 0; i < V; i++) {
             for (int j = 0; j < V; j++) {
