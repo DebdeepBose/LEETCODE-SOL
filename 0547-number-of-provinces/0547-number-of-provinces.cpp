@@ -1,27 +1,47 @@
+#include <vector>
+#include <queue>
+using namespace std;
+
 class Solution {
 public:
-    void dfs(int node, vector<vector<int>>& v, vector<int>& vis) {
-        vis[node] = 1;
-        int n = v.size();
-        for (int j = 1; j <= n; j++) {
-            if (v[node - 1][j - 1] == 1 && !vis[j]) {
-                dfs(j, v, vis);
-            }
-        }
-    }
-
     int findCircleNum(vector<vector<int>>& v) {
-        int n = v.size();
-        vector<int> vis(n + 1, 0); 
-        int c = 0;
+        int V = v.size();
+        vector<vector<int>> adj(V);
 
-        for (int i = 1; i <= n; i++) {
-            if (!vis[i]) {
-                c++;
-                dfs(i, v, vis);
+
+        for (int i = 0; i < V; i++) {
+            for (int j = 0; j < V; j++) {
+                if (v[i][j] == 1 && i != j) {
+                    adj[i].push_back(j);
+                    adj[j].push_back(i);
+                }
             }
         }
 
-        return c;
+        vector<int> vis(V, 0);
+        int count = 0;
+
+        for (int i = 0; i < V; i++) {
+            if (!vis[i]) {
+                count++;
+                queue<int> q;
+                q.push(i);
+                vis[i] = 1;
+
+                while (!q.empty()) {
+                    int node = q.front();
+                    q.pop();
+
+                    for (int ne : adj[node]) {
+                        if (!vis[ne]) {
+                            vis[ne] = 1;
+                            q.push(ne);
+                        }
+                    }
+                }
+            }
+        }
+
+        return count;
     }
 };
