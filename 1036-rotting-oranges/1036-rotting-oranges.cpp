@@ -1,52 +1,51 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
+
         int m = grid.size();
         int n = grid[0].size();
+        int time = 0;
 
-        vector<int> dx = {0, 0, 1, -1};
-        vector<int> dy = {1, -1, 0, 0};
+        vector<vector<bool>> visited(m, vector<bool>(n, false));
+        queue<pair<pair<int, int>, int>> q;
 
-        vector<vector<int>> time(m, vector<int>(n, INT_MAX));
-
-        for (int i = 0; i < m; ++i) {
-            for (int j = 0; j < n; ++j) {
-                if (grid[i][j] == 2) {
-                    time[i][j] = 0;
-                    dfs(i, j, grid, time, dx, dy, m, n, 0);
-                }
-            }
-        }
-
-        int ans = 0;
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 1 && time[i][j] == INT_MAX) {
-                    return -1; 
-                }
-                if (grid[i][j] != 0 && time[i][j] != INT_MAX) {
-                    ans = max(ans, time[i][j]);
+                if (grid[i][j] == 2) {
+                    q.push({{i, j}, 0});
+                    visited[i][j] = true;
                 }
             }
         }
 
-        return ans;
-    }
+        vector<int> dx = {0, 0, -1, 1};
+        vector<int> dy = {-1, 1, 0, 0};
 
-private:
-    void dfs(int i, int j, vector<vector<int>>& grid, vector<vector<int>>& time,
-             vector<int>& dx, vector<int>& dy, int m, int n, int t) {
+        while (!q.empty()) {
+            int r = q.front().first.first;
+            int c = q.front().first.second;
+            int t = q.front().second;
+            time = max(time, t);
+            q.pop();
 
-        for (int k = 0; k < 4; k++) {
-            int x = i + dx[k];
-            int y = j + dy[k];
-            if (x >= 0 && x < m && y >= 0 && y < n) {
-            
-                if (grid[x][y] != 0 && time[x][y] > t + 1) {
-                    time[x][y] = t + 1;
-                    dfs(x, y, grid, time, dx, dy, m, n, t + 1);
+            for (int i = 0; i < 4; i++) {
+                int x = r + dx[i];
+                int y = c + dy[i];
+                if (x >= 0 && x < m && y >= 0 && y < n && !visited[x][y] &&
+                    grid[x][y] == 1 && grid[x][y] != 2) {
+                    q.push({{x, y}, t + 1});
+                    grid[x][y] = 2;
+                    visited[x][y] = true;
                 }
             }
         }
+        for (auto e : grid) {
+            for (auto ee : e) {
+                if (ee == 1) {
+                    return -1;
+                }
+            }
+        }
+        return time;
     }
 };
