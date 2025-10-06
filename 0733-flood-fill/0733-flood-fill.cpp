@@ -1,40 +1,33 @@
 class Solution {
 public:
-    vector<vector<int>> floodFill(vector<vector<int>>& img, int sr, int sc,
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc,
                                   int color) {
-        int m = img.size();
-        int n = img[0].size();
-        int ogColor = img[sr][sc];
-        if (ogColor == color) {
-            return img;
-        }
-        bfs(img, sr, sc, color, ogColor, m, n);
-        return img;
+        int m = image.size();
+        int n = image[0].size();
+
+        vector<int> dx = {0, 0, -1, 1};
+        vector<int> dy = {-1, 1, 0, 0};
+
+        int oldColor = image[sr][sc];
+
+        vector<vector<bool>> visited(m, vector<bool>(n, false));
+
+        image[sr][sc] = color;
+        dfs(sr, sc, dx, dy, visited, m, n, image, color, oldColor);
+
+        return image;
     }
-
-    void bfs(vector<vector<int>>& img, int sr, int sc, int color,
-             int ogColor, int m, int n) {
-        queue<pair<int, int>> q;
-        q.push({sr, sc});
-        img[sr][sc] = color;
-
-        while (!q.empty()) {
-            int r = q.front().first;
-            int c = q.front().second;
-            q.pop();
-
-            vector<int> dx = {0, 0, -1, 1};
-            vector<int> dy = {-1, 1, 0, 0};
-
-            for (int i = 0; i < 4; i++) {
-                int newr = r + dx[i];
-                int newc = c + dy[i];
-                if (newr >= 0 && newr < m && newc >= 0 && newc < n) {
-                    if (img[newr][newc] == ogColor) {
-                        img[newr][newc] = color;
-                        q.push({newr, newc});
-                    }
-                }
+    void dfs(int i, int j, vector<int>& dx, vector<int>& dy,
+             vector<vector<bool>>& visited, int m, int n,
+             vector<vector<int>>& image, int color, int oldColor) {
+        visited[i][j] = true;
+        for (int k = 0; k < 4; k++) {
+            int x = i + dx[k];
+            int y = j + dy[k];
+            if (x >= 0 && x < m && y >= 0 && y < n && !visited[x][y] &&
+                image[x][y] == oldColor) {
+                image[x][y] = color;
+                dfs(x, y, dx, dy, visited, m, n, image, color, oldColor);
             }
         }
     }
