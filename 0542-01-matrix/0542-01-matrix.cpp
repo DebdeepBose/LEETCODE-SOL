@@ -1,45 +1,43 @@
 class Solution {
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
+
         int m = mat.size();
         int n = mat[0].size();
-        
-        vector<vector<int>> vis(m, vector<int>(n, 0));
-        vector<vector<int>> dist(m, vector<int>(n, 0));
-        queue<pair<pair<int, int>, int>> q; 
 
-        
-        for(int i = 0; i < m; i++) {
-            for(int j = 0; j < n; j++) {
-                if(mat[i][j] == 0) {
+        vector<int> dx = {0, 0, 1, -1};
+        vector<int> dy = {1, -1, 0, 0};
+
+        queue<pair<pair<int, int>, int>> q;
+        vector<vector<bool>> vis(m, vector<bool>(n, false));
+        vector<vector<int>> dist(m, vector<int>(n, 0));
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (!vis[i][j] && mat[i][j] == 0) {
                     q.push({{i, j}, 0});
-                    vis[i][j] = 1; 
+                    vis[i][j] = true;
                 }
             }
         }
 
-        int dx[] = {-1, 0, 1, 0};
-        int dy[] = {0, 1, 0, -1};
-
-        while(!q.empty()) {
+        while (!q.empty()) {
             int r = q.front().first.first;
             int c = q.front().first.second;
             int d = q.front().second;
             q.pop();
-
             dist[r][c] = d;
 
-            for(int i = 0; i < 4; i++) {
-                int nr = r + dx[i];
-                int nc = c + dy[i];
+            for (int k = 0; k < 4; k++) {
+                int x = r + dx[k];
+                int y = c + dy[k];
 
-                if(nr >= 0 && nc >= 0 && nr < m && nc < n && vis[nr][nc] == 0) {
-                    vis[nr][nc] = 1;
-                    q.push({{nr, nc}, d + 1});
+                if (x >= 0 && x < m && y >= 0 && y < n && !vis[x][y]) {
+                    vis[x][y] = true;
+                    q.push({{x, y}, d + 1});
                 }
             }
         }
-
         return dist;
     }
 };
