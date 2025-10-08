@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1073-number-of-enclaves](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1073-number-of-enclaves) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1127-last-stone-weight) |
 | [1185-find-in-mountain-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1185-find-in-mountain-array) |
@@ -1547,6 +1548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0777-toeplitz-matrix) |
 | [0945-snakes-and-ladders](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1699,6 +1701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1073-number-of-enclaves](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1073-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1254-deepest-leaves-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1736,6 +1739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1073-number-of-enclaves) |
 | [1254-deepest-leaves-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1254-deepest-leaves-sum) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1869,6 +1873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1073-number-of-enclaves](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2121-find-if-path-exists-in-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Combinatorics
