@@ -16,24 +16,24 @@ public:
             return 0;
         }
 
-        vector<int> v;
-        ioT(root, v);
-
+        TreeNode* prev = nullptr;
         int minDiff = INT_MAX;
-
-        for (int i = 1; i < v.size(); i++) {
-            minDiff = min(minDiff, v[i] - v[i - 1]);
-        }
-
+        ioT(root, prev, minDiff);
         return minDiff;
     }
-    void ioT(TreeNode* node, vector<int>& v) {
+
+    void ioT(TreeNode* node, TreeNode*& prev, int& minDiff) {
         if (!node) {
             return;
         }
 
-        ioT(node->left, v);
-        v.push_back(node->val);
-        ioT(node->right, v);
+        ioT(node->left, prev, minDiff);
+
+        if (prev != nullptr) {
+            minDiff = min(minDiff, abs(node->val - prev->val));
+        }
+        prev = node;
+
+        ioT(node->right, prev, minDiff);
     }
 };
