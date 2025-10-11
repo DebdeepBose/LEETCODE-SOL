@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0417-pacific-atlantic-water-flow) |
+| [0419-battleships-in-a-board](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0419-battleships-in-a-board) |
 | [0436-find-right-interval](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -1550,6 +1551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0417-pacific-atlantic-water-flow) |
+| [0419-battleships-in-a-board](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0542-01-matrix) |
@@ -1706,6 +1708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0417-pacific-atlantic-water-flow) |
+| [0419-battleships-in-a-board](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0530-minimum-absolute-difference-in-bst) |
