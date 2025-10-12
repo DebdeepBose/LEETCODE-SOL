@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0733-flood-fill) |
@@ -1563,6 +1564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0661-image-smoother) |
+| [0695-max-area-of-island](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0861-flipping-an-image) |
@@ -1724,6 +1726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0801-is-graph-bipartite) |
@@ -1768,6 +1771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0801-is-graph-bipartite) |
@@ -1912,6 +1916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1073-number-of-enclaves) |
