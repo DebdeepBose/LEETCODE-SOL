@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3799-unique-3-digit-even-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3799-unique-3-digit-even-numbers) |
 | [3822-fill-a-special-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3822-fill-a-special-grid) |
 | [3827-implement-router](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3886-count-number-of-trapezoids-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3886-count-number-of-trapezoids-i) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3817-maximum-containers-on-a-ship](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3817-maximum-containers-on-a-ship) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3886-count-number-of-trapezoids-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3886-count-number-of-trapezoids-i) |
 ## Simulation
 |  |
@@ -1157,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Sliding Window
 |  |
@@ -1327,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String Matching
 |  |
 | ------- |
@@ -1920,6 +1924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3813-smallest-palindromic-rearrangement-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1967,6 +1972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Reservoir Sampling
 |  |
 | ------- |
