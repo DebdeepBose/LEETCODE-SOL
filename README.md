@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1306-minimum-absolute-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1372-check-if-it-is-a-good-array) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1034-subarrays-with-k-different-integers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -894,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1306-minimum-absolute-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1306-minimum-absolute-difference) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
