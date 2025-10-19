@@ -1,26 +1,37 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     string findLexSmallestString(string s, int a, int b) {
         int n = s.size();
-        unordered_set<string> st;
+        unordered_set<string> vis;
+        queue<string> q;
         string ans = s;
-        dfs(s, a, b, n, st, ans);
-        return ans;
-    }
 
-    void dfs(string s, int a, int b, int n, unordered_set<string>& st,
-             string& ans) {
-        if (st.find(s) != st.end()) {
-            return;
+        q.push(s);
+        vis.insert(s);
+
+        while (!q.empty()) {
+            string cur = q.front();
+            q.pop();
+
+            ans = min(ans, cur);
+
+            string added = addToString(cur, a, n);
+            if (!vis.count(added)) {
+                vis.insert(added);
+                q.push(added);
+            }
+
+            string rotated = rotateString(cur, b);
+            if (!vis.count(rotated)) {
+                vis.insert(rotated);
+                q.push(rotated);
+            }
         }
-        st.insert(s);
-        ans = min(ans, s);
 
-        string added = addToString(s, a, n);
-        dfs(added, a, b, n, st, ans);
-
-        string rotated = rotateString(s, b);
-        dfs(rotated, a, b, n, st, ans);
+        return ans;
     }
 
     string addToString(string s, int a, int n) {
