@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0458-poor-pigs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0556-next-greater-element-iii) |
@@ -1334,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0416-partition-equal-subset-sum) |
+| [0458-poor-pigs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0458-poor-pigs) |
 | [0494-target-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0647-palindromic-substrings) |
@@ -1979,6 +1981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0458-poor-pigs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0458-poor-pigs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3201-distribute-candies-among-children-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3637-count-number-of-balanced-permutations) |
