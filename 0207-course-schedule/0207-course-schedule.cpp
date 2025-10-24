@@ -1,14 +1,14 @@
 class Solution {
 public:
-    bool canFinish(int V, vector<vector<int>>& v) {
+    bool canFinish(int V, vector<vector<int>>& edge) {
         vector<vector<int>> adj(V);
-        for (auto e : v) {
+        for (auto e : edge) {
             adj[e[0]].push_back(e[1]);
         }
 
         vector<int> indegree(V);
-
         queue<int> q;
+        vector<int> topo;
 
         for (int i = 0; i < V; i++) {
             for (auto e : adj[i]) {
@@ -22,13 +22,12 @@ public:
             }
         }
 
-        vector<int> topo;
-
         while (!q.empty()) {
-            int front = q.front();
+            int node = q.front();
             q.pop();
-            topo.push_back(front);
-            for (auto e : adj[front]) {
+            topo.push_back(node);
+
+            for (auto e : adj[node]) {
                 indegree[e]--;
                 if (indegree[e] == 0) {
                     q.push(e);
