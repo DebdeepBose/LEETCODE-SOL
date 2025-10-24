@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2300-construct-string-with-repeat-limit) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2083-three-divisors) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -1072,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2300-construct-string-with-repeat-limit) |
 | [2448-count-number-of-bad-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2448-count-number-of-bad-pairs) |
@@ -1391,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2083-three-divisors) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2873-prime-pairs-with-target-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2873-prime-pairs-with-target-sum) |
@@ -1940,6 +1944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Brainteaser
 |  |
