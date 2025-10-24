@@ -8,7 +8,7 @@ public:
 
         vector<int> indegree(V);
         queue<int> q;
-        vector<int> topo;
+     
 
         for (int i = 0; i < V; i++) {
             for (auto e : adj[i]) {
@@ -22,10 +22,12 @@ public:
             }
         }
 
+        int c = 0;
+
         while (!q.empty()) {
             int node = q.front();
             q.pop();
-            topo.push_back(node);
+            c++;
 
             for (auto e : adj[node]) {
                 indegree[e]--;
@@ -35,6 +37,6 @@ public:
             }
         }
 
-        return topo.size() == V;
+        return c == V;
     }
 };
