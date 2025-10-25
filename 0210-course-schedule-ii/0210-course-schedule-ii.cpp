@@ -1,41 +1,39 @@
 class Solution {
 public:
-    vector<int> findOrder(int V, vector<vector<int>>& v) {
+    vector<int> findOrder(int V, vector<vector<int>>& edges) {
         vector<vector<int>> adj(V);
-        for (auto e : v) {
+
+        for (auto e : edges) {
             adj[e[1]].push_back(e[0]);
         }
 
-        vector<int> indegree(V);
-
-        queue<int> q;
-
-        for (int i = 0; i < V; i++) {
-            for (auto e : adj[i]) {
-                indegree[e]++;
-            }
-        }
-
-        for (int i = 0; i < V; i++) {
-            if (indegree[i] == 0) {
-                q.push(i);
-            }
-        }
-
         vector<int> topo;
+        stack<int> st;
+        vector<bool> vis(V);
 
-        while (!q.empty()) {
-            int front = q.front();
-            q.pop();
-            topo.push_back(front);
-            for (auto e : adj[front]) {
-                indegree[e]--;
-                if (indegree[e] == 0) {
-                    q.push(e);
-                }
+        for (int i = 0; i < V; i++) {
+            if (!vis[i]) {
+                dfs(i, st, vis, adj);
             }
         }
 
-        return topo.size() == V ? topo : vector<int>();
+        while (!st.empty()) {
+            topo.push_back(st.top());
+            st.pop();
+        }
+
+        return topo;
+    }
+    void dfs(int node, stack<int>& st, vector<bool>& vis,
+             vector<vector<int>>& adj) {
+
+        vis[node] = true;
+
+        for (auto e : adj[node]) {
+            if (!vis[e]) {
+                dfs(e, st, vis, adj);
+            }
+        }
+        st.push(node);
     }
 };
