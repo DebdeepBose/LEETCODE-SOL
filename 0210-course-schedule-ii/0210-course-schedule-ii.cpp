@@ -9,11 +9,13 @@ public:
 
         vector<int> topo;
         stack<int> st;
-        vector<bool> vis(V);
+        vector<int> vis(V, 0);
 
         for (int i = 0; i < V; i++) {
             if (!vis[i]) {
-                dfs(i, st, vis, adj);
+                if (dfs(i, st, vis, adj) == false) {
+                    return {};
+                }
             }
         }
 
@@ -22,18 +24,21 @@ public:
             st.pop();
         }
 
-        return topo;
+        return topo.size() == V ? topo : vector<int>();
     }
-    void dfs(int node, stack<int>& st, vector<bool>& vis,
+    bool dfs(int node, stack<int>& st, vector<int>& vis,
              vector<vector<int>>& adj) {
-
-        vis[node] = true;
-
-        for (auto e : adj[node]) {
-            if (!vis[e]) {
-                dfs(e, st, vis, adj);
+        vis[node] = 1;
+        for (auto nei : adj[node]) {
+            if (vis[nei] == 0) {
+                if (dfs(nei, st, vis, adj) == false)
+                    return false;
+            } else if (vis[nei] == 1) {
+                return false;
             }
         }
+        vis[node] = 2;
         st.push(node);
+        return true;
     }
 };
