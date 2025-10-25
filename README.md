@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1642-water-bottles) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1674-minimum-operations-to-make-array-equal) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1951-find-the-winner-of-the-circular-game) |
