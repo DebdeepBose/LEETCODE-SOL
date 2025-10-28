@@ -10,7 +10,7 @@ public:
         for (int k = 0; k < n; k++) {
             if (nums[k] <= num_i) {
                 num_i = nums[k];
-            } else if (nums[k] <= num_j) {
+            } else if (nums[k] <= num_j && nums[k] > num_i) {
                 num_j = nums[k];
             } else {
                 return true;
