@@ -12,7 +12,7 @@ public:
                 num_i = nums[k];
             } else if (nums[k] <= num_j && nums[k] > num_i) {
                 num_j = nums[k];
-            } else {
+            } else if (nums[k] > num_j) {
                 return true;
             }
         }
