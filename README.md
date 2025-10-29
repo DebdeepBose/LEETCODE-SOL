@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3886-count-number-of-trapezoids-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3886-count-number-of-trapezoids-i) |
 | [3934-coupon-code-validator](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3934-coupon-code-validator) |
+| [4069-count-ways-to-choose-coprime-integers-from-rows](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/4069-count-ways-to-choose-coprime-integers-from-rows) |
 ## Hash Table
 |  |
 | ------- |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3817-maximum-containers-on-a-ship](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3817-maximum-containers-on-a-ship) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3886-count-number-of-trapezoids-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3886-count-number-of-trapezoids-i) |
+| [4069-count-ways-to-choose-coprime-integers-from-rows](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/4069-count-ways-to-choose-coprime-integers-from-rows) |
 ## Simulation
 |  |
 | ------- |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-maximum-subarray-with-equal-products](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
+| [4069-count-ways-to-choose-coprime-integers-from-rows](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/4069-count-ways-to-choose-coprime-integers-from-rows) |
 ## String
 |  |
 | ------- |
@@ -1393,6 +1396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [4069-count-ways-to-choose-coprime-integers-from-rows](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/4069-count-ways-to-choose-coprime-integers-from-rows) |
 ## String Matching
 |  |
 | ------- |
@@ -1657,6 +1661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3822-fill-a-special-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3822-fill-a-special-grid) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
+| [4069-count-ways-to-choose-coprime-integers-from-rows](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/4069-count-ways-to-choose-coprime-integers-from-rows) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -2010,6 +2015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [4069-count-ways-to-choose-coprime-integers-from-rows](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/4069-count-ways-to-choose-coprime-integers-from-rows) |
 ## Binary Indexed Tree
 |  |
 | ------- |
