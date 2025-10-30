@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1628-count-submatrices-with-all-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1651-shuffle-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -852,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1502-construct-k-palindrome-strings) |
 | [1612-avoid-flood-in-the-city](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1377,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1764-maximum-repeating-substring](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1764-maximum-repeating-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -1482,6 +1485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1510,6 +1514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2227-sum-of-subarray-ranges) |
 | [2549-next-greater-element-iv](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2549-next-greater-element-iv) |
