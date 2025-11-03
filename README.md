@@ -833,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
@@ -1215,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0371-sum-of-two-integers) |
+| [0397-integer-replacement](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0397-integer-replacement) |
 | [0645-set-mismatch](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0795-k-th-symbol-in-grammar) |
 | [0828-chalkboard-xor-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0828-chalkboard-xor-game) |
@@ -1371,6 +1373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0322-coin-change) |
+| [0397-integer-replacement](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0416-partition-equal-subset-sum) |
 | [0458-poor-pigs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0458-poor-pigs) |
@@ -2081,6 +2084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1013-fibonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
