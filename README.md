@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1651-shuffle-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1694-make-sum-divisible-by-p) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1755-defuse-the-bomb](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1651-shuffle-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1651-shuffle-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1764-maximum-repeating-substring](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1764-maximum-repeating-substring) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1829-maximum-units-on-a-truck) |
@@ -1393,6 +1396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1764-maximum-repeating-substring](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1764-maximum-repeating-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
