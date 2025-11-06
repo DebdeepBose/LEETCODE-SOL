@@ -13,12 +13,17 @@ public:
         vector<int> ans = {0, INT_MAX};
 
         while (!pq.empty()) {
-            auto cur = pq.top(); pq.pop();
+            auto cur = pq.top(); 
+            pq.pop();
             int val = cur[0], row = cur[1], col = cur[2];
 
-            if (maxi - val < ans[1] - ans[0]) ans = {val, maxi};
+            if (maxi - val < ans[1] - ans[0]) {
+                ans = {val, maxi};
+            }
 
-            if (col + 1 == nums[row].size()) break;
+            if (col + 1 == nums[row].size()) {
+                break;
+            }
 
             int nextVal = nums[row][col + 1];
             pq.push({nextVal, row, col + 1});
