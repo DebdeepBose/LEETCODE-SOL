@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0419-battleships-in-a-board) |
 | [0436-find-right-interval](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0436-find-right-interval) |
+| [0447-number-of-boomerangs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0454-4sum-ii) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0447-number-of-boomerangs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0454-4sum-ii) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0441-arranging-coins) |
+| [0447-number-of-boomerangs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
