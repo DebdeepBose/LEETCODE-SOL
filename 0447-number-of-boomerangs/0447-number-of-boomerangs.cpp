@@ -4,11 +4,19 @@ public:
 
         int pointLen = points.size();
 
+        // Cant form boomerangs if there are less than 3 points
         if (pointLen <= 2) {
             return 0;
         }
 
         int boomerangs = 0;
+
+        /* Take a notebook and draw a few points on a makeshift graph paper
+        you would notice that we can only form boomerangs with points that are
+        equidistant, now all u gotta do is, consider each coordinate the center
+        and measure the distances from it to all other points. If there are x
+        number of equidistant points then the total boomerangs formed would be 
+        x * (x - 1) */
 
         for (int i = 0; i < pointLen; i++) {
 
@@ -34,7 +42,7 @@ public:
             }
 
             for (auto e : mp) {
-                    boomerangs += (e.second * (e.second - 1));
+                boomerangs += (e.second * (e.second - 1));
             }
         }
 
