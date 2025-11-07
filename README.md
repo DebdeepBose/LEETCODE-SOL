@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -889,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2487-optimal-partition-of-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2664-maximize-greatness-of-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2664-maximize-greatness-of-an-array) |
@@ -1197,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2549-next-greater-element-iv](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2549-next-greater-element-iv) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2586-longest-square-streak-in-an-array) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2690-house-robber-iv](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1287,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -1327,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2465-shifting-letters-ii) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3427-special-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3427-special-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1474,6 +1479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2868-continuous-subarrays) |
 | [3827-implement-router](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3827-implement-router) |
 ## Monotonic Queue
