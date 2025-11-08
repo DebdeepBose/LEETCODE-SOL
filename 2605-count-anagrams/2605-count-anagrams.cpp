@@ -74,6 +74,8 @@ public:
         return res;
     }
 
+
+    //Fermat theorem btw
     long long modInverse(long long a, long long MOD) {
         return modPow(a, MOD - 2, MOD);  
     }
