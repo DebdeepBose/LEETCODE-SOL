@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0493-reverse-pairs) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0482-license-key-formatting) |
 | [0541-reverse-string-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0556-next-greater-element-iii) |
@@ -1407,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0416-partition-equal-subset-sum) |
 | [0458-poor-pigs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0458-poor-pigs) |
+| [0474-ones-and-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0647-palindromic-substrings) |
