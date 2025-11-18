@@ -1,16 +1,15 @@
 class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& v) {
-        int n = v.size();
-        vector<int> hash(n, 0);
-        for (int i = 0; i < n; i++) {
-            hash[v[i] - 1]++;
-        }
         vector<int> ans;
-        for (int i = 0; i < n; i++) {
-            if (hash[i] == 0) {
+        int n = v.size();
+        unordered_set<int> st(v.begin(), v.end());
+        int i = 0;
+        while (i < n) {
+            if (!st.count(i + 1)) {
                 ans.push_back(i + 1);
             }
+            i++;
         }
         return ans;
     }
