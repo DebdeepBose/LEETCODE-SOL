@@ -1,11 +1,13 @@
 class Solution {
 public:
     int findFinalValue(vector<int>& v, int x) {
-        sort(v.begin(),v.end());
+        unordered_set<int> st(v.begin(), v.end());
         int n = v.size();
-        for (int i = 0; i < n; i++) {
-            if (v[i] == x) {
+        while (true) {
+            if (st.count(x)) {
                 x *= 2;
+            } else {
+                break;
             }
         }
         return x;
