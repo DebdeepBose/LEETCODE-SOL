@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0419-battleships-in-a-board) |
+| [0435-non-overlapping-intervals](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0436-find-right-interval) |
 | [0447-number-of-boomerangs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -886,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0605-can-place-flowers) |
@@ -977,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0455-assign-cookies) |
@@ -1448,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0435-non-overlapping-intervals) |
 | [0458-poor-pigs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0458-poor-pigs) |
 | [0474-ones-and-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0494-target-sum) |
