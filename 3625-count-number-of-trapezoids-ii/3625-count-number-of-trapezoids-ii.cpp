@@ -1,15 +1,15 @@
 class Solution {
 public:
     using ll=long long;
-    using int2=pair<int,int>; // denote rational number
+    using int2=pair<int,int>; 
     using int4=pair<int2,int2>;
 
     static int countTrapezoids(vector<vector<int>>& points) {
         const int n=points.size(), n2=n*(n-1)/2;
 
-        // rational slope with intercept
+       
         int4* slope_inter=(int4*)alloca(n2*sizeof(int4));
-        // midpoints with rational slope
+        
         int4* midPt_slope=(int4*)alloca(n2*sizeof(int4));
 
         for (int i=0, k=0; i<n-1; i++) {
@@ -17,12 +17,12 @@ public:
             for (int j=i+1; j<n; j++, k++) {
                 const int x1=points[j][0], y1=points[j][1];
 
-                // line: ax+by+c=0
+         
                 int a=y1-y0;
                 int b=x0-x1;
                 int c=y0*x1-y1*x0;
 
-                // first nonzero coeff positive
+               
                 if (a==0 && b < 0) { b=-b; c=-c; }
                 else if (a<0) { a=-a; b=-b; c=-c; }
 
@@ -42,7 +42,7 @@ public:
 
         int cnt=0;
 
-        // slope/intercept counting
+      
         {
             vector<int> B;
             auto& [slope, inter]=slope_inter[0];
@@ -63,7 +63,7 @@ public:
                     B.push_back(sameB);
                     int sum=0;
                     for (int x : B) sum+=x*(sameM-x);
-                    cnt+=sum/2;// counting twice
+                    cnt+=sum/2;
 
                     B.clear();
                     slope=m;
@@ -71,7 +71,7 @@ public:
                     sameM=sameB=1;
                 }
             }
-            // flush the last slope
+          
             B.push_back(sameB);
             {
                 int sum=0;
@@ -80,7 +80,7 @@ public:
             }
         }
 
-        // midpoint / slope subtract 
+       
         {
             vector<int> L;
             auto& [midPt, slope]=midPt_slope[0];
@@ -99,7 +99,7 @@ public:
                     }
                 } 
                 else {
-                    // push final subgroup for previous midpoint
+                    
                     L.push_back(sameM);
                     int sum=0;
                     for (int x : L) sum+=x*(sameMid-x);
@@ -112,7 +112,7 @@ public:
                 }
             }
 
-            // flush the last midpoint block
+            
             L.push_back(sameM);
             {
                 int sum=0;
