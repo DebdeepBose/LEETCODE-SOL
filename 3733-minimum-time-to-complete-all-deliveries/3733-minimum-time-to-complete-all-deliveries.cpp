@@ -16,7 +16,8 @@ private:
 public:
     long long minimumTime(vector<int>& d, vector<int>& r) {
         long long low = d[0] + d[1];
-        long long high = 1LL * 1e18;
+        long long high =
+            1LL * ((long long)d[0] * r[0] + (long long)d[1] * r[1]);
         long long minDel = 0;
         while (low <= high) {
             long long mid = low + (high - low) / 2;
