@@ -1,24 +1,33 @@
 class Solution {
 public:
     int countPartitions(vector<int>& nums, int k) {
-        int n = nums.size();
-        int mod = 1e9 + 7;
-        multiset<int> win;
-        long long cnt = 0;
-        int* sum = (int*)alloca((n + 2) * sizeof(int));
-        memset(sum, 0, sizeof(sum));
-        sum[1] = 1;
-
-        for (int l = 0, r = 0; r < n; r++) {
-            const int x = nums[r];
-            win.insert(x);
-            while (*(prev(win.end())) - *win.begin() > k) {
-                auto it = win.lower_bound(nums[l++]);
-                win.erase(it);
+        const int mod = 1e9 + 7;
+        int n = (int)nums.size();
+        int P[n];
+        multiset<int> S;
+        for(int r = 0, l = 0; r < n; r ++){
+            S.insert(nums[r]);
+            while(*prev(S.end()) - *S.begin() > k){
+                S.erase(S.find(nums[l]));
+                l += 1;
             }
-            cnt = (mod + sum[r + 1] - sum[l]) % mod;
-            sum[r + 2] = (sum[r + 1] + cnt) % mod;
+            P[r] = l;
         }
-        return cnt;
+
+        int dp[n + 1];
+        int psum[n + 1];
+        
+        dp[0]   = 1;
+        psum[0] = 1;
+        for(int r = 0; r < n; r ++){
+            int l = P[r];
+            int rangedp = psum[r];
+            if(l > 0) rangedp -= psum[l - 1];
+            rangedp %= mod;
+            if(rangedp < 0) rangedp += mod;
+            dp[r + 1]   = rangedp;
+            psum[r + 1] = (psum[r] + dp[r + 1]) % mod;
+        }
+        return dp[n];
     }
 };
