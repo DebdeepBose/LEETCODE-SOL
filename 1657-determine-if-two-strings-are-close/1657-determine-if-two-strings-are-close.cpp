@@ -1,36 +1,27 @@
 class Solution {
 public:
     bool closeStrings(string w1, string w2) {
-        int m = w1.size();
-        int n = w2.size();
-        if (m != n) {
-            return false;
-        }
-        unordered_map<char, int> mp1, mp2;
-        vector<int> u;
-        vector<int> v;
-        string a, b;
-        int c = 1;
-        int d = 1;
-        for (int i = 0; i < m; i++) {
-            mp1[w1[i]]++;
-            mp2[w2[i]]++;
-        }
-        for (auto e : mp1) {
-            u.push_back(e.second);
-            a += (e.first);
-        }
-        for (auto e : mp2) {
-            v.push_back(e.second);
-            b += (e.first);
-        }
-        sort(u.begin(), u.end());
-        sort(v.begin(), v.end());
-        sort(a.begin(), a.end());
-        sort(b.begin(), b.end());
+        vector<int> mp1(26);
+        vector<int> mp2(26);
 
-        if (u != v || a != b) {
-            return false;
+        for (auto e : w1) {
+            mp1[e - 'a']++;
+        }
+        for (auto e : w2) {
+            mp2[e - 'a']++;
+        }
+        for (int i = 0; i < 26; i++) {
+            if (mp1[i] == 0 && mp2[i] != 0 || (mp1[i] != 0 && mp2[i] == 0)) {
+                return false;
+            }
+        }
+        sort(mp1.begin(), mp1.end());
+        sort(mp2.begin(), mp2.end());
+
+        for (int i = 0; i < 26; i++) {
+            if (mp1[i] != mp2[i]) {
+                return false;
+            }
         }
         return true;
     }
