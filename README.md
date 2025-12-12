@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2611-mice-and-cheese](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2611-mice-and-cheese) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2625-increment-submatrices-by-one) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -956,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2487-optimal-partition-of-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2611-mice-and-cheese](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2611-mice-and-cheese) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1058,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2611-mice-and-cheese](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2611-mice-and-cheese) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2664-maximize-greatness-of-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2664-maximize-greatness-of-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2681-put-marbles-in-bags) |
@@ -1743,6 +1746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2479-meeting-rooms-iii) |
 | [2549-next-greater-element-iv](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2549-next-greater-element-iv) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2611-mice-and-cheese](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2611-mice-and-cheese) |
 | [2681-put-marbles-in-bags](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
