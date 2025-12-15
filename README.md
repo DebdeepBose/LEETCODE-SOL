@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2058-concatenation-of-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2102-find-the-middle-index-in-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2102-find-the-middle-index-in-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2083-three-divisors) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -1523,6 +1525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1764-maximum-repeating-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2360-substring-with-largest-variance](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2360-substring-with-largest-variance) |
