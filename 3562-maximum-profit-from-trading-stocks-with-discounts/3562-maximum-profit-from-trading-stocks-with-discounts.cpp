@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxProfit(int n, vector<int>& present, vector<int>& future,
-        vector<vector<int>>& hierarchy, int budget) {
+                  vector<vector<int>>& hierarchy, int budget) {
         vector<vector<int>> g(n);
 
         for (auto& e : hierarchy) {
@@ -11,7 +11,7 @@ public:
         auto dfs = [&](auto&& self,
                        int u) -> tuple<vector<int>, vector<int>, int> {
             int cost = present[u];
-            int dCost = present[u] / 2;  
+            int dCost = present[u] / 2;
 
             auto dp0 = vector(budget + 1, 0);
             auto dp1 = vector(budget + 1, 0);
@@ -51,6 +51,6 @@ public:
             return {dp0, dp1, uSize};
         };
 
-        return std::get<0>(dfs(dfs, 0))[budget];
+        return get<0>(dfs(dfs, 0))[budget];
     }
 };
