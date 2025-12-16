@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0695-max-area-of-island) |
+| [0710-random-pick-with-blacklist](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0710-random-pick-with-blacklist) |
 | [0713-subarray-product-less-than-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0692-top-k-frequent-words) |
+| [0710-random-pick-with-blacklist](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0710-random-pick-with-blacklist) |
 | [0726-number-of-atoms](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0778-reorganize-string) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0679-24-game) |
+| [0710-random-pick-with-blacklist](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0710-random-pick-with-blacklist) |
 | [0738-monotone-increasing-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0738-monotone-increasing-digits) |
 | [0755-reach-a-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0755-reach-a-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0795-k-th-symbol-in-grammar) |
@@ -1022,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0692-top-k-frequent-words) |
+| [0710-random-pick-with-blacklist](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0710-random-pick-with-blacklist) |
 | [0726-number-of-atoms](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0726-number-of-atoms) |
 | [0778-reorganize-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1258,6 +1262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0710-random-pick-with-blacklist](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0710-random-pick-with-blacklist) |
 | [0713-subarray-product-less-than-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0755-reach-a-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0755-reach-a-number) |
@@ -2258,6 +2263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0398-random-pick-index) |
+| [0710-random-pick-with-blacklist](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0710-random-pick-with-blacklist) |
 ## Probability and Statistics
 |  |
 | ------- |
