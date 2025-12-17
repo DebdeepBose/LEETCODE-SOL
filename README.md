@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0907-koko-eating-bananas) |
+| [0927-three-equal-parts](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0927-three-equal-parts) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0940-fruit-into-baskets) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-mirror-reflection](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0888-mirror-reflection) |
 | [0897-prime-palindrome](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0897-prime-palindrome) |
 | [0900-reordered-power-of-2](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0900-reordered-power-of-2) |
+| [0927-three-equal-parts](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0927-three-equal-parts) |
 | [1013-fibonacci-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1086-divisor-game) |
