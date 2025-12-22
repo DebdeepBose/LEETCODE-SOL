@@ -652,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3001-apply-operations-to-maximize-score](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3001-apply-operations-to-maximize-score) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2887-sort-vowels-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3195-separate-black-and-white-balls) |
@@ -1230,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2300-construct-string-with-repeat-limit) |
 | [2448-count-number-of-bad-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2448-count-number-of-bad-pairs) |
 | [2605-count-anagrams](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2605-count-anagrams) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
