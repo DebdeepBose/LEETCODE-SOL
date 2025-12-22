@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long countSubstrings(string s, char c) {
-        int cn = 0;
+        long long cn = 0;
         for (auto e : s) {
             if (e == c) {
                 cn++;
