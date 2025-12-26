@@ -4,7 +4,6 @@ public:
         int n = s.size();
         vector<int> pre(n);
 
-        // Build prefix sum
         for (int i = 0; i < n; i++) {
             if (i == 0) {
                 if (s[i] == 'Y') {
