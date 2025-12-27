@@ -2,9 +2,10 @@ class Solution {
 public:
     int mostBooked(int n, vector<vector<int>>& meetings) {
         sort(meetings.begin(), meetings.end());
-
         priority_queue<int, vector<int>, greater<int>> freeRoom;
-        for (int i = 0; i < n; i++) freeRoom.push(i);
+        for (int i = 0; i < n; i++) {
+            freeRoom.push(i);
+        }
 
         priority_queue<pair<long long,int>,
             vector<pair<long long,int>>,
