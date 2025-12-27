@@ -2,31 +2,40 @@ class Solution {
 public:
     int mostBooked(int n, vector<vector<int>>& meetings) {
         sort(meetings.begin(), meetings.end());
-        vector<int> count(n, 0);
-        priority_queue<int, vector<int>, greater<>> free;
-        priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<>> busy;
 
-        for (int i = 0; i < n; ++i) free.push(i);
+        priority_queue<int, vector<int>, greater<int>> freeRoom;
+        for (int i = 0; i < n; i++) freeRoom.push(i);
 
-        for (auto& meet : meetings) {
-            long long start = meet[0], end = meet[1];
+        priority_queue<pair<long long,int>,
+            vector<pair<long long,int>>,
+            greater<pair<long long,int>>> used;
 
-            while (!busy.empty() && busy.top().first <= start) {
-                free.push(busy.top().second);
-                busy.pop();
+        vector<long long> cnt(n, 0);
+
+        for (auto &m : meetings) {
+            long long s = m[0], dur = m[1] - m[0];
+
+            while (!used.empty() && used.top().first <= s) {
+                freeRoom.push(used.top().second);
+                used.pop();
             }
 
-            if (!free.empty()) {
-                int room = free.top(); free.pop();
-                busy.emplace(end, room);
-                count[room]++;
+            int room;
+            long long endT;
+
+            if (!freeRoom.empty()) {
+                room = freeRoom.top(); freeRoom.pop();
+                endT = s + dur;
             } else {
-                auto [availTime, room] = busy.top(); busy.pop();
-                busy.emplace(availTime + (end - start), room);
-                count[room]++;
+                auto top = used.top(); used.pop();
+                room = top.second;
+                endT = top.first + dur;
             }
+
+            cnt[room]++;
+            used.push({endT, room});
         }
 
-        return max_element(count.begin(), count.end()) - count.begin();
+        return max_element(cnt.begin(), cnt.end()) - cnt.begin();
     }
 };
