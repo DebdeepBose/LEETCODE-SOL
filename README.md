@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0747-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0777-toeplitz-matrix) |
 | [0780-max-chunks-to-make-sorted](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0792-binary-search) |
@@ -1055,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0692-top-k-frequent-words) |
 | [0710-random-pick-with-blacklist](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0710-random-pick-with-blacklist) |
 | [0726-number-of-atoms](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0726-number-of-atoms) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0778-reorganize-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0780-max-chunks-to-make-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0802-k-th-smallest-prime-fraction) |
