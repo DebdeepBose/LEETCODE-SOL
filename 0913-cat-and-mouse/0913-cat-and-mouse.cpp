@@ -6,14 +6,13 @@ public:
         vector<vector<vector<int>>> indegree(n, vector<vector<int>>(n, vector<int>(2, 0)));
         queue<tuple<int, int, int, int>> q;
 
-        // Initialize states and indegrees
         for (int i = 0; i < n; ++i) {
             if (i != 0) {
-                state[0][i][0] = state[0][i][1] = 1; // Mouse wins
+                state[0][i][0] = state[0][i][1] = 1; 
                 q.emplace(0, i, 0, 1);
                 q.emplace(0, i, 1, 1);
 
-                state[i][i][0] = state[i][i][1] = 2; // Cat wins
+                state[i][i][0] = state[i][i][1] = 2;
                 q.emplace(i, i, 0, 2);
                 q.emplace(i, i, 1, 2);
             }
@@ -28,19 +27,19 @@ public:
             }
         }
 
-        // Process the queue
+
         while (!q.empty()) {
             auto [mouse, cat, turn, result] = q.front();
             q.pop();
             int prevTurn = 1 - turn;
 
-            if (prevTurn == 0) { // Mouse's turn
+            if (prevTurn == 0) { 
                 for (int prevMouse : graph[mouse]) {
                     if (state[prevMouse][cat][prevTurn] == 0) {
-                        if (result == 1) { // Mouse wins
+                        if (result == 1) {
                             state[prevMouse][cat][prevTurn] = 1;
                             q.emplace(prevMouse, cat, prevTurn, 1);
-                        } else { // Cat wins
+                        } else { 
                             if (--indegree[prevMouse][cat][prevTurn] == 0) {
                                 state[prevMouse][cat][prevTurn] = 2;
                                 q.emplace(prevMouse, cat, prevTurn, 2);
@@ -48,14 +47,14 @@ public:
                         }
                     }
                 }
-            } else { // Cat's turn
+            } else { 
                 for (int prevCat : graph[cat]) {
-                    if (prevCat == 0) continue; // Cat can't move to the hole
+                    if (prevCat == 0) continue; 
                     if (state[mouse][prevCat][prevTurn] == 0) {
-                        if (result == 2) { // Cat wins
+                        if (result == 2) { 
                             state[mouse][prevCat][prevTurn] = 2;
                             q.emplace(mouse, prevCat, prevTurn, 2);
-                        } else { // Mouse wins
+                        } else { 
                             if (--indegree[mouse][prevCat][prevTurn] == 0) {
                                 state[mouse][prevCat][prevTurn] = 1;
                                 q.emplace(mouse, prevCat, prevTurn, 1);
