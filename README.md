@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3321-type-of-triangle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -1820,6 +1821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2868-continuous-subarrays) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1886,6 +1888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3227-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -2107,6 +2110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -2298,6 +2302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1916-find-center-of-star-graph](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2121-find-if-path-exists-in-graph) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -2355,4 +2360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0820-find-eventual-safe-states) |
 | [0913-cat-and-mouse](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0913-cat-and-mouse) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
