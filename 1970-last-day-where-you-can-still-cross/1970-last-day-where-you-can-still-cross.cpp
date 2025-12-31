@@ -1,56 +1,51 @@
-class DSU {
-    vector<int> root, size;
-
-public:
-    DSU(int n) : root(n), size(n, 1) { iota(root.begin(), root.end(), 0); }
-
-    int find(int x) {
-        if (root[x] != x)
-            root[x] = find(root[x]);
-        return root[x];
-    }
-
-    void unite(int x, int y) {
-        int rx = find(x), ry = find(y);
-        if (rx == ry)
-            return;
-        if (size[rx] > size[ry])
-            swap(rx, ry);
-        root[rx] = ry;
-        size[ry] += size[rx];
-    }
-};
-
 class Solution {
 public:
     int latestDayToCross(int row, int col, vector<vector<int>>& cells) {
-        DSU dsu(row * col + 2);
-        vector<vector<int>> grid(row, vector<int>(col, 0));
-        int dirs[8][2] = {{0, 1}, {0, -1}, {1, 0},  {-1, 0},
-                          {1, 1}, {1, -1}, {-1, 1}, {-1, -1}};
+        int n = row * col;
+        int top = n, bottom = n + 1;
 
-        for (int i = 0; i < row * col; i++) {
-            int r = cells[i][0] - 1, c = cells[i][1] - 1;
-            grid[r][c] = 1;
-            int id1 = r * col + c + 1;
+        vector<int> parent(n + 2), rank(n + 2, 0);
+        vector<vector<bool>> grid(row, vector<bool>(col, false));
 
-            for (auto& d : dirs) {
-                int nr = r + d[0], nc = c + d[1];
-                if (nr >= 0 && nr < row && nc >= 0 && nc < col &&
-                    grid[nr][nc] == 1) {
-                    int id2 = nr * col + nc + 1;
-                    dsu.unite(id1, id2);
+        for (int i = 0; i < n + 2; i++) parent[i] = i;
+
+        function<int(int)> find = [&](int x) {
+            if (parent[x] != x)
+                parent[x] = find(parent[x]);
+            return parent[x];
+        };
+
+        auto unite = [&](int a, int b) {
+            a = find(a);
+            b = find(b);
+            if (a == b) return;
+            if (rank[a] < rank[b]) swap(a, b);
+            parent[b] = a;
+            if (rank[a] == rank[b]) rank[a]++;
+        };
+
+        int dr[4] = {1, -1, 0, 0};
+        int dc[4] = {0, 0, 1, -1};
+
+        for (int d = n - 1; d >= 0; d--) {
+            int r = cells[d][0] - 1;
+            int c = cells[d][1] - 1;
+            grid[r][c] = true;
+            int id = r * col + c;
+
+            if (r == 0) unite(id, top);
+            if (r == row - 1) unite(id, bottom);
+
+            for (int k = 0; k < 4; k++) {
+                int nr = r + dr[k];
+                int nc = c + dc[k];
+                if (nr >= 0 && nr < row && nc >= 0 && nc < col && grid[nr][nc]) {
+                    unite(id, nr * col + nc);
                 }
             }
 
-            if (c == 0)
-                dsu.unite(0, id1);
-            if (c == col - 1)
-                dsu.unite(row * col + 1, id1);
-
-            if (dsu.find(0) == dsu.find(row * col + 1))
-                return i;
+            if (find(top) == find(bottom)) return d;
         }
-        return -1;
+        return 0;
     }
 };
