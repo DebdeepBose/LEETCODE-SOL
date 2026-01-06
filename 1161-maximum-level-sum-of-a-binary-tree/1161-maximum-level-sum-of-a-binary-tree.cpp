@@ -14,7 +14,7 @@ class Solution {
 public:
     int maxLevelSum(TreeNode* root) {
         queue<TreeNode*> q;
-        int depth = 0;
+        int depth = 1;
         pair<int, int> maxSum = {INT_MIN, depth};
         q.push(root);
         while (!q.empty()) {
@@ -38,6 +38,6 @@ public:
             }
             depth++;
         }
-        return maxSum.second + 1;
+        return maxSum.second;
     }
 };
