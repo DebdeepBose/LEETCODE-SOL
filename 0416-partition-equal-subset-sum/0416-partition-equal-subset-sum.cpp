@@ -5,7 +5,10 @@ public:
         int sum = accumulate(v.begin(), v.end(), 0);
 
         // If total sum is odd, can't divide into equal subsets
-        if (sum % 2 != 0) return false;
+        if (sum % 2 != 0) 
+        {
+            return false;
+        }
 
         int target = sum / 2;
 
