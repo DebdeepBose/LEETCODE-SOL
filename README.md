@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1449-print-words-vertically](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1449-print-words-vertically) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1587,6 +1588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1418-fair-distribution-of-cookies](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1418-fair-distribution-of-cookies) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
