@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-buddy-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0889-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0900-reordered-power-of-2) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0929-groups-of-special-equivalent-strings) |
@@ -2003,6 +2004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -2061,6 +2063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -2116,6 +2119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0945-snakes-and-ladders) |
 | [1005-univalued-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -2171,6 +2175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
