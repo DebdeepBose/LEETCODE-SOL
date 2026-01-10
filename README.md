@@ -832,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0692-top-k-frequent-words) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0726-number-of-atoms) |
 | [0730-count-different-palindromic-subsequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0730-count-different-palindromic-subsequences) |
 | [0768-partition-labels](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0768-partition-labels) |
@@ -1569,6 +1570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0678-valid-parenthesis-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0730-count-different-palindromic-subsequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0730-count-different-palindromic-subsequences) |
 | [0747-min-cost-climbing-stairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0747-min-cost-climbing-stairs) |
