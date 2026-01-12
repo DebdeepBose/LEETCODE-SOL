@@ -1,7 +1,7 @@
 class Solution {
 public:
-    int maxNorm(vector<int>& P, vector<int>& Q) {
-        return max(abs(P[0] - Q[0]), abs(P[1] - Q[1]));
+    int maxNorm(vector<int>& a, vector<int>& b) {
+        return max(abs(a[0] - b[0]), abs(a[1] - b[1]));
     }
     int minTimeToVisitAllPoints(vector<vector<int>>& v) {
         int ans = 0;
