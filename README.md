@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1138-grumpy-bookstore-owner) |
 | [1185-find-in-mountain-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1185-find-in-mountain-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1266-minimum-time-visiting-all-points) |
 | [1306-minimum-absolute-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1306-minimum-absolute-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-moving-stones-until-consecutive](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1103-moving-stones-until-consecutive) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1260-day-of-the-year) |
+| [1266-minimum-time-visiting-all-points](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1266-minimum-time-visiting-all-points) |
 | [1362-airplane-seat-assignment-probability](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1362-airplane-seat-assignment-probability) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1156,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0830-largest-triangle-area) |
 | [0888-mirror-reflection](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0888-mirror-reflection) |
 | [1014-k-closest-points-to-origin](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1014-k-closest-points-to-origin) |
+| [1266-minimum-time-visiting-all-points](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1266-minimum-time-visiting-all-points) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
