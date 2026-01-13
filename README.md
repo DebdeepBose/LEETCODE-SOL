@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0458-poor-pigs) |
@@ -1702,6 +1703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -1957,6 +1959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
