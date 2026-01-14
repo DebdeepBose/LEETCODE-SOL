@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0853-most-profit-assigning-work) |
 | [0861-flipping-an-image](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0861-flipping-an-image) |
 | [0878-shifting-letters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0878-shifting-letters) |
+| [0881-boats-to-save-people](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0898-transpose-matrix) |
@@ -981,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0853-most-profit-assigning-work) |
+| [0881-boats-to-save-people](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0881-boats-to-save-people) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0979-di-string-match) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0780-max-chunks-to-make-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-most-profit-assigning-work](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0853-most-profit-assigning-work) |
+| [0881-boats-to-save-people](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0881-boats-to-save-people) |
 | [0900-reordered-power-of-2](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0900-reordered-power-of-2) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0941-sort-array-by-parity](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0941-sort-array-by-parity) |
@@ -1217,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0853-most-profit-assigning-work) |
 | [0861-flipping-an-image](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0861-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0868-push-dominoes) |
+| [0881-boats-to-save-people](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0953-reverse-only-letters) |
