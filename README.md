@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0304-range-sum-query-2d-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0324-wiggle-sort-ii) |
@@ -1492,6 +1493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0560-subarray-sum-equals-k) |
@@ -1806,6 +1808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0304-range-sum-query-2d-immutable) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2169-simple-bank-system) |
@@ -1893,6 +1896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0419-battleships-in-a-board) |
