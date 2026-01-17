@@ -1,25 +1,22 @@
 class Solution {
 public:
-    long long largestSquareArea(vector<vector<int>>& bottomLeft,
-                                vector<vector<int>>& topRight) {
-        int n = bottomLeft.size();
-        long long maxArea = 0;
+    using ll = long long;
+    ll largestSquareArea(vector<vector<int>>& bl, vector<vector<int>>& tr) {
+        int s = 0;
+        int n = bl.size();
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
-                long long left = max(bottomLeft[i][0], bottomLeft[j][0]);
-                long long right = min(topRight[i][0], topRight[j][0]);
-                long long bottom = max(bottomLeft[i][1], bottomLeft[j][1]);
-                long long top = min(topRight[i][1], topRight[j][1]);
+                int minX = max(bl[i][0], bl[j][0]);
+                int maxX = min(tr[i][0], tr[j][0]);
+                int minY = max(bl[i][1], bl[j][1]);
+                int maxY = min(tr[i][1], tr[j][1]);
 
-                long long width = right - left;
-                long long height = top - bottom;
-
-                if (width > 0 && height > 0) {
-                    long long side = min(width, height);
-                    maxArea = max(maxArea, side * side);
+                if (minX < maxX && minY < maxY) {
+                    int len = min(maxX - minX, maxY - minY);
+                    s = max(s, len);
                 }
             }
         }
-        return maxArea;
+        return (ll)s * s;
     }
 };
