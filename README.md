@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2892-check-if-array-is-good) |
 | [2902-max-pair-sum-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2902-max-pair-sum-in-an-array) |
+| [2931-maximum-spending-after-buying-items](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2931-maximum-spending-after-buying-items) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-apply-operations-to-maximize-score](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1044,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2850-construct-the-longest-new-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2850-construct-the-longest-new-string) |
+| [2931-maximum-spending-after-buying-items](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2931-maximum-spending-after-buying-items) |
 | [3001-apply-operations-to-maximize-score](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1153,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2887-sort-vowels-in-a-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2892-check-if-array-is-good) |
+| [2931-maximum-spending-after-buying-items](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2931-maximum-spending-after-buying-items) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3074-apple-redistribution-into-boxes) |
@@ -1881,6 +1884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2868-continuous-subarrays) |
+| [2931-maximum-spending-after-buying-items](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2931-maximum-spending-after-buying-items) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1955,6 +1959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2931-maximum-spending-after-buying-items](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2931-maximum-spending-after-buying-items) |
 | [3227-find-missing-and-repeated-values](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3227-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
