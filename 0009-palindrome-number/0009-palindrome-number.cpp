@@ -1,16 +1,21 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        if (x >= 0) {
-            string s = to_string(x);
-            string r = s;
-            ::reverse(s.begin(), s.end());
-            if (r == s || r.size() == 0) {
-                return true;
-            }
-        } else if (x < 0) {
+        if (x == INT_MIN) {
             return false;
         }
-        return {};
+        long long n = 0LL;
+        int c = x;
+        bool pos = true;
+        if (x < 0) {
+            pos = false;
+            x *= -1;
+        }
+        while (x > 0) {
+            n *= 10;
+            n += (x % 10);
+            x /= 10;
+        }
+        return n == c;
     }
 };
