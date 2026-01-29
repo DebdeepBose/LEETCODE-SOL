@@ -5,6 +5,8 @@ public:
         int n = s.size();
         long long ans = 0;
 
+        //find total lenght of resultant string
+
         for (char c : s) {
             if (isdigit(c)) {
                 ans *= (c - '0');
@@ -13,6 +15,7 @@ public:
             }
         }
 
+        
         for (int i = n - 1; i >= 0; i--) {
             char c = s[i];
 
