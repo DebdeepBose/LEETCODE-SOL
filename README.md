@@ -2305,6 +2305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1415-students-and-examinations) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1757-recyclable-and-low-fat-products](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1757-recyclable-and-low-fat-products) |
 | [1801-average-time-of-process-per-machine](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1908-recyclable-and-low-fat-products) |
