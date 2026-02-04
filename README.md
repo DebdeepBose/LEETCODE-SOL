@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3640-trionic-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -1693,6 +1694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3637-count-number-of-balanced-permutations) |
+| [3640-trionic-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
