@@ -35,7 +35,7 @@ public:
         // Now we check left and right depth
         int leftDepth = checkIfBalanced(node->left);
         /*Understadn this leftDepth also stores a value so if that value is -1
-        at any point we return -1, same for right depth, usually happens fro
+        at any point we return -1, same for right depth, usually happens for
         skewed trees*/
         if (leftDepth == -1) {
             return -1;
