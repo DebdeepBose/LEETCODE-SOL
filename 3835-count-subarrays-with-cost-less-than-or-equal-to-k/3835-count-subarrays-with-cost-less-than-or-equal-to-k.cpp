@@ -1,36 +1,29 @@
 class Solution {
 public:
-    long long countSubarrays(vector<int>& v, long long k) {
-        int n = v.size();
-        deque<int> minq;
-        deque<int> maxq;
-        long long c = 0;
-        int i = 0;
-        int j = 0;
-        while (j < n) {
-            while (!maxq.empty() && v[maxq.back()] <= v[j]) {
-                maxq.pop_back();
+    long long countSubarrays(vector<int>& nums, long long k) {
+        int n = nums.size();
+        long long ans = 0;
+        int l = 0;
+        int maxi = INT_MIN;
+        int mini = INT_MAX;
+        set<pair<int, int>> st;
+        for (int r = 0; r < n; r++) {
+            st.insert({nums[r], r});
+            maxi = (st.rbegin()->first);
+            mini = (st.begin()->first);
+            while (!st.empty() && (1LL * (maxi - mini) * (r - l + 1) > k)) {
+                int temp = nums[l];
+                st.erase({nums[l], l});
+                if (st.size() > 0) {
+                    mini = (st.begin()->first);
+                    maxi = (st.rbegin()->first);
+                } else
+                    break;
+                l++;
             }
-            while (!minq.empty() && v[minq.back()] >= v[j]) {
-                minq.pop_back();
-            }
-            maxq.push_back(j);
-            minq.push_back(j);
-
-            while (i <= j &&
-                   1LL * (v[maxq.front()] - v[minq.front()]) * (j - i + 1) >
-                       k) {
-                if (maxq.front() == i) {
-                    maxq.pop_front();
-                }
-                if (minq.front() == i) {
-                    minq.pop_front();
-                }
-                i++;
-            }
-            c += j - i + 1;
-            j++;
+            if (1LL * (maxi - mini) * (r - l + 1) <= k)
+                ans += (r - l + 1);
         }
-        return c;
+        return ans;
     }
 };
