@@ -1,29 +1,24 @@
 class Solution {
 public:
     vector<long long> mergeAdjacent(vector<int>& v) {
-        int n = v.size();
         stack<long long> st;
-        for (int i = 0; i < n; i++) {
-            bool eq = false;
-            long long toIns = v[i];
-            while (!st.empty() && st.top() == toIns) {
-                toIns = 2 * st.top();
+        for (auto e : v) {
+            long long cur = e;
+
+            while (!st.empty() && st.top() == cur) {
+                cur *= 2;
                 st.pop();
-                eq = true;
             }
-            if (eq) {
-                st.push(toIns);
-            }
-            if (st.empty() || eq == false) {
-                st.push(v[i]);
-            }
+
+            st.push(cur);
         }
-        vector<long long> ans;
-        while (!st.empty()) {
-            ans.push_back(st.top());
+
+        vector<long long> ans(st.size());
+        for (int i = ans.size() - 1; i >= 0; i--) {
+            ans[i] = st.top();
             st.pop();
         }
-        reverse(ans.begin(), ans.end());
+
         return ans;
     }
 };
