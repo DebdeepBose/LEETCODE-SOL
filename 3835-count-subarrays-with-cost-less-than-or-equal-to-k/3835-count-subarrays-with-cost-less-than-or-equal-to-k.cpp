@@ -1,28 +1,22 @@
 class Solution {
 public:
-    long long countSubarrays(vector<int>& nums, long long k) {
-        int n = nums.size();
+    long long countSubarrays(vector<int>& v, long long k) {
+        multiset<int> st;
+        int n = v.size();
         long long ans = 0;
-        int l = 0;
-        int maxi = INT_MIN;
-        int mini = INT_MAX;
-        set<pair<int, int>> st;
-        for (int r = 0; r < n; r++) {
-            st.insert({nums[r], r});
-            maxi = (st.rbegin()->first);
-            mini = (st.begin()->first);
-            while (!st.empty() && (1LL * (maxi - mini) * (r - l + 1) > k)) {
-                int temp = nums[l];
-                st.erase({nums[l], l});
-                if (st.size() > 0) {
-                    mini = (st.begin()->first);
-                    maxi = (st.rbegin()->first);
-                } else
-                    break;
-                l++;
+        int i = 0;
+        int j = 0;
+        while (j < n) {
+            st.insert(v[j]);
+            while (1LL*(*st.rbegin() - *st.begin()) * (j - i + 1) > k) {
+                auto it = st.find(v[i]);
+                if (it != st.end()) {
+                    st.erase(it);
+                }
+                i++;
             }
-            if (1LL * (maxi - mini) * (r - l + 1) <= k)
-                ans += (r - l + 1);
+            ans += (j - i + 1);
+            j++;
         }
         return ans;
     }
