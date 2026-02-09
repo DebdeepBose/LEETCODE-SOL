@@ -1038,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1304-longest-happy-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1382-balance-a-binary-search-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1382-balance-a-binary-search-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1464-reduce-array-size-to-the-half) |
@@ -1621,6 +1622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1014-k-closest-points-to-origin) |
+| [1382-balance-a-binary-search-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1382-balance-a-binary-search-tree) |
 | [3822-fill-a-special-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3822-fill-a-special-grid) |
 ## Dynamic Programming
 |  |
@@ -2127,6 +2129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1254-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1382-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -2189,6 +2192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1380-number-of-closed-islands) |
+| [1382-balance-a-binary-search-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1382-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -2298,6 +2302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1254-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1382-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -2506,6 +2511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1382-balance-a-binary-search-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1382-balance-a-binary-search-tree) |
 ## Topological Sort
 |  |
 | ------- |
