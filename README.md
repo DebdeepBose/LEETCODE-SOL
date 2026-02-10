@@ -707,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2448-count-number-of-bad-pairs) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2605-count-anagrams](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2605-count-anagrams) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2647-split-the-array-to-make-coprime-products) |
