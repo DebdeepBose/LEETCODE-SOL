@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3373-maximum-prime-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3373-maximum-prime-difference) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3427-special-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3427-special-array-ii) |
 | [3433-count-mentions-per-user](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -1093,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -2029,6 +2031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2931-maximum-spending-after-buying-items](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2931-maximum-spending-after-buying-items) |
 | [3227-find-missing-and-repeated-values](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3227-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
