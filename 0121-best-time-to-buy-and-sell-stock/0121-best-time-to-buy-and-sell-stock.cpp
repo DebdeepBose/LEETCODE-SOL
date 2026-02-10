@@ -2,12 +2,12 @@ class Solution {
 public:
     int maxProfit(vector<int>& v) {
         int n = v.size();
-        int maxP = 0;
         int cur = v[0];
-        for (int i = 1; i < n; i++) {
-            maxP = max(maxP, v[i] - cur);
+        int maxp = 0;
+        for (int i = 0; i < n; i++) {
+            maxp = max(maxp, v[i] - cur);
             cur = min(cur, v[i]);
         }
-        return maxP;
+        return maxp;
     }
 };
