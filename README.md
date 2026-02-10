@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3719-longest-balanced-subarray-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1601,6 +1603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Trie
@@ -1631,6 +1634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1014-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3719-longest-balanced-subarray-i) |
 | [3822-fill-a-special-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3822-fill-a-special-grid) |
 ## Dynamic Programming
 |  |
@@ -2441,6 +2445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0493-reverse-pairs) |
 | [3454-separate-squares-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3719-longest-balanced-subarray-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3791-fruits-into-baskets-iii) |
