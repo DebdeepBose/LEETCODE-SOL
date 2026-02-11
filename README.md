@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2448-count-number-of-bad-pairs) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2465-shifting-letters-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2479-meeting-rooms-iii) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2448-count-number-of-bad-pairs) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2605-count-anagrams](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2605-count-anagrams) |
