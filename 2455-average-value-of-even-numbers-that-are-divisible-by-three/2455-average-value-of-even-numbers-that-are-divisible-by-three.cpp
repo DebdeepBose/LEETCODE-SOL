@@ -3,7 +3,7 @@ public:
     int averageValue(vector<int>& v) {
         int s = 0, c = 0;
         for (auto& e : v) {
-            if (e % 2 == 0 && e % 3 == 0) {
+            if (e % 6 == 0) {
                 s += e;
                 c++;
             }
