@@ -8,10 +8,12 @@ public:
         string pref = "";
         int i = 0;
         int j = 0;
-        if (v[0].empty() || v.back().empty()) {
+        int m = v[0].size();
+        int n = v.back().size();
+        if (!n || !m) {
             return "";
         }
-        while (i < v[0].size() && j < v.back().size()) {
+        while (i < m && j < m) {
             if (v[0][i] == v.back()[j]) {
                 pref += v[0][i];
                 i++;
