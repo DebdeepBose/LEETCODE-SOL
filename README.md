@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2506-count-pairs-of-similar-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2506-count-pairs-of-similar-strings) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2479-meeting-rooms-iii) |
 | [2487-optimal-partition-of-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2487-optimal-partition-of-string) |
+| [2506-count-pairs-of-similar-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2506-count-pairs-of-similar-strings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -969,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2487-optimal-partition-of-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2487-optimal-partition-of-string) |
+| [2506-count-pairs-of-similar-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2506-count-pairs-of-similar-strings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -1366,6 +1369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2300-construct-string-with-repeat-limit) |
 | [2448-count-number-of-bad-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2448-count-number-of-bad-pairs) |
+| [2506-count-pairs-of-similar-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2506-count-pairs-of-similar-strings) |
 | [2605-count-anagrams](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2605-count-anagrams) |
 | [2748-number-of-beautiful-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2748-number-of-beautiful-pairs) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -1502,6 +1506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2506-count-pairs-of-similar-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2506-count-pairs-of-similar-strings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
