@@ -8,7 +8,7 @@ public:
             if (c == 0) {
                 can = v[i];
             }
-            if (c > 0 && v[i] == can) {
+            if (v[i] == can) {
                 c++;
             } else {
                 c--;
