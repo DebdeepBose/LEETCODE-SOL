@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0290-word-pattern) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0231-power-of-two) |
@@ -1304,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0287-find-the-duplicate-number) |
