@@ -4,12 +4,14 @@ public:
         if (n <= 2) {
             return n;
         }
-        vector<int> dp(n + 1);
-        dp[1] = 1;
-        dp[2] = 2;
+        int prev1 = 1;
+        int prev2 = 2;
+        int steps = 0;
         for (int i = 3; i <= n; i++) {
-            dp[i] = dp[i - 1] + dp[i - 2];
+            steps = prev1 + prev2;
+            prev1 = prev2;
+            prev2 = steps;
         }
-        return dp[n];
+        return steps;
     }
 };
