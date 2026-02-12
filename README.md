@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0695-max-area-of-island) |
+| [0697-degree-of-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0697-degree-of-an-array) |
 | [0710-random-pick-with-blacklist](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0710-random-pick-with-blacklist) |
 | [0713-subarray-product-less-than-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0697-degree-of-an-array) |
 | [0710-random-pick-with-blacklist](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0710-random-pick-with-blacklist) |
 | [0726-number-of-atoms](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0768-partition-labels) |
