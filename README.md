@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2432-the-employee-that-worked-on-the-longest-task](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2448-count-number-of-bad-pairs) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2448-minimum-cost-to-make-array-equal) |
