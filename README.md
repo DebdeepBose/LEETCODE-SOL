@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0828-chalkboard-xor-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0828-chalkboard-xor-game) |
 | [0830-largest-triangle-area](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0830-largest-triangle-area) |
+| [0832-flipping-an-image](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0840-magic-squares-in-grid) |
 | [0853-most-profit-assigning-work](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0853-most-profit-assigning-work) |
 | [0860-lemonade-change](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0860-lemonade-change) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0898-transpose-matrix) |
@@ -1313,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0832-flipping-an-image](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0844-backspace-string-compare) |
 | [0853-most-profit-assigning-work](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0853-most-profit-assigning-work) |
 | [0861-flipping-an-image](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0861-flipping-an-image) |
@@ -1505,6 +1508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0795-k-th-symbol-in-grammar) |
 | [0828-chalkboard-xor-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0828-chalkboard-xor-game) |
+| [0832-flipping-an-image](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -2036,6 +2040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0777-toeplitz-matrix) |
 | [0794-valid-tic-tac-toe-state](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0794-valid-tic-tac-toe-state) |
+| [0832-flipping-an-image](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0898-transpose-matrix) |
