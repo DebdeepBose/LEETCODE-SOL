@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2611-mice-and-cheese](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2611-mice-and-cheese) |
+| [2614-prime-in-diagonal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2614-prime-in-diagonal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2625-increment-submatrices-by-one) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2605-count-anagrams](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2605-count-anagrams) |
+| [2614-prime-in-diagonal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2614-prime-in-diagonal) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2649-count-total-number-of-colored-cells](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2649-count-total-number-of-colored-cells) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -840,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2083-three-divisors) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2614-prime-in-diagonal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2614-prime-in-diagonal) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2716-prime-subtraction-operation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2716-prime-subtraction-operation) |
 | [2748-number-of-beautiful-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2748-number-of-beautiful-pairs) |
@@ -2072,6 +2075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2614-prime-in-diagonal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2614-prime-in-diagonal) |
 | [2625-increment-submatrices-by-one](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2737-row-with-maximum-ones) |
