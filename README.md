@@ -1732,6 +1732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0730-count-different-palindromic-subsequences](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0730-count-different-palindromic-subsequences) |
 | [0747-min-cost-climbing-stairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0747-min-cost-climbing-stairs) |
+| [0799-champagne-tower](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0799-champagne-tower) |
 | [0826-soup-servings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0868-push-dominoes) |
