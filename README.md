@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0419-battleships-in-a-board) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0436-find-right-interval) |
 | [0447-number-of-boomerangs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0447-number-of-boomerangs) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0387-first-unique-character-in-a-string) |
 | [0398-random-pick-index](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0409-longest-palindrome) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0447-number-of-boomerangs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0447-number-of-boomerangs) |
@@ -1532,6 +1534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0397-integer-replacement) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0795-k-th-symbol-in-grammar) |
 | [0828-chalkboard-xor-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0828-chalkboard-xor-game) |
@@ -1676,6 +1679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0692-top-k-frequent-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1350-remove-sub-folders-from-the-filesystem) |
