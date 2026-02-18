@@ -12,7 +12,7 @@ private:
         reverse(ans.begin(), ans.end());
         return ans;
     }
-    bool checkAlt(string s, int i, int prev) {
+    bool checkAlt(string s, int i, char prev) {
         if (i == s.size()) {
             return true;
         }
