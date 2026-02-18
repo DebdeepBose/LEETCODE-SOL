@@ -1536,6 +1536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0693-binary-number-with-alternating-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0795-k-th-symbol-in-grammar) |
 | [0828-chalkboard-xor-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0828-chalkboard-xor-game) |
 | [0832-flipping-an-image](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0832-flipping-an-image) |
