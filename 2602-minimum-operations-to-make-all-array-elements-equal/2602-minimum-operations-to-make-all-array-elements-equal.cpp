@@ -12,11 +12,8 @@ public:
         vector<long long> ans(m);
         for (int i = 0; i < m; i++) {
             int idx = upper_bound(v.begin(), v.end(), q[i]) - v.begin();
-            if (idx == n) {
+            if (idx == n || idx == 0) {
                 long long mul = 1LL * n * q[i];
-                ans[i] = abs(mul - pref[n - 1]);
-            } else if (idx == 0) {
-                long long mul = 1LL * n * q[i]; 
                 ans[i] = abs(mul - pref[n - 1]);
             } else {
                 long long left = abs((long long)q[i] * idx - pref[idx - 1]);
