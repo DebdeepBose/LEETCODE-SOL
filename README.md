@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -1137,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -1257,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
