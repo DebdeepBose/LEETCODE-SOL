@@ -20,6 +20,6 @@ public:
                 }
             }
         }
-        return curMaxIdx;
+        return curMaxIdx; // This is in case k > n
     }
 };
