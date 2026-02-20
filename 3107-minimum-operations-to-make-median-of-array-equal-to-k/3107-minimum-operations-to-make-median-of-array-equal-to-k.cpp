@@ -18,8 +18,8 @@ public:
             }
         } else {
             int firstIdxOfNumLargerThanK =
-                lower_bound(v.begin() + medIdx, v.end(), k) - v.begin();
-            for (int i = medIdx; i < firstIdxOfNumLargerThanK; i++) {
+                upper_bound(v.begin() + medIdx, v.end(), k) - v.begin() - 1;
+            for (int i = medIdx; i <= firstIdxOfNumLargerThanK; i++) {
                 ops += abs(k - v[i]);
             }
         }
