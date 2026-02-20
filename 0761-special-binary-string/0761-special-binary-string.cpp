@@ -17,7 +17,7 @@ public:
         }
         
         // Sort chunks in descending order for largest arrangement
-        sort(res.begin(), res.end(), greater<string>());
+        sort(res.rbegin(), res.rend());
         
         string result;
         for (const string& str : res) {
