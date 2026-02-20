@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2886-faulty-keyboard) |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3433-count-mentions-per-user](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
