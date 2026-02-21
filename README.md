@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
