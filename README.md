@@ -713,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1448-maximum-69-number) |
+| [1492-the-kth-factor-of-n](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1585-the-kth-factor-of-n](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1585-the-kth-factor-of-n) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -852,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-mirror-reflection](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0888-mirror-reflection) |
 | [0897-prime-palindrome](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0897-prime-palindrome) |
 | [1372-check-if-it-is-a-good-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1372-check-if-it-is-a-good-array) |
+| [1492-the-kth-factor-of-n](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1492-the-kth-factor-of-n) |
 | [1585-the-kth-factor-of-n](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2083-three-divisors) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
