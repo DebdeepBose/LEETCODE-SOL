@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2508-maximum-sum-of-an-hourglass](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2549-next-greater-element-iv](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2549-next-greater-element-iv) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2562-find-the-array-concatenation-value](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2562-find-the-array-concatenation-value) |
@@ -1246,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2549-next-greater-element-iv](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2549-next-greater-element-iv) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2586-longest-square-streak-in-an-array) |
@@ -2120,6 +2122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-prime-in-diagonal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2614-prime-in-diagonal) |
 | [2625-increment-submatrices-by-one](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2625-increment-submatrices-by-one) |
