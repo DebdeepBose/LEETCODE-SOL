@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -1679,6 +1680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2625-increment-submatrices-by-one) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-special-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3427-special-array-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
