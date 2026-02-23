@@ -4,10 +4,7 @@ public:
         unordered_set<string> st;
         int n = s.size();
         int i = 0, j = 0;
-        while (j < n) {
-            while (j - i + 1 > k) {
-                i++;
-            }
+        while (j < n) {   
             if (j - i + 1 == k) {
                 st.insert(s.substr(i, k));
                 i++;
