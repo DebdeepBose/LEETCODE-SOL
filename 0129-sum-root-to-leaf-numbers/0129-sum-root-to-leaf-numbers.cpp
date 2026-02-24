@@ -6,31 +6,38 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
-public:
-    int sumNumbers(TreeNode* root) {
-        int sum = 0;
-        string s = "";
-        help(root, s, sum);
-        return sum;
+private:
+    int toNum(string s){
+        int ans = stoi(s);
+        return ans;
     }
-    void help(TreeNode* node, string s, int& sum) {
+
+    void calcSum(TreeNode* node, string& s, int& sum) {
         if (!node) {
             return;
         }
+
+        s.push_back(node->val + '0');
+
         if (!node->left && !node->right) {
-            int y = node->val;
-            s += to_string(y);
-            sum += stoi(s);
-            return;
+            sum += toNum(s);
+        } else {
+            calcSum(node->left, s, sum);
+            calcSum(node->right, s, sum);
         }
-        int x = node->val;
-        s += to_string(x);
-        help(node->left, s, sum);
-        help(node->right, s, sum);
+
+        s.pop_back();
+    }
+
+public:
+    int sumNumbers(TreeNode* root) {
+        string s;
+        int sum = 0;
+        calcSum(root, s, sum);
+        return sum;
     }
 };
