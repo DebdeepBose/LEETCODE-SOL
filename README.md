@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1028,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3195-separate-black-and-white-balls) |
 | [3210-find-the-encrypted-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3210-find-the-encrypted-string) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1427,6 +1429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-count-anagrams](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2605-count-anagrams) |
 | [2748-number-of-beautiful-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2748-number-of-beautiful-pairs) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3324-split-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3324-split-the-array) |
