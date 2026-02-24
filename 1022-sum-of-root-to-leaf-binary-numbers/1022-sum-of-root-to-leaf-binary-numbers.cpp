@@ -21,20 +21,21 @@ private:
         }
         return ans;
     }
-    void calcSum(TreeNode* node, string s, int& sum) {
+    void calcSum(TreeNode* node, string& s, int& sum) {
         if (!node) {
             return;
         }
-        if (node->left == nullptr && node->right == nullptr) {
-            s += to_string(node->val);
-            int toAdd = toDeci(s);
-            sum += toAdd;
-            return;
+
+        s.push_back(node->val + '0');
+
+        if (!node->left && !node->right) {
+            sum += toDeci(s);
+        } else {
+            calcSum(node->left, s, sum);
+            calcSum(node->right, s, sum);
         }
 
-        s += to_string(node->val);
-        calcSum(node->left, s, sum);
-        calcSum(node->right, s, sum);
+        s.pop_back();
     }
 
 public:
