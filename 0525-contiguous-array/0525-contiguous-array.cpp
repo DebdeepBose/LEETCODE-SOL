@@ -2,25 +2,24 @@ class Solution {
 public:
     int findMaxLength(vector<int>& v) {
         int n = v.size();
+        int sum = 0;
+        int maxLen = 0;
         unordered_map<int, int> mp;
-        int presum = 0;
-        int maxlen = 0;
-
         for (int i = 0; i < n; i++) {
             if (v[i] == 0) {
-                presum--;
+                sum--;
             } else {
-                presum++;
+                sum++;
             }
-
-            if (presum == 0) {
-                maxlen = i + 1;
-            } else if (mp.find(presum) != mp.end()) {
-                maxlen = max(maxlen, i - mp[presum]);
+            if (sum == 0) {
+                maxLen = i + 1;
+            }
+            if (mp.find(sum) != mp.end()) {
+                maxLen = max(maxLen, i - mp[sum]);
             } else {
-                mp[presum] = i;
+                mp[sum] = i;
             }
         }
-        return maxlen;
+        return maxLen;
     }
 };
