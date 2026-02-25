@@ -6,19 +6,9 @@ public:
         int maxLen = 0;
         unordered_map<int, int> mp;
         for (int i = 0; i < n; i++) {
-            if (v[i] == 0) {
-                sum--;
-            } else {
-                sum++;
-            }
-            if (sum == 0) {
-                maxLen = i + 1;
-            }
-            if (mp.find(sum) != mp.end()) {
-                maxLen = max(maxLen, i - mp[sum]);
-            } else {
-                mp[sum] = i;
-            }
+            !v[i] ? sum++ : sum--;
+            maxLen = !sum ? i + 1 : maxLen;
+            (mp.find(sum) != mp.end()) ? maxLen = max(maxLen, i - mp[sum]) : mp[sum] = i;
         }
         return maxLen;
     }
