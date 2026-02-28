@@ -726,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1642-water-bottles) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1674-minimum-operations-to-make-array-equal) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-print-words-vertically](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1449-print-words-vertically) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1803-average-waiting-time](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -1577,6 +1579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1418-fair-distribution-of-cookies](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1418-fair-distribution-of-cookies) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2400-minimum-score-after-removals-on-a-tree) |
