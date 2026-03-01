@@ -1,16 +1,10 @@
 class Solution {
 public:
     string trimTrailingVowels(string s) {
-        int lastConsIdx = -1;
-        for (int i = 0; i < s.size(); i++) {
-            if (s[i] != 'a' && s[i] != 'e' && s[i] != 'i' && s[i] != 'o' &&
-                s[i] != 'u') {
-                lastConsIdx = i;
-            }
-        }
-        if (lastConsIdx == -1) {
+        size_t pos = s.find_last_not_of("aeiou");
+        if (pos == string::npos) {
             return "";
-        }
-        return s.substr(0, lastConsIdx + 1);
+        }  
+        return s.substr(0, pos + 1);
     }
 };
