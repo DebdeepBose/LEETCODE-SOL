@@ -989,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1651-shuffle-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1657-determine-if-two-strings-are-close) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1702-maximum-binary-string-after-change](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1702-maximum-binary-string-after-change) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1123,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1702-maximum-binary-string-after-change](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1702-maximum-binary-string-after-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1710-maximum-units-on-a-truck) |
