@@ -13,7 +13,7 @@ private:
 public:
     char findKthBit(int n, int k) {
         string s = "0";
-        while (s.size() <= k) {
+        while (s.size() < k) {
             build(s);
         }
         return s[k - 1];
