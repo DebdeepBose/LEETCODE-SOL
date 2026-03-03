@@ -919,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0299-bulls-and-cows) |
+| [0306-additive-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0383-ransom-note) |
@@ -2509,6 +2510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0679-24-game) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1030-smallest-string-starting-from-leaf) |
