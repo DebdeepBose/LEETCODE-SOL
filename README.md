@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3483-alternating-groups-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -1172,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -1298,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3433-count-mentions-per-user](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3433-count-mentions-per-user) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -2075,6 +2078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2931-maximum-spending-after-buying-items](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2931-maximum-spending-after-buying-items) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -2165,6 +2169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3748-sort-matrix-by-diagonals) |
