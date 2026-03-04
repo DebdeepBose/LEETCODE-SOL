@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1580-shuffle-the-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1590-make-sum-divisible-by-p) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -2140,6 +2141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1628-count-submatrices-with-all-ones) |
 | [1861-rotating-the-box](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1861-rotating-the-box) |
 | [1895-largest-magic-square](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1895-largest-magic-square) |
