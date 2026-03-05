@@ -5,12 +5,7 @@ public:
         int o = 0;
         int n = s.size();
         for (int i = 0; i < n; i++) {
-            if (s[i] % 2 != i % 2) {
-                e++;
-            }
-            if (s[i] % 2 == i % 2) {
-                o++;
-            }
+            s[i] % 2 == i % 2 ? o++ : e++;
         }
         return min(e, o);
     }
