@@ -1003,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1764-maximum-repeating-substring](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1764-maximum-repeating-substring) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1796-second-largest-digit-in-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1890-sum-of-beauty-of-all-substrings) |
