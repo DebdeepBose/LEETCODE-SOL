@@ -12,11 +12,13 @@ public:
         if (s.size() == 2) {
             return -1;
         }
-        auto mini = min_element(s.begin() + 1, s.end() - 1);
-        auto maxi = max_element(s.begin() + 1, s.end() - 1);
-        if (s.back() < *mini && s[0] > *maxi) {
+        char mini = *min_element(s.begin() + 1, s.end() - 1);
+        char maxi = *max_element(s.begin() + 1, s.end() - 1);
+
+        if (s.back() < mini && s[0] > maxi) {
             return 3;
         }
+
         return 2;
     }
 };
