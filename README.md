@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2023-design-movie-rental-system](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2023-design-movie-rental-system) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1980-find-unique-binary-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -1010,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1923-sentence-similarity-iii) |
+| [1980-find-unique-binary-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1980-find-unique-binary-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -2531,6 +2534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0679-24-game) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1418-fair-distribution-of-cookies](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1418-fair-distribution-of-cookies) |
+| [1980-find-unique-binary-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1980-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2174-next-greater-numerically-balanced-number) |
