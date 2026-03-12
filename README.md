@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2358-number-of-ways-to-split-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2358-number-of-ways-to-split-array) |
 | [2360-substring-with-largest-variance](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2360-substring-with-largest-variance) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2300-construct-string-with-repeat-limit) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2402-meeting-rooms-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2402-meeting-rooms-iii) |
 | [2413-smallest-number-in-infinite-set](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2429-design-a-food-rating-system) |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2402-meeting-rooms-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2470-removing-stars-from-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2470-removing-stars-from-a-string) |
@@ -1154,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2300-construct-string-with-repeat-limit) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -1271,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2402-meeting-rooms-iii) |
@@ -2077,6 +2082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2300-construct-string-with-repeat-limit) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2402-meeting-rooms-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2402-meeting-rooms-iii) |
 | [2413-smallest-number-in-infinite-set](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2429-design-a-food-rating-system) |
