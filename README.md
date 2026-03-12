@@ -1043,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-count-anagrams](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2605-count-anagrams) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2800-shortest-string-that-contains-three-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [2886-faulty-keyboard](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -1174,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2800-shortest-string-that-contains-three-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [2850-construct-the-longest-new-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2850-construct-the-longest-new-string) |
 | [2931-maximum-spending-after-buying-items](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2931-maximum-spending-after-buying-items) |
 | [3001-apply-operations-to-maximize-score](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1886,6 +1888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2800-shortest-string-that-contains-three-strings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2873-prime-pairs-with-target-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2873-prime-pairs-with-target-sum) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
