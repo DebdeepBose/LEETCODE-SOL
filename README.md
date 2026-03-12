@@ -1184,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -1561,6 +1562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3427-special-array-ii) |
 | [3454-separate-squares-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3454-separate-squares-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -2707,8 +2709,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
 | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
