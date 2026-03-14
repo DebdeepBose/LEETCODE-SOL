@@ -989,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1449-print-words-vertically](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1449-print-words-vertically) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -2550,6 +2551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0679-24-game) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1418-fair-distribution-of-cookies](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1418-fair-distribution-of-cookies) |
 | [1980-find-unique-binary-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1980-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2140-longest-subsequence-repeated-k-times) |
