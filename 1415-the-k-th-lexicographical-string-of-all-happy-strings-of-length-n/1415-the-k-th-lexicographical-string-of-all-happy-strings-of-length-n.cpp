@@ -17,7 +17,7 @@ private:
             ch = c[i];
 
             s += c[i];
-            bktrk(ch, s, c, 0, store, n);   
+            bktrk(ch, s, c, 0, store, n);  
             s.pop_back();
 
             ch = prev;
@@ -28,16 +28,27 @@ private:
 
 public:
     string getHappyString(int n, int k) {
+
         long long totalStrings = 3 * pow(2, n - 1);
         if (k > totalStrings) {
             return "";
         }
 
-        string s = "";
-        vector<string> store;
         vector<char> c = {'a', 'b', 'c'};
+        vector<string> store;
+        string s = "";
 
-        bktrk('z', s, c, 0, store, n);  
+        long long block = pow(2, n - 1);
+        char start = 'a';
+
+        while (k > block) {
+            k -= block;
+            start++;
+        }
+
+        s += start;
+
+        bktrk(start, s, c, 0, store, n);
 
         return store[k - 1];
     }
