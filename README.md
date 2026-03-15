@@ -732,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1585-the-kth-factor-of-n](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1585-the-kth-factor-of-n) |
+| [1622-fancy-sequence](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1642-water-bottles) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1674-minimum-operations-to-make-array-equal) |
@@ -2048,6 +2049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0304-range-sum-query-2d-immutable) |
+| [1622-fancy-sequence](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2169-simple-bank-system) |
@@ -2622,6 +2624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/0493-reverse-pairs) |
+| [1622-fancy-sequence](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3721-longest-balanced-subarray-ii) |
