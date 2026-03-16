@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-largest-magic-square](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1917-maximum-average-pass-ratio) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-operations-to-make-array-equal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1925-count-square-sum-triples](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1925-count-square-sum-triples) |
@@ -1276,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1829-maximum-units-on-a-truck) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2054-two-best-non-overlapping-events](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2054-two-best-non-overlapping-events) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -1725,6 +1728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1590-make-sum-divisible-by-p) |
 | [1694-make-sum-divisible-by-p](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1694-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1895-largest-magic-square) |
 | [2102-find-the-middle-index-in-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2102-find-the-middle-index-in-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -2086,6 +2090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1612-avoid-flood-in-the-city) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2054-two-best-non-overlapping-events) |
@@ -2179,6 +2184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1628-count-submatrices-with-all-ones) |
 | [1861-rotating-the-box](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1861-rotating-the-box) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/1975-maximum-matrix-sum) |
