@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3640-trionic-array-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -1444,6 +1445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3195-separate-black-and-white-balls](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3195-separate-black-and-white-balls) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Counting
 |  |
@@ -2215,6 +2217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3643-flip-square-submatrix-vertically](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3748-sort-matrix-by-diagonals) |
