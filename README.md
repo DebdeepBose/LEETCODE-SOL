@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2906-construct-product-matrix) |
 | [2931-maximum-spending-after-buying-items](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2931-maximum-spending-after-buying-items) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3001-apply-operations-to-maximize-score) |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2850-construct-the-longest-new-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2850-construct-the-longest-new-string) |
 | [2873-prime-pairs-with-target-sum](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3001-apply-operations-to-maximize-score](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3001-apply-operations-to-maximize-score) |
 | [3024-type-of-triangle](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3024-type-of-triangle) |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2886-faulty-keyboard) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3433-count-mentions-per-user](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3433-count-mentions-per-user) |
@@ -2224,6 +2227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2906-construct-product-matrix) |
 | [2931-maximum-spending-after-buying-items](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2931-maximum-spending-after-buying-items) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3227-find-missing-and-repeated-values) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
