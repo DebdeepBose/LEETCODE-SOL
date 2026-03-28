@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2647-split-the-array-to-make-coprime-products](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2664-maximize-greatness-of-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2664-maximize-greatness-of-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2679-sum-in-a-matrix) |
 | [2681-put-marbles-in-bags](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2689-rearranging-fruits) |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2479-meeting-rooms-iii) |
 | [2562-find-the-array-concatenation-value](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2562-find-the-array-concatenation-value) |
+| [2679-sum-in-a-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2679-sum-in-a-matrix) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -1319,6 +1321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2611-mice-and-cheese](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2611-mice-and-cheese) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2664-maximize-greatness-of-an-array](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2664-maximize-greatness-of-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2679-sum-in-a-matrix) |
 | [2681-put-marbles-in-bags](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -2132,6 +2135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-next-greater-element-iv](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2549-next-greater-element-iv) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2611-mice-and-cheese](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2611-mice-and-cheese) |
+| [2679-sum-in-a-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2679-sum-in-a-matrix) |
 | [2681-put-marbles-in-bags](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -2227,6 +2231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-prime-in-diagonal](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2614-prime-in-diagonal) |
 | [2625-increment-submatrices-by-one](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2625-increment-submatrices-by-one) |
+| [2679-sum-in-a-matrix](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2679-sum-in-a-matrix) |
 | [2685-first-completely-painted-row-or-column](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DebdeepBose/LEETCODE-SOL/tree/master/2764-maximum-number-of-fish-in-a-grid) |
